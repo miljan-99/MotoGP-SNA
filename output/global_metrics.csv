@@ -1,0 +1,13 @@
+mreza,n,m,gustina,prosj_stepen,prosj_klaster,komponente,najveca_komp,prosj_put,dijametar
+co_participation,849,19024,0.0528,44.82,0.747,1,849,2.978,7
+co_participation_RANDOM,849,19024,0.0528,44.82,0.0533,1,849,2.036,3
+rivalry_gap2,825,7446,0.0219,18.05,0.572,1,825,3.87,10
+rivalry_gap2_RANDOM,825,7446,0.0219,18.05,0.0218,1,825,2.642,4
+rivalry_time2s,633,6946,0.0347,21.95,0.6686,6,614,3.519,10
+rivalry_time2s_RANDOM,633,6946,0.0347,21.95,0.0346,1,633,2.416,4
+teammates,132,257,0.0297,3.89,0.128,3,128,3.702,8
+teammates_RANDOM,132,257,0.0297,3.89,0.0273,1,132,3.772,9
+brandmates,824,11887,0.0351,28.85,0.7006,6,812,3.36,10
+brandmates_RANDOM,824,11887,0.0351,28.85,0.0354,1,824,2.317,3
+constructor_transfers,95,357,0.08,7.52,0.6149,11,82,2.204,4
+constructor_transfers_RANDOM,95,357,0.08,7.52,0.0666,1,95,2.467,5

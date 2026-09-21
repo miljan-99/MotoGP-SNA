@@ -1,0 +1,1491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-05">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="rivalry_gap2_1949-1959">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="races" type="long" />
+      <attribute id="1" title="first_year" type="long" />
+      <attribute id="2" title="last_year" type="long" />
+      <attribute id="3" title="points" type="double" />
+      <attribute id="4" title="wins" type="long" />
+      <attribute id="5" title="country" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Harold Daniell" label="Harold Daniell">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="John Lockett" label="John Lockett">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Ernie Lyons" label="Ernie Lyons">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1949" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="Artie Bell" label="Artie Bell">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="12.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="Sid Jensen" label="Sid Jensen">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NZ" />
+        </attvalues>
+      </node>
+      <node id="Fred Stevens" label="Fred Stevens">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1949" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Leslie Graham" label="Leslie Graham">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1952" />
+          <attvalue for="3" value="11.0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Arciso Artesiani" label="Arciso Artesiani">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="8.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Nello Pagani" label="Nello Pagani">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="13.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Freddie Frith" label="Freddie Frith">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1949" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Guido Leoni" label="Guido Leoni">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1949" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="William Doran" label="William Doran">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1953" />
+          <attvalue for="3" value="18.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Jock West" label="Jock West">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Cromie Mccandless" label="Cromie Mccandless">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1952" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="Enrico Lorenzetti" label="Enrico Lorenzetti">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="7.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Gianni Leoni" label="Gianni Leoni">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1949" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Bruno Bertacchini" label="Bruno Bertacchini">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1949" />
+          <attvalue for="2" value="1949" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Umberto Masetti" label="Umberto Masetti">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1958" />
+          <attvalue for="3" value="28.0" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="E. Frend" label="E. Frend">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Carlo Bandirola" label="Carlo Bandirola">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1958" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Eric Hinton" label="Eric Hinton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Geoff Duke" label="Geoff Duke">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="87.0" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Keith Armstrong" label="Keith Armstrong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Reg Armstrong" label="Reg Armstrong">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="42.0" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="Harry Hinton" label="Harry Hinton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Eric Mcpherson" label="Eric Mcpherson">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1950" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Dickie Dale" label="Dickie Dale">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="17.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Alfredo Milani" label="Alfredo Milani">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="1950" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="19.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Tommy Wood" label="Tommy Wood">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Roger Montane" label="Roger Montane">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Ernesto Vidal" label="Ernesto Vidal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Fergus Anderson" label="Fergus Anderson">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Benoit Musy" label="Benoit Musy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="CH" />
+        </attvalues>
+      </node>
+      <node id="Willy Lips" label="Willy Lips">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="CH" />
+        </attvalues>
+      </node>
+      <node id="Jack Brett" label="Jack Brett">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="17.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="V. Perry" label="V. Perry">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NZ" />
+        </attvalues>
+      </node>
+      <node id="Cromie McCandless" label="Cromie McCandless">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="4.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="Phillip McCallen" label="Phillip McCallen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Manliefe Barrington" label="Manliefe Barrington">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="A. Parry" label="A. Parry">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Ken Kavanagh" label="Ken Kavanagh">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="34.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Bruno Ruffo" label="Bruno Ruffo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1951" />
+          <attvalue for="2" value="1951" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Rod Coleman" label="Rod Coleman">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NZ" />
+        </attvalues>
+      </node>
+      <node id="Ray Amm" label="Ray Amm">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="22.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="RH" />
+        </attvalues>
+      </node>
+      <node id="Bill Lomas" label="Bill Lomas">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="8.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Phil Carter" label="Phil Carter">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1952" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="John Surtees" label="John Surtees">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="40.0" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Giuseppe Colnago" label="Giuseppe Colnago">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Sid Lawton" label="Sid Lawton">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1952" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Auguste Goffin" label="Auguste Goffin">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="BE" />
+        </attvalues>
+      </node>
+      <node id="Hans Baltisberger" label="Hans Baltisberger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1952" />
+          <attvalue for="2" value="1952" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Peter Davey" label="Peter Davey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="1953" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Derek Farrant" label="Derek Farrant">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Ken Mudford" label="Ken Mudford">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="1953" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NZ" />
+        </attvalues>
+      </node>
+      <node id="Libero Liberati" label="Libero Liberati">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="12.0" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Cecyl Sandford" label="Cecyl Sandford">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="1953" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Hermann Paul Müller" label="Hermann Paul Müller">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1953" />
+          <attvalue for="2" value="1953" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Pierre Monneret" label="Pierre Monneret">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Jaques Collot" label="Jaques Collot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Luigi Taveri" label="Luigi Taveri">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="CH" />
+        </attvalues>
+      </node>
+      <node id="Bob Matthews" label="Bob Matthews">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="G. Julian" label="G. Julian">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Rudy Allison" label="Rudy Allison">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ZA" />
+        </attvalues>
+      </node>
+      <node id="Máté Laczko" label="Máté Laczko">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1954" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="HU" />
+        </attvalues>
+      </node>
+      <node id="Leon Martin" label="Leon Martin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="BE" />
+        </attvalues>
+      </node>
+      <node id="Bob Mcintyre" label="Bob Mcintyre">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Keith Campbell" label="Keith Campbell">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1958" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="George Murphy" label="George Murphy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NZ" />
+        </attvalues>
+      </node>
+      <node id="John Clark" label="John Clark">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1954" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Orlando Valdinoci" label="Orlando Valdinoci">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Tino Forconi" label="Tino Forconi">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Walter Zeller" label="Walter Zeller">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Jack Ahearn" label="Jack Ahearn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Firmin Dauwe" label="Firmin Dauwe">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="BE" />
+        </attvalues>
+      </node>
+      <node id="Duilio Agostini" label="Duilio Agostini">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="John Storr" label="John Storr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Derek Ennett" label="Derek Ennett">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Ernst Riedelbauch" label="Ernst Riedelbauch">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Dreikus Veer" label="Dreikus Veer">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1955" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NL" />
+        </attvalues>
+      </node>
+      <node id="Bob Brown" label="Bob Brown">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="13.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Eddie Grant" label="Eddie Grant">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ZA" />
+        </attvalues>
+      </node>
+      <node id="John Hartle" label="John Hartle">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="1955" />
+          <attvalue for="2" value="1958" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Keith Bryen" label="Keith Bryen">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="4.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="P.B. Fahey" label="P.B. Fahey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NZ" />
+        </attvalues>
+      </node>
+      <node id="Ernst Hiller" label="Ernst Hiller">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="1958" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Geoffrey Tanner" label="Geoffrey Tanner">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="R.W. Herron" label="R.W. Herron">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="1956" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Terry Shepherd" label="Terry Shepherd">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="1957" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Alan Trow" label="Alan Trow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1957" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Derek Minter" label="Derek Minter">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="1957" />
+          <attvalue for="2" value="1958" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Mike O'rourke" label="Mike O'rourke">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1957" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="Hans Gunter Jaeger" label="Hans Gunter Jaeger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1957" />
+          <attvalue for="2" value="1957" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Gary Hocking" label="Gary Hocking">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="1958" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="7.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="RH" />
+        </attvalues>
+      </node>
+      <node id="Bob Anderson" label="Bob Anderson">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1958" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Dave Chadwick" label="Dave Chadwick">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1958" />
+          <attvalue for="2" value="1958" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="J.D. Anderson" label="J.D. Anderson">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1958" />
+          <attvalue for="2" value="1958" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NZ" />
+        </attvalues>
+      </node>
+      <node id="Remo Venturi" label="Remo Venturi">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="1958" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Alistair King" label="Alistair King">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="D.T. Powell" label="D.T. Powell">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Paddy Driver" label="Paddy Driver">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ZA" />
+        </attvalues>
+      </node>
+      <node id="John Hempleman" label="John Hempleman">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NZ" />
+        </attvalues>
+      </node>
+      <node id="A. Huber" label="A. Huber">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Jim Redman" label="Jim Redman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="RH" />
+        </attvalues>
+      </node>
+      <node id="Ron Miles" label="Ron Miles">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1959" />
+          <attvalue for="2" value="1959" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Harold Daniell" target="John Lockett" id="0" weight="4" />
+      <edge source="Harold Daniell" target="Ernie Lyons" id="1" weight="1" />
+      <edge source="Harold Daniell" target="Leslie Graham" id="2" weight="1" />
+      <edge source="Harold Daniell" target="Arciso Artesiani" id="3" weight="1" />
+      <edge source="Harold Daniell" target="Nello Pagani" id="4" weight="1" />
+      <edge source="Harold Daniell" target="Freddie Frith" id="5" weight="1" />
+      <edge source="Harold Daniell" target="Artie Bell" id="6" weight="2" />
+      <edge source="Harold Daniell" target="Keith Armstrong" id="7" weight="1" />
+      <edge source="Harold Daniell" target="Reg Armstrong" id="8" weight="1" />
+      <edge source="Harold Daniell" target="Carlo Bandirola" id="9" weight="1" />
+      <edge source="Harold Daniell" target="Geoff Duke" id="10" weight="1" />
+      <edge source="John Lockett" target="Ernie Lyons" id="11" weight="1" />
+      <edge source="John Lockett" target="Artie Bell" id="12" weight="3" />
+      <edge source="John Lockett" target="Arciso Artesiani" id="13" weight="1" />
+      <edge source="John Lockett" target="Geoff Duke" id="14" weight="3" />
+      <edge source="John Lockett" target="Keith Armstrong" id="15" weight="1" />
+      <edge source="John Lockett" target="Leslie Graham" id="16" weight="1" />
+      <edge source="John Lockett" target="Dickie Dale" id="17" weight="1" />
+      <edge source="John Lockett" target="Jock West" id="18" weight="1" />
+      <edge source="John Lockett" target="Alfredo Milani" id="19" weight="3" />
+      <edge source="John Lockett" target="Enrico Lorenzetti" id="20" weight="1" />
+      <edge source="John Lockett" target="Jack Brett" id="21" weight="1" />
+      <edge source="John Lockett" target="V. Perry" id="22" weight="1" />
+      <edge source="John Lockett" target="Umberto Masetti" id="23" weight="2" />
+      <edge source="John Lockett" target="William Doran" id="24" weight="2" />
+      <edge source="Ernie Lyons" target="Artie Bell" id="25" weight="1" />
+      <edge source="Ernie Lyons" target="Sid Jensen" id="26" weight="1" />
+      <edge source="Artie Bell" target="Sid Jensen" id="27" weight="1" />
+      <edge source="Artie Bell" target="Fred Stevens" id="28" weight="1" />
+      <edge source="Artie Bell" target="Leslie Graham" id="29" weight="2" />
+      <edge source="Artie Bell" target="Arciso Artesiani" id="30" weight="2" />
+      <edge source="Artie Bell" target="Nello Pagani" id="31" weight="2" />
+      <edge source="Artie Bell" target="William Doran" id="32" weight="1" />
+      <edge source="Artie Bell" target="Enrico Lorenzetti" id="33" weight="1" />
+      <edge source="Artie Bell" target="Guido Leoni" id="34" weight="1" />
+      <edge source="Artie Bell" target="Geoff Duke" id="35" weight="1" />
+      <edge source="Sid Jensen" target="Fred Stevens" id="36" weight="1" />
+      <edge source="Sid Jensen" target="Carlo Bandirola" id="37" weight="1" />
+      <edge source="Sid Jensen" target="Eric Mcpherson" id="38" weight="1" />
+      <edge source="Leslie Graham" target="Arciso Artesiani" id="39" weight="2" />
+      <edge source="Leslie Graham" target="Nello Pagani" id="40" weight="3" />
+      <edge source="Leslie Graham" target="Gianni Leoni" id="41" weight="1" />
+      <edge source="Leslie Graham" target="Bruno Bertacchini" id="42" weight="1" />
+      <edge source="Leslie Graham" target="Umberto Masetti" id="43" weight="4" />
+      <edge source="Leslie Graham" target="Carlo Bandirola" id="44" weight="1" />
+      <edge source="Leslie Graham" target="Geoff Duke" id="45" weight="1" />
+      <edge source="Leslie Graham" target="Dickie Dale" id="46" weight="1" />
+      <edge source="Leslie Graham" target="Reg Armstrong" id="47" weight="1" />
+      <edge source="Leslie Graham" target="Ray Amm" id="48" weight="1" />
+      <edge source="Leslie Graham" target="Rod Coleman" id="49" weight="1" />
+      <edge source="Leslie Graham" target="Ken Kavanagh" id="50" weight="3" />
+      <edge source="Leslie Graham" target="Sid Lawton" id="51" weight="1" />
+      <edge source="Leslie Graham" target="Auguste Goffin" id="52" weight="1" />
+      <edge source="Leslie Graham" target="Hans Baltisberger" id="53" weight="1" />
+      <edge source="Arciso Artesiani" target="Nello Pagani" id="54" weight="3" />
+      <edge source="Arciso Artesiani" target="William Doran" id="55" weight="2" />
+      <edge source="Arciso Artesiani" target="Enrico Lorenzetti" id="56" weight="1" />
+      <edge source="Arciso Artesiani" target="Gianni Leoni" id="57" weight="1" />
+      <edge source="Arciso Artesiani" target="E. Frend" id="58" weight="1" />
+      <edge source="Arciso Artesiani" target="Carlo Bandirola" id="59" weight="3" />
+      <edge source="Arciso Artesiani" target="Eric Hinton" id="60" weight="1" />
+      <edge source="Arciso Artesiani" target="Geoff Duke" id="61" weight="1" />
+      <edge source="Arciso Artesiani" target="Umberto Masetti" id="62" weight="2" />
+      <edge source="Arciso Artesiani" target="Alfredo Milani" id="63" weight="1" />
+      <edge source="Arciso Artesiani" target="Tommy Wood" id="64" weight="1" />
+      <edge source="Arciso Artesiani" target="Roger Montane" id="65" weight="1" />
+      <edge source="Nello Pagani" target="Freddie Frith" id="66" weight="1" />
+      <edge source="Nello Pagani" target="Guido Leoni" id="67" weight="2" />
+      <edge source="Nello Pagani" target="William Doran" id="68" weight="3" />
+      <edge source="Nello Pagani" target="Jock West" id="69" weight="1" />
+      <edge source="Nello Pagani" target="Enrico Lorenzetti" id="70" weight="1" />
+      <edge source="Nello Pagani" target="Umberto Masetti" id="71" weight="7" />
+      <edge source="Nello Pagani" target="E. Frend" id="72" weight="1" />
+      <edge source="Nello Pagani" target="Carlo Bandirola" id="73" weight="4" />
+      <edge source="Nello Pagani" target="Harry Hinton" id="74" weight="1" />
+      <edge source="Nello Pagani" target="Alfredo Milani" id="75" weight="1" />
+      <edge source="Nello Pagani" target="Geoff Duke" id="76" weight="1" />
+      <edge source="Nello Pagani" target="Bruno Ruffo" id="77" weight="1" />
+      <edge source="Nello Pagani" target="Rod Coleman" id="78" weight="2" />
+      <edge source="Nello Pagani" target="Ray Amm" id="79" weight="1" />
+      <edge source="Nello Pagani" target="Giuseppe Colnago" id="80" weight="2" />
+      <edge source="Nello Pagani" target="Jack Brett" id="81" weight="1" />
+      <edge source="Nello Pagani" target="Ken Kavanagh" id="82" weight="3" />
+      <edge source="Nello Pagani" target="Reg Armstrong" id="83" weight="2" />
+      <edge source="Nello Pagani" target="Sid Lawton" id="84" weight="2" />
+      <edge source="Nello Pagani" target="Dickie Dale" id="85" weight="2" />
+      <edge source="Nello Pagani" target="Tommy Wood" id="86" weight="2" />
+      <edge source="Nello Pagani" target="Auguste Goffin" id="87" weight="1" />
+      <edge source="Nello Pagani" target="Orlando Valdinoci" id="88" weight="1" />
+      <edge source="Nello Pagani" target="Tino Forconi" id="89" weight="1" />
+      <edge source="Freddie Frith" target="Guido Leoni" id="90" weight="1" />
+      <edge source="William Doran" target="Jock West" id="91" weight="1" />
+      <edge source="William Doran" target="Cromie Mccandless" id="92" weight="1" />
+      <edge source="William Doran" target="Enrico Lorenzetti" id="93" weight="1" />
+      <edge source="William Doran" target="Gianni Leoni" id="94" weight="1" />
+      <edge source="William Doran" target="Bruno Bertacchini" id="95" weight="1" />
+      <edge source="William Doran" target="Geoff Duke" id="96" weight="2" />
+      <edge source="William Doran" target="Cromie McCandless" id="97" weight="1" />
+      <edge source="William Doran" target="Phillip McCallen" id="98" weight="1" />
+      <edge source="William Doran" target="Alfredo Milani" id="99" weight="2" />
+      <edge source="William Doran" target="Bruno Ruffo" id="100" weight="1" />
+      <edge source="William Doran" target="Jack Brett" id="101" weight="2" />
+      <edge source="William Doran" target="Carlo Bandirola" id="102" weight="1" />
+      <edge source="William Doran" target="Reg Armstrong" id="103" weight="1" />
+      <edge source="William Doran" target="Rod Coleman" id="104" weight="1" />
+      <edge source="William Doran" target="Peter Davey" id="105" weight="1" />
+      <edge source="William Doran" target="Giuseppe Colnago" id="106" weight="1" />
+      <edge source="Jock West" target="Cromie Mccandless" id="107" weight="1" />
+      <edge source="Jock West" target="Dickie Dale" id="108" weight="1" />
+      <edge source="Jock West" target="Umberto Masetti" id="109" weight="1" />
+      <edge source="Cromie Mccandless" target="Rod Coleman" id="110" weight="2" />
+      <edge source="Cromie Mccandless" target="Bill Lomas" id="111" weight="2" />
+      <edge source="Enrico Lorenzetti" target="Fergus Anderson" id="112" weight="1" />
+      <edge source="Enrico Lorenzetti" target="Reg Armstrong" id="113" weight="1" />
+      <edge source="Enrico Lorenzetti" target="Carlo Bandirola" id="114" weight="1" />
+      <edge source="Enrico Lorenzetti" target="Benoit Musy" id="115" weight="1" />
+      <edge source="Enrico Lorenzetti" target="Geoff Duke" id="116" weight="1" />
+      <edge source="Enrico Lorenzetti" target="Alfredo Milani" id="117" weight="1" />
+      <edge source="Enrico Lorenzetti" target="Jack Brett" id="118" weight="1" />
+      <edge source="Gianni Leoni" target="Bruno Bertacchini" id="119" weight="1" />
+      <edge source="Umberto Masetti" target="E. Frend" id="120" weight="1" />
+      <edge source="Umberto Masetti" target="Harry Hinton" id="121" weight="1" />
+      <edge source="Umberto Masetti" target="Carlo Bandirola" id="122" weight="6" />
+      <edge source="Umberto Masetti" target="Geoff Duke" id="123" weight="9" />
+      <edge source="Umberto Masetti" target="Dickie Dale" id="124" weight="3" />
+      <edge source="Umberto Masetti" target="Alfredo Milani" id="125" weight="6" />
+      <edge source="Umberto Masetti" target="Tommy Wood" id="126" weight="1" />
+      <edge source="Umberto Masetti" target="Ken Kavanagh" id="127" weight="4" />
+      <edge source="Umberto Masetti" target="Ray Amm" id="128" weight="1" />
+      <edge source="Umberto Masetti" target="Reg Armstrong" id="129" weight="3" />
+      <edge source="Umberto Masetti" target="Orlando Valdinoci" id="130" weight="1" />
+      <edge source="Umberto Masetti" target="Walter Zeller" id="131" weight="2" />
+      <edge source="Umberto Masetti" target="Giuseppe Colnago" id="132" weight="1" />
+      <edge source="Umberto Masetti" target="Jack Ahearn" id="133" weight="1" />
+      <edge source="Umberto Masetti" target="Dreikus Veer" id="134" weight="1" />
+      <edge source="Umberto Masetti" target="Bob Brown" id="135" weight="1" />
+      <edge source="Umberto Masetti" target="Pierre Monneret" id="136" weight="1" />
+      <edge source="Umberto Masetti" target="Auguste Goffin" id="137" weight="1" />
+      <edge source="Umberto Masetti" target="John Surtees" id="138" weight="2" />
+      <edge source="Umberto Masetti" target="Terry Shepherd" id="139" weight="1" />
+      <edge source="Umberto Masetti" target="Remo Venturi" id="140" weight="1" />
+      <edge source="E. Frend" target="Carlo Bandirola" id="141" weight="1" />
+      <edge source="Carlo Bandirola" target="Eric Hinton" id="142" weight="1" />
+      <edge source="Carlo Bandirola" target="Harry Hinton" id="143" weight="1" />
+      <edge source="Carlo Bandirola" target="Eric Mcpherson" id="144" weight="1" />
+      <edge source="Carlo Bandirola" target="Geoff Duke" id="145" weight="4" />
+      <edge source="Carlo Bandirola" target="Alfredo Milani" id="146" weight="1" />
+      <edge source="Carlo Bandirola" target="Dickie Dale" id="147" weight="5" />
+      <edge source="Carlo Bandirola" target="Roger Montane" id="148" weight="1" />
+      <edge source="Carlo Bandirola" target="Ernesto Vidal" id="149" weight="1" />
+      <edge source="Carlo Bandirola" target="Reg Armstrong" id="150" weight="5" />
+      <edge source="Carlo Bandirola" target="Benoit Musy" id="151" weight="1" />
+      <edge source="Carlo Bandirola" target="Willy Lips" id="152" weight="1" />
+      <edge source="Carlo Bandirola" target="Jack Brett" id="153" weight="1" />
+      <edge source="Carlo Bandirola" target="Rod Coleman" id="154" weight="2" />
+      <edge source="Carlo Bandirola" target="Giuseppe Colnago" id="155" weight="3" />
+      <edge source="Carlo Bandirola" target="Fergus Anderson" id="156" weight="2" />
+      <edge source="Carlo Bandirola" target="Orlando Valdinoci" id="157" weight="1" />
+      <edge source="Carlo Bandirola" target="Walter Zeller" id="158" weight="2" />
+      <edge source="Carlo Bandirola" target="Pierre Monneret" id="159" weight="1" />
+      <edge source="Carlo Bandirola" target="Dave Chadwick" id="160" weight="1" />
+      <edge source="Geoff Duke" target="Alfredo Milani" id="161" weight="4" />
+      <edge source="Geoff Duke" target="Cromie McCandless" id="162" weight="1" />
+      <edge source="Geoff Duke" target="Ken Kavanagh" id="163" weight="7" />
+      <edge source="Geoff Duke" target="Bruno Ruffo" id="164" weight="1" />
+      <edge source="Geoff Duke" target="Ray Amm" id="165" weight="4" />
+      <edge source="Geoff Duke" target="Jack Brett" id="166" weight="4" />
+      <edge source="Geoff Duke" target="Reg Armstrong" id="167" weight="11" />
+      <edge source="Geoff Duke" target="Dickie Dale" id="168" weight="5" />
+      <edge source="Geoff Duke" target="Libero Liberati" id="169" weight="5" />
+      <edge source="Geoff Duke" target="Leon Martin" id="170" weight="1" />
+      <edge source="Geoff Duke" target="Fergus Anderson" id="171" weight="1" />
+      <edge source="Geoff Duke" target="Walter Zeller" id="172" weight="1" />
+      <edge source="Geoff Duke" target="Giuseppe Colnago" id="173" weight="1" />
+      <edge source="Geoff Duke" target="Pierre Monneret" id="174" weight="1" />
+      <edge source="Geoff Duke" target="Bob Mcintyre" id="175" weight="2" />
+      <edge source="Geoff Duke" target="Geoffrey Tanner" id="176" weight="1" />
+      <edge source="Geoff Duke" target="Keith Bryen" id="177" weight="1" />
+      <edge source="Geoff Duke" target="John Surtees" id="178" weight="4" />
+      <edge source="Geoff Duke" target="Keith Campbell" id="179" weight="1" />
+      <edge source="Geoff Duke" target="John Hartle" id="180" weight="2" />
+      <edge source="Geoff Duke" target="Bob Anderson" id="181" weight="1" />
+      <edge source="Geoff Duke" target="Terry Shepherd" id="182" weight="3" />
+      <edge source="Geoff Duke" target="Derek Minter" id="183" weight="1" />
+      <edge source="Geoff Duke" target="Gary Hocking" id="184" weight="1" />
+      <edge source="Geoff Duke" target="Bob Brown" id="185" weight="3" />
+      <edge source="Geoff Duke" target="Remo Venturi" id="186" weight="2" />
+      <edge source="Geoff Duke" target="John Hempleman" id="187" weight="1" />
+      <edge source="Keith Armstrong" target="Reg Armstrong" id="188" weight="1" />
+      <edge source="Reg Armstrong" target="Fergus Anderson" id="189" weight="2" />
+      <edge source="Reg Armstrong" target="Ray Amm" id="190" weight="5" />
+      <edge source="Reg Armstrong" target="Giuseppe Colnago" id="191" weight="4" />
+      <edge source="Reg Armstrong" target="Ken Kavanagh" id="192" weight="8" />
+      <edge source="Reg Armstrong" target="Sid Lawton" id="193" weight="3" />
+      <edge source="Reg Armstrong" target="Jack Brett" id="194" weight="6" />
+      <edge source="Reg Armstrong" target="Rod Coleman" id="195" weight="4" />
+      <edge source="Reg Armstrong" target="Derek Farrant" id="196" weight="2" />
+      <edge source="Reg Armstrong" target="Ken Mudford" id="197" weight="2" />
+      <edge source="Reg Armstrong" target="Alfredo Milani" id="198" weight="2" />
+      <edge source="Reg Armstrong" target="Dickie Dale" id="199" weight="2" />
+      <edge source="Reg Armstrong" target="Libero Liberati" id="200" weight="3" />
+      <edge source="Reg Armstrong" target="Cecyl Sandford" id="201" weight="1" />
+      <edge source="Reg Armstrong" target="Hermann Paul Müller" id="202" weight="1" />
+      <edge source="Reg Armstrong" target="Rudy Allison" id="203" weight="1" />
+      <edge source="Reg Armstrong" target="Máté Laczko" id="204" weight="1" />
+      <edge source="Reg Armstrong" target="Tino Forconi" id="205" weight="1" />
+      <edge source="Reg Armstrong" target="Jaques Collot" id="206" weight="1" />
+      <edge source="Reg Armstrong" target="Dreikus Veer" id="207" weight="1" />
+      <edge source="Reg Armstrong" target="Pierre Monneret" id="208" weight="1" />
+      <edge source="Reg Armstrong" target="Walter Zeller" id="209" weight="1" />
+      <edge source="Harry Hinton" target="Eric Mcpherson" id="210" weight="1" />
+      <edge source="Dickie Dale" target="Alfredo Milani" id="211" weight="1" />
+      <edge source="Dickie Dale" target="Ken Kavanagh" id="212" weight="3" />
+      <edge source="Dickie Dale" target="Rod Coleman" id="213" weight="2" />
+      <edge source="Dickie Dale" target="Libero Liberati" id="214" weight="1" />
+      <edge source="Dickie Dale" target="Fergus Anderson" id="215" weight="1" />
+      <edge source="Dickie Dale" target="Giuseppe Colnago" id="216" weight="1" />
+      <edge source="Dickie Dale" target="Bob Mcintyre" id="217" weight="3" />
+      <edge source="Dickie Dale" target="Bill Lomas" id="218" weight="1" />
+      <edge source="Dickie Dale" target="John Hartle" id="219" weight="2" />
+      <edge source="Dickie Dale" target="George Murphy" id="220" weight="1" />
+      <edge source="Dickie Dale" target="Walter Zeller" id="221" weight="1" />
+      <edge source="Dickie Dale" target="Terry Shepherd" id="222" weight="4" />
+      <edge source="Dickie Dale" target="Ernst Hiller" id="223" weight="2" />
+      <edge source="Dickie Dale" target="John Surtees" id="224" weight="1" />
+      <edge source="Dickie Dale" target="Bob Brown" id="225" weight="2" />
+      <edge source="Dickie Dale" target="Keith Campbell" id="226" weight="1" />
+      <edge source="Dickie Dale" target="Alan Trow" id="227" weight="1" />
+      <edge source="Dickie Dale" target="Derek Minter" id="228" weight="2" />
+      <edge source="Dickie Dale" target="Gary Hocking" id="229" weight="4" />
+      <edge source="Dickie Dale" target="Bob Anderson" id="230" weight="1" />
+      <edge source="Dickie Dale" target="Remo Venturi" id="231" weight="3" />
+      <edge source="Dickie Dale" target="Dave Chadwick" id="232" weight="1" />
+      <edge source="Dickie Dale" target="Paddy Driver" id="233" weight="1" />
+      <edge source="Dickie Dale" target="Jim Redman" id="234" weight="1" />
+      <edge source="Dickie Dale" target="Ron Miles" id="235" weight="1" />
+      <edge source="Alfredo Milani" target="Ken Kavanagh" id="236" weight="2" />
+      <edge source="Alfredo Milani" target="Ray Amm" id="237" weight="1" />
+      <edge source="Alfredo Milani" target="Giuseppe Colnago" id="238" weight="2" />
+      <edge source="Alfredo Milani" target="Pierre Monneret" id="239" weight="2" />
+      <edge source="Alfredo Milani" target="Jaques Collot" id="240" weight="1" />
+      <edge source="Alfredo Milani" target="Luigi Taveri" id="241" weight="1" />
+      <edge source="Alfredo Milani" target="Ernst Riedelbauch" id="242" weight="1" />
+      <edge source="Alfredo Milani" target="Auguste Goffin" id="243" weight="1" />
+      <edge source="Alfredo Milani" target="Libero Liberati" id="244" weight="1" />
+      <edge source="Alfredo Milani" target="John Surtees" id="245" weight="1" />
+      <edge source="Tommy Wood" target="Roger Montane" id="246" weight="1" />
+      <edge source="Tommy Wood" target="Giuseppe Colnago" id="247" weight="1" />
+      <edge source="Tommy Wood" target="Ken Kavanagh" id="248" weight="1" />
+      <edge source="Tommy Wood" target="Auguste Goffin" id="249" weight="1" />
+      <edge source="Tommy Wood" target="John Clark" id="250" weight="1" />
+      <edge source="Roger Montane" target="Ernesto Vidal" id="251" weight="1" />
+      <edge source="Fergus Anderson" target="Rod Coleman" id="252" weight="1" />
+      <edge source="Fergus Anderson" target="Ken Kavanagh" id="253" weight="1" />
+      <edge source="Fergus Anderson" target="Jack Brett" id="254" weight="1" />
+      <edge source="Benoit Musy" target="Willy Lips" id="255" weight="1" />
+      <edge source="Jack Brett" target="V. Perry" id="256" weight="1" />
+      <edge source="Jack Brett" target="Rod Coleman" id="257" weight="4" />
+      <edge source="Jack Brett" target="Bill Lomas" id="258" weight="2" />
+      <edge source="Jack Brett" target="Phil Carter" id="259" weight="1" />
+      <edge source="Jack Brett" target="John Surtees" id="260" weight="2" />
+      <edge source="Jack Brett" target="Ray Amm" id="261" weight="4" />
+      <edge source="Jack Brett" target="Ken Kavanagh" id="262" weight="5" />
+      <edge source="Jack Brett" target="Giuseppe Colnago" id="263" weight="1" />
+      <edge source="Jack Brett" target="Derek Farrant" id="264" weight="3" />
+      <edge source="Jack Brett" target="Rudy Allison" id="265" weight="1" />
+      <edge source="Jack Brett" target="Bob Mcintyre" id="266" weight="1" />
+      <edge source="Jack Brett" target="Derek Ennett" id="267" weight="1" />
+      <edge source="Jack Brett" target="John Hartle" id="268" weight="1" />
+      <edge source="Jack Brett" target="Walter Zeller" id="269" weight="2" />
+      <edge source="Jack Brett" target="Geoffrey Tanner" id="270" weight="1" />
+      <edge source="Jack Brett" target="R.W. Herron" id="271" weight="1" />
+      <edge source="Jack Brett" target="Libero Liberati" id="272" weight="2" />
+      <edge source="Jack Brett" target="Keith Bryen" id="273" weight="2" />
+      <edge source="Jack Brett" target="Derek Minter" id="274" weight="1" />
+      <edge source="Jack Brett" target="Ernst Hiller" id="275" weight="1" />
+      <edge source="Cromie McCandless" target="Phillip McCallen" id="276" weight="1" />
+      <edge source="Cromie McCandless" target="Manliefe Barrington" id="277" weight="1" />
+      <edge source="Phillip McCallen" target="Manliefe Barrington" id="278" weight="1" />
+      <edge source="Phillip McCallen" target="A. Parry" id="279" weight="1" />
+      <edge source="Manliefe Barrington" target="A. Parry" id="280" weight="1" />
+      <edge source="Ken Kavanagh" target="Sid Lawton" id="281" weight="1" />
+      <edge source="Ken Kavanagh" target="Giuseppe Colnago" id="282" weight="1" />
+      <edge source="Ken Kavanagh" target="Ray Amm" id="283" weight="2" />
+      <edge source="Ken Kavanagh" target="Rod Coleman" id="284" weight="1" />
+      <edge source="Ken Kavanagh" target="Leon Martin" id="285" weight="1" />
+      <edge source="Ken Kavanagh" target="Bob Mcintyre" id="286" weight="2" />
+      <edge source="Ken Kavanagh" target="Remo Venturi" id="287" weight="1" />
+      <edge source="Ken Kavanagh" target="Bob Brown" id="288" weight="1" />
+      <edge source="Ken Kavanagh" target="John Hempleman" id="289" weight="1" />
+      <edge source="Ken Kavanagh" target="A. Huber" id="290" weight="1" />
+      <edge source="Rod Coleman" target="Ray Amm" id="291" weight="3" />
+      <edge source="Rod Coleman" target="Bill Lomas" id="292" weight="2" />
+      <edge source="Rod Coleman" target="Peter Davey" id="293" weight="1" />
+      <edge source="Rod Coleman" target="Giuseppe Colnago" id="294" weight="1" />
+      <edge source="Rod Coleman" target="Derek Farrant" id="295" weight="2" />
+      <edge source="Rod Coleman" target="Bob Mcintyre" id="296" weight="1" />
+      <edge source="Ray Amm" target="Bill Lomas" id="297" weight="1" />
+      <edge source="Bill Lomas" target="Phil Carter" id="298" weight="1" />
+      <edge source="Bill Lomas" target="John Hartle" id="299" weight="1" />
+      <edge source="Bill Lomas" target="Walter Zeller" id="300" weight="1" />
+      <edge source="Bill Lomas" target="Derek Ennett" id="301" weight="1" />
+      <edge source="Phil Carter" target="John Surtees" id="302" weight="1" />
+      <edge source="John Surtees" target="John Hartle" id="303" weight="4" />
+      <edge source="John Surtees" target="Walter Zeller" id="304" weight="3" />
+      <edge source="John Surtees" target="Pierre Monneret" id="305" weight="1" />
+      <edge source="John Surtees" target="Eddie Grant" id="306" weight="1" />
+      <edge source="John Surtees" target="Bob Mcintyre" id="307" weight="3" />
+      <edge source="John Surtees" target="Bob Brown" id="308" weight="5" />
+      <edge source="John Surtees" target="Libero Liberati" id="309" weight="1" />
+      <edge source="John Surtees" target="Terry Shepherd" id="310" weight="1" />
+      <edge source="John Surtees" target="Derek Minter" id="311" weight="1" />
+      <edge source="John Surtees" target="Bob Anderson" id="312" weight="1" />
+      <edge source="John Surtees" target="Keith Campbell" id="313" weight="1" />
+      <edge source="John Surtees" target="Remo Venturi" id="314" weight="5" />
+      <edge source="John Surtees" target="Alistair King" id="315" weight="1" />
+      <edge source="John Surtees" target="Gary Hocking" id="316" weight="2" />
+      <edge source="Giuseppe Colnago" target="Derek Farrant" id="317" weight="1" />
+      <edge source="Giuseppe Colnago" target="Jack Ahearn" id="318" weight="1" />
+      <edge source="Giuseppe Colnago" target="Pierre Monneret" id="319" weight="1" />
+      <edge source="Giuseppe Colnago" target="Leon Martin" id="320" weight="1" />
+      <edge source="Giuseppe Colnago" target="Ernst Riedelbauch" id="321" weight="1" />
+      <edge source="Sid Lawton" target="Auguste Goffin" id="322" weight="1" />
+      <edge source="Auguste Goffin" target="Hans Baltisberger" id="323" weight="1" />
+      <edge source="Auguste Goffin" target="John Clark" id="324" weight="1" />
+      <edge source="Auguste Goffin" target="Leon Martin" id="325" weight="1" />
+      <edge source="Auguste Goffin" target="Duilio Agostini" id="326" weight="1" />
+      <edge source="Auguste Goffin" target="John Storr" id="327" weight="1" />
+      <edge source="Derek Farrant" target="Ken Mudford" id="328" weight="2" />
+      <edge source="Libero Liberati" target="Cecyl Sandford" id="329" weight="1" />
+      <edge source="Libero Liberati" target="Tino Forconi" id="330" weight="1" />
+      <edge source="Libero Liberati" target="Pierre Monneret" id="331" weight="1" />
+      <edge source="Libero Liberati" target="Bob Mcintyre" id="332" weight="2" />
+      <edge source="Libero Liberati" target="Walter Zeller" id="333" weight="2" />
+      <edge source="Libero Liberati" target="Keith Bryen" id="334" weight="1" />
+      <edge source="Cecyl Sandford" target="Hermann Paul Müller" id="335" weight="1" />
+      <edge source="Pierre Monneret" target="Jaques Collot" id="336" weight="1" />
+      <edge source="Pierre Monneret" target="Leon Martin" id="337" weight="1" />
+      <edge source="Pierre Monneret" target="Duilio Agostini" id="338" weight="1" />
+      <edge source="Pierre Monneret" target="Walter Zeller" id="339" weight="1" />
+      <edge source="Jaques Collot" target="Luigi Taveri" id="340" weight="1" />
+      <edge source="Jaques Collot" target="Bob Matthews" id="341" weight="1" />
+      <edge source="Jaques Collot" target="Tino Forconi" id="342" weight="1" />
+      <edge source="Jaques Collot" target="Firmin Dauwe" id="343" weight="1" />
+      <edge source="Luigi Taveri" target="Bob Matthews" id="344" weight="1" />
+      <edge source="Luigi Taveri" target="G. Julian" id="345" weight="1" />
+      <edge source="Bob Matthews" target="G. Julian" id="346" weight="1" />
+      <edge source="Rudy Allison" target="Máté Laczko" id="347" weight="1" />
+      <edge source="Leon Martin" target="Bob Mcintyre" id="348" weight="1" />
+      <edge source="Leon Martin" target="Keith Campbell" id="349" weight="1" />
+      <edge source="Leon Martin" target="Duilio Agostini" id="350" weight="1" />
+      <edge source="Bob Mcintyre" target="Keith Campbell" id="351" weight="1" />
+      <edge source="Bob Mcintyre" target="George Murphy" id="352" weight="2" />
+      <edge source="Bob Mcintyre" target="Derek Ennett" id="353" weight="1" />
+      <edge source="Bob Mcintyre" target="John Hartle" id="354" weight="2" />
+      <edge source="Bob Mcintyre" target="John Clark" id="355" weight="1" />
+      <edge source="Bob Mcintyre" target="Walter Zeller" id="356" weight="1" />
+      <edge source="Bob Mcintyre" target="Bob Brown" id="357" weight="2" />
+      <edge source="Bob Mcintyre" target="Geoffrey Tanner" id="358" weight="1" />
+      <edge source="Bob Mcintyre" target="Derek Minter" id="359" weight="1" />
+      <edge source="Bob Mcintyre" target="D.T. Powell" id="360" weight="1" />
+      <edge source="Bob Mcintyre" target="Paddy Driver" id="361" weight="1" />
+      <edge source="Bob Mcintyre" target="Terry Shepherd" id="362" weight="1" />
+      <edge source="Keith Campbell" target="George Murphy" id="363" weight="1" />
+      <edge source="Keith Campbell" target="Bob Brown" id="364" weight="1" />
+      <edge source="Keith Campbell" target="Alan Trow" id="365" weight="1" />
+      <edge source="Keith Campbell" target="John Hartle" id="366" weight="1" />
+      <edge source="George Murphy" target="John Clark" id="367" weight="1" />
+      <edge source="George Murphy" target="John Hartle" id="368" weight="1" />
+      <edge source="George Murphy" target="Bob Brown" id="369" weight="1" />
+      <edge source="George Murphy" target="Geoffrey Tanner" id="370" weight="1" />
+      <edge source="George Murphy" target="R.W. Herron" id="371" weight="1" />
+      <edge source="Orlando Valdinoci" target="Tino Forconi" id="372" weight="1" />
+      <edge source="Tino Forconi" target="Firmin Dauwe" id="373" weight="1" />
+      <edge source="Walter Zeller" target="John Hartle" id="374" weight="1" />
+      <edge source="Walter Zeller" target="Derek Ennett" id="375" weight="1" />
+      <edge source="Walter Zeller" target="Eddie Grant" id="376" weight="1" />
+      <edge source="Walter Zeller" target="Keith Bryen" id="377" weight="1" />
+      <edge source="Walter Zeller" target="Terry Shepherd" id="378" weight="1" />
+      <edge source="Walter Zeller" target="Ernst Hiller" id="379" weight="1" />
+      <edge source="Duilio Agostini" target="John Storr" id="380" weight="1" />
+      <edge source="Dreikus Veer" target="Bob Brown" id="381" weight="1" />
+      <edge source="Dreikus Veer" target="Eddie Grant" id="382" weight="1" />
+      <edge source="Bob Brown" target="Eddie Grant" id="383" weight="1" />
+      <edge source="Bob Brown" target="John Hartle" id="384" weight="1" />
+      <edge source="Bob Brown" target="Geoffrey Tanner" id="385" weight="1" />
+      <edge source="Bob Brown" target="Bob Anderson" id="386" weight="2" />
+      <edge source="Bob Brown" target="Derek Minter" id="387" weight="1" />
+      <edge source="Bob Brown" target="Dave Chadwick" id="388" weight="1" />
+      <edge source="Bob Brown" target="Gary Hocking" id="389" weight="3" />
+      <edge source="Bob Brown" target="Ernst Hiller" id="390" weight="2" />
+      <edge source="Bob Brown" target="Alistair King" id="391" weight="2" />
+      <edge source="Bob Brown" target="D.T. Powell" id="392" weight="1" />
+      <edge source="Bob Brown" target="Remo Venturi" id="393" weight="4" />
+      <edge source="Bob Brown" target="John Hempleman" id="394" weight="2" />
+      <edge source="Bob Brown" target="Terry Shepherd" id="395" weight="1" />
+      <edge source="Bob Brown" target="Paddy Driver" id="396" weight="1" />
+      <edge source="Eddie Grant" target="Keith Bryen" id="397" weight="1" />
+      <edge source="Eddie Grant" target="P.B. Fahey" id="398" weight="1" />
+      <edge source="John Hartle" target="Derek Minter" id="399" weight="2" />
+      <edge source="John Hartle" target="Ernst Hiller" id="400" weight="1" />
+      <edge source="Keith Bryen" target="P.B. Fahey" id="401" weight="1" />
+      <edge source="Keith Bryen" target="Ernst Hiller" id="402" weight="2" />
+      <edge source="Keith Bryen" target="Derek Minter" id="403" weight="1" />
+      <edge source="Keith Bryen" target="Mike O'rourke" id="404" weight="1" />
+      <edge source="Keith Bryen" target="Geoffrey Tanner" id="405" weight="1" />
+      <edge source="Keith Bryen" target="Terry Shepherd" id="406" weight="1" />
+      <edge source="P.B. Fahey" target="Ernst Hiller" id="407" weight="1" />
+      <edge source="Ernst Hiller" target="Terry Shepherd" id="408" weight="3" />
+      <edge source="Ernst Hiller" target="Derek Minter" id="409" weight="1" />
+      <edge source="Ernst Hiller" target="Gary Hocking" id="410" weight="3" />
+      <edge source="Geoffrey Tanner" target="R.W. Herron" id="411" weight="1" />
+      <edge source="Geoffrey Tanner" target="Terry Shepherd" id="412" weight="1" />
+      <edge source="Terry Shepherd" target="Gary Hocking" id="413" weight="3" />
+      <edge source="Terry Shepherd" target="Paddy Driver" id="414" weight="1" />
+      <edge source="Terry Shepherd" target="Alistair King" id="415" weight="1" />
+      <edge source="Derek Minter" target="Mike O'rourke" id="416" weight="1" />
+      <edge source="Derek Minter" target="Hans Gunter Jaeger" id="417" weight="1" />
+      <edge source="Derek Minter" target="Bob Anderson" id="418" weight="1" />
+      <edge source="Derek Minter" target="Dave Chadwick" id="419" weight="1" />
+      <edge source="Derek Minter" target="J.D. Anderson" id="420" weight="1" />
+      <edge source="Mike O'rourke" target="Hans Gunter Jaeger" id="421" weight="1" />
+      <edge source="Gary Hocking" target="Remo Venturi" id="422" weight="1" />
+      <edge source="Bob Anderson" target="Remo Venturi" id="423" weight="1" />
+      <edge source="Dave Chadwick" target="J.D. Anderson" id="424" weight="1" />
+      <edge source="Remo Venturi" target="Jim Redman" id="425" weight="1" />
+      <edge source="Alistair King" target="D.T. Powell" id="426" weight="1" />
+      <edge source="D.T. Powell" target="Paddy Driver" id="427" weight="1" />
+      <edge source="Paddy Driver" target="John Hempleman" id="428" weight="1" />
+      <edge source="John Hempleman" target="A. Huber" id="429" weight="1" />
+      <edge source="Jim Redman" target="Ron Miles" id="430" weight="1" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1597 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-05">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="teammates">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="races" type="long" />
+      <attribute id="1" title="first_year" type="long" />
+      <attribute id="2" title="last_year" type="long" />
+      <attribute id="3" title="points" type="double" />
+      <attribute id="4" title="wins" type="long" />
+      <attribute id="5" title="country" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Franco Battaini" label="Franco Battaini">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2012" />
+          <attvalue for="3" value="7.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="James Ellison" label="James Ellison">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2012" />
+          <attvalue for="3" value="70.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Alex Barros" label="Alex Barros">
+        <attvalues>
+          <attvalue for="0" value="239" />
+          <attvalue for="1" value="1990" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="594.0" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="BR" />
+        </attvalues>
+      </node>
+      <node id="Troy Bayliss" label="Troy Bayliss">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2006" />
+          <attvalue for="3" value="113.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Carlos Checa" label="Carlos Checa">
+        <attvalues>
+          <attvalue for="0" value="190" />
+          <attvalue for="1" value="1995" />
+          <attvalue for="2" value="2010" />
+          <attvalue for="3" value="439.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Loris Capirossi" label="Loris Capirossi">
+        <attvalues>
+          <attvalue for="0" value="214" />
+          <attvalue for="1" value="1995" />
+          <attvalue for="2" value="2011" />
+          <attvalue for="3" value="963.0" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Ruben Xaus" label="Ruben Xaus">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="53.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Toni Elias" label="Toni Elias">
+        <attvalues>
+          <attvalue for="0" value="105" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="599.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Colin Edwards" label="Colin Edwards">
+        <attvalues>
+          <attvalue for="0" value="195" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2014" />
+          <attvalue for="3" value="1047.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Valentino Rossi" label="Valentino Rossi">
+        <attvalues>
+          <attvalue for="0" value="370" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2021" />
+          <attvalue for="3" value="3923.0" />
+          <attvalue for="4" value="87" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Marco Melandri" label="Marco Melandri">
+        <attvalues>
+          <attvalue for="0" value="137" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="919.0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Sete Gibernau" label="Sete Gibernau">
+        <attvalues>
+          <attvalue for="0" value="155" />
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="331.0" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Max Biaggi" label="Max Biaggi">
+        <attvalues>
+          <attvalue for="0" value="125" />
+          <attvalue for="1" value="1998" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="295.0" />
+          <attvalue for="4" value="12" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Nicky Hayden" label="Nicky Hayden">
+        <attvalues>
+          <attvalue for="0" value="217" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2016" />
+          <attvalue for="3" value="1509.0" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="John Hopkins" label="John Hopkins">
+        <attvalues>
+          <attvalue for="0" value="111" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2011" />
+          <attvalue for="3" value="434.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Kenny Roberts Jr" label="Kenny Roberts Jr">
+        <attvalues>
+          <attvalue for="0" value="160" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="293.0" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Alex Hofmann" label="Alex Hofmann">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="124.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Shinya Nakano" label="Shinya Nakano">
+        <attvalues>
+          <attvalue for="0" value="133" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="389.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Olivier Jacque" label="Olivier Jacque">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="32.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Tohru Ukawa" label="Tohru Ukawa">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Shane Byrne" label="Shane Byrne">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Chris Vermeulen" label="Chris Vermeulen">
+        <attvalues>
+          <attvalue for="0" value="73" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2012" />
+          <attvalue for="3" value="514.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Shinichi Ito" label="Shinichi Ito">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="1989" />
+          <attvalue for="2" value="2011" />
+          <attvalue for="3" value="175.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Ryuichi Kiyonari" label="Ryuichi Kiyonari">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="8.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Nobuatsu Aoki" label="Nobuatsu Aoki">
+        <attvalues>
+          <attvalue for="0" value="108" />
+          <attvalue for="1" value="1997" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="40.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Randy De Puniet" label="Randy De Puniet">
+        <attvalues>
+          <attvalue for="0" value="140" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2014" />
+          <attvalue for="3" value="571.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Jose Luis Cardoso" label="Jose Luis Cardoso">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="2006" />
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Daniel Pedrosa" label="Daniel Pedrosa">
+        <attvalues>
+          <attvalue for="0" value="217" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2024" />
+          <attvalue for="3" value="2985.0" />
+          <attvalue for="4" value="31" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Ivan Silva" label="Ivan Silva">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2013" />
+          <attvalue for="3" value="12.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Dani Pedrosa" label="Dani Pedrosa">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2010" />
+          <attvalue for="3" value="67.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Casey Stoner" label="Casey Stoner">
+        <attvalues>
+          <attvalue for="0" value="117" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2012" />
+          <attvalue for="3" value="1855.0" />
+          <attvalue for="4" value="39" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Makoto Tamada" label="Makoto Tamada">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="241.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Sylvain Guintoli" label="Sylvain Guintoli">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2019" />
+          <attvalue for="3" value="125.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Andrew Pitt" label="Andrew Pitt">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Jeremy Mcwilliams" label="Jeremy Mcwilliams">
+        <attvalues>
+          <attvalue for="0" value="113" />
+          <attvalue for="1" value="1993" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="51.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Kousuke Akiyoshi" label="Kousuke Akiyoshi">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="14.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Fonsi Nieto" label="Fonsi Nieto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Kurtis Roberts" label="Kurtis Roberts">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Anthony West" label="Anthony West">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="109.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Michel Fabrizio" label="Michel Fabrizio">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2014" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Miguel Duhamel" label="Miguel Duhamel">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1992" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="14.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="CA" />
+        </attvalues>
+      </node>
+      <node id="Roger Lee Hayden" label="Roger Lee Hayden">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="2010" />
+          <attvalue for="3" value="11.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Chaz Davies" label="Chaz Davies">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Akira Yanagawa" label="Akira Yanagawa">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Jorge Lorenzo" label="Jorge Lorenzo">
+        <attvalues>
+          <attvalue for="0" value="203" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2019" />
+          <attvalue for="3" value="2913.0" />
+          <attvalue for="4" value="47" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Alex De Angelis" label="Alex De Angelis">
+        <attvalues>
+          <attvalue for="0" value="61" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="213.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="SM" />
+        </attvalues>
+      </node>
+      <node id="James Toseland" label="James Toseland">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="189.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Tadayuki Okada" label="Tadayuki Okada">
+        <attvalues>
+          <attvalue for="0" value="69" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="162.0" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Ben Spies" label="Ben Spies">
+        <attvalues>
+          <attvalue for="0" value="57" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2013" />
+          <attvalue for="3" value="502.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Jamie Hacking" label="Jamie Hacking">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Mika Kallio" label="Mika Kallio">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2020" />
+          <attvalue for="3" value="137.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FI" />
+        </attvalues>
+      </node>
+      <node id="Niccolo Canepa" label="Niccolo Canepa">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="33.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Andrea Dovizioso" label="Andrea Dovizioso">
+        <attvalues>
+          <attvalue for="0" value="248" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2022" />
+          <attvalue for="3" value="2648.0" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Gabor Talmacsi" label="Gabor Talmacsi">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="19.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="HU" />
+        </attvalues>
+      </node>
+      <node id="Yuki Takahashi" label="Yuki Takahashi">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Aleix Espargaro" label="Aleix Espargaro">
+        <attvalues>
+          <attvalue for="0" value="261" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="1399.0" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Alvaro Bautista" label="Alvaro Bautista">
+        <attvalues>
+          <attvalue for="0" value="159" />
+          <attvalue for="1" value="2010" />
+          <attvalue for="2" value="2023" />
+          <attvalue for="3" value="901.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Marco Simoncelli" label="Marco Simoncelli">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="2010" />
+          <attvalue for="2" value="2011" />
+          <attvalue for="3" value="270.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Wataru Yoshikawa" label="Wataru Yoshikawa">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2010" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Cal Crutchlow" label="Cal Crutchlow">
+        <attvalues>
+          <attvalue for="0" value="179" />
+          <attvalue for="1" value="2011" />
+          <attvalue for="2" value="2023" />
+          <attvalue for="3" value="1197.0" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Hiroshi Aoyama" label="Hiroshi Aoyama">
+        <attvalues>
+          <attvalue for="0" value="71" />
+          <attvalue for="1" value="2010" />
+          <attvalue for="2" value="2017" />
+          <attvalue for="3" value="239.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Ben Bostrom" label="Ben Bostrom">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2011" />
+          <attvalue for="2" value="2011" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Damian Cudlin" label="Damian Cudlin">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2011" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Josh Hayes" label="Josh Hayes">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2011" />
+          <attvalue for="2" value="2011" />
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Katsuyuki Nakasuga" label="Katsuyuki Nakasuga">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2011" />
+          <attvalue for="2" value="2018" />
+          <attvalue for="3" value="65.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Yonny Hernandez" label="Yonny Hernandez">
+        <attvalues>
+          <attvalue for="0" value="87" />
+          <attvalue for="1" value="2012" />
+          <attvalue for="2" value="2016" />
+          <attvalue for="3" value="178.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="CO" />
+        </attvalues>
+      </node>
+      <node id="Michele Pirro" label="Michele Pirro">
+        <attvalues>
+          <attvalue for="0" value="71" />
+          <attvalue for="1" value="2012" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="237.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="David Salom" label="David Salom">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2012" />
+          <attvalue for="2" value="2012" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Jonathan Rea" label="Jonathan Rea">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2012" />
+          <attvalue for="2" value="2012" />
+          <attvalue for="3" value="17.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Claudio Corti" label="Claudio Corti">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="2012" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="14.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Hector Barbera" label="Hector Barbera">
+        <attvalues>
+          <attvalue for="0" value="139" />
+          <attvalue for="1" value="2010" />
+          <attvalue for="2" value="2017" />
+          <attvalue for="3" value="489.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Danilo Petrucci" label="Danilo Petrucci">
+        <attvalues>
+          <attvalue for="0" value="171" />
+          <attvalue for="1" value="2012" />
+          <attvalue for="2" value="2023" />
+          <attvalue for="3" value="849.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Lukas Pesek" label="Lukas Pesek">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="2013" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="CZ" />
+        </attvalues>
+      </node>
+      <node id="Bryan Staring" label="Bryan Staring">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="2013" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Bradley Smith" label="Bradley Smith">
+        <attvalues>
+          <attvalue for="0" value="119" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="2020" />
+          <attvalue for="3" value="563.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Michael Laverty" label="Michael Laverty">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="12.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Marc Marquez" label="Marc Marquez">
+        <attvalues>
+          <attvalue for="0" value="207" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="3224.0" />
+          <attvalue for="4" value="73" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Javier Del Amor" label="Javier Del Amor">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="2013" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Mike Di Meglio" label="Mike Di Meglio">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2015" />
+          <attvalue for="3" value="17.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Scott Redding" label="Scott Redding">
+        <attvalues>
+          <attvalue for="0" value="90" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2018" />
+          <attvalue for="3" value="343.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Pol Espargaro" label="Pol Espargaro">
+        <attvalues>
+          <attvalue for="0" value="175" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="983.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Broc Parkes" label="Broc Parkes">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2017" />
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Leon Camier" label="Leon Camier">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2014" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Eugene Laverty" label="Eugene Laverty">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="2016" />
+          <attvalue for="3" value="86.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IE" />
+        </attvalues>
+      </node>
+      <node id="Loris Baz" label="Loris Baz">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="2017" />
+          <attvalue for="3" value="108.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Stefan Bradl" label="Stefan Bradl">
+        <attvalues>
+          <attvalue for="0" value="131" />
+          <attvalue for="1" value="2012" />
+          <attvalue for="2" value="2024" />
+          <attvalue for="3" value="576.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Jack Miller" label="Jack Miller">
+        <attvalues>
+          <attvalue for="0" value="199" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="1197.0" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Andrea Iannone" label="Andrea Iannone">
+        <attvalues>
+          <attvalue for="0" value="119" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="2024" />
+          <attvalue for="3" value="705.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Maverick Viñales" label="Maverick Viñales">
+        <attvalues>
+          <attvalue for="0" value="194" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="1645.0" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Tito Rabat" label="Tito Rabat">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2021" />
+          <attvalue for="3" value="135.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Alex Lowes" label="Alex Lowes">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Xavi Fores" label="Xavi Fores">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Mike Jones" label="Mike Jones">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2018" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Sam Lowes" label="Sam Lowes">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2017" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Johann Zarco" label="Johann Zarco">
+        <attvalues>
+          <attvalue for="0" value="166" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="1156.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Jonas Folger" label="Jonas Folger">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2023" />
+          <attvalue for="3" value="93.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Karel Abraham" label="Karel Abraham">
+        <attvalues>
+          <attvalue for="0" value="123" />
+          <attvalue for="1" value="2011" />
+          <attvalue for="2" value="2019" />
+          <attvalue for="3" value="216.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="CZ" />
+        </attvalues>
+      </node>
+      <node id="Alex Rins" label="Alex Rins">
+        <attvalues>
+          <attvalue for="0" value="145" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="1028.0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Takuya Tsuda" label="Takuya Tsuda">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2022" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Kohta Nozane" label="Kohta Nozane">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2017" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Michael Van Der Mark" label="Michael Van Der Mark">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2017" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NL" />
+        </attvalues>
+      </node>
+      <node id="Franco Morbidelli" label="Franco Morbidelli">
+        <attvalues>
+          <attvalue for="0" value="142" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="794.0" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Thomas Luthi" label="Thomas Luthi">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2018" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="CH" />
+        </attvalues>
+      </node>
+      <node id="Hafizh Syahrin" label="Hafizh Syahrin">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2019" />
+          <attvalue for="3" value="61.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="MY" />
+        </attvalues>
+      </node>
+      <node id="Xavier Simeon" label="Xavier Simeon">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2018" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="BE" />
+        </attvalues>
+      </node>
+      <node id="Christophe Ponsson" label="Christophe Ponsson">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2018" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Jordi Torres" label="Jordi Torres">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2018" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Francesco Bagnaia" label="Francesco Bagnaia">
+        <attvalues>
+          <attvalue for="0" value="129" />
+          <attvalue for="1" value="2019" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="1528.0" />
+          <attvalue for="4" value="31" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Fabio Quartararo" label="Fabio Quartararo">
+        <attvalues>
+          <attvalue for="0" value="133" />
+          <attvalue for="1" value="2019" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="1235.0" />
+          <attvalue for="4" value="11" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Miguel Oliveira" label="Miguel Oliveira">
+        <attvalues>
+          <attvalue for="0" value="117" />
+          <attvalue for="1" value="2019" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="584.0" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="PT" />
+        </attvalues>
+      </node>
+      <node id="Joan Mir" label="Joan Mir">
+        <attvalues>
+          <attvalue for="0" value="121" />
+          <attvalue for="1" value="2019" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="718.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Iker Lecuona" label="Iker Lecuona">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="2019" />
+          <attvalue for="2" value="2023" />
+          <attvalue for="3" value="73.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Brad Binder" label="Brad Binder">
+        <attvalues>
+          <attvalue for="0" value="114" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="934.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="ZA" />
+        </attvalues>
+      </node>
+      <node id="Alex Marquez" label="Alex Marquez">
+        <attvalues>
+          <attvalue for="0" value="111" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="769.0" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Lorenzo Savadori" label="Lorenzo Savadori">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="24.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Jorge Martin" label="Jorge Martin">
+        <attvalues>
+          <attvalue for="0" value="81" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="891.0" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Garrett Gerloff" label="Garrett Gerloff">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="2021" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Jake Dixon" label="Jake Dixon">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="2021" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Enea Bastianini" label="Enea Bastianini">
+        <attvalues>
+          <attvalue for="0" value="91" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="752.0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Fabio Di Giannantonio" label="Fabio Di Giannantonio">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="463.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Luca Marini" label="Luca Marini">
+        <attvalues>
+          <attvalue for="0" value="94" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="446.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Marco Bezzecchi" label="Marco Bezzecchi">
+        <attvalues>
+          <attvalue for="0" value="82" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="741.0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Raul Fernandez" label="Raul Fernandez">
+        <attvalues>
+          <attvalue for="0" value="78" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="265.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Remy Gardner" label="Remy Gardner">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2024" />
+          <attvalue for="3" value="13.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Darryn Binder" label="Darryn Binder">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+          <attvalue for="3" value="12.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ZA" />
+        </attvalues>
+      </node>
+      <node id="Kazuki Watanabe" label="Kazuki Watanabe">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Augusto Fernandez" label="Augusto Fernandez">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="2023" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="99.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Pedro Acosta" label="Pedro Acosta">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="375.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Fermin Aldeguer" label="Fermin Aldeguer">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="156.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Ai Ogura" label="Ai Ogura">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="76.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Takaaki Nakagami" label="Takaaki Nakagami">
+        <attvalues>
+          <attvalue for="0" value="126" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="476.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Nicolo Bulega" label="Nicolo Bulega">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2025" />
+          <attvalue for="2" value="2025" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Franco Battaini" target="James Ellison" id="0" weight="8" />
+      <edge source="James Ellison" target="Carlos Checa" id="1" weight="17" />
+      <edge source="Alex Barros" target="Troy Bayliss" id="2" weight="4" />
+      <edge source="Alex Barros" target="Tohru Ukawa" id="3" weight="1" />
+      <edge source="Alex Barros" target="Shane Byrne" id="4" weight="1" />
+      <edge source="Alex Barros" target="Chris Vermeulen" id="5" weight="1" />
+      <edge source="Alex Barros" target="Ryuichi Kiyonari" id="6" weight="2" />
+      <edge source="Alex Barros" target="Alex Hofmann" id="7" weight="12" />
+      <edge source="Alex Barros" target="Chaz Davies" id="8" weight="3" />
+      <edge source="Alex Barros" target="Ivan Silva" id="9" weight="1" />
+      <edge source="Alex Barros" target="Shinichi Ito" id="10" weight="1" />
+      <edge source="Troy Bayliss" target="Loris Capirossi" id="11" weight="2" />
+      <edge source="Carlos Checa" target="Loris Capirossi" id="12" weight="8" />
+      <edge source="Carlos Checa" target="Shinichi Ito" id="13" weight="1" />
+      <edge source="Carlos Checa" target="Aleix Espargaro" id="14" weight="2" />
+      <edge source="Loris Capirossi" target="Sete Gibernau" id="15" weight="12" />
+      <edge source="Loris Capirossi" target="Alex Hofmann" id="16" weight="3" />
+      <edge source="Loris Capirossi" target="Casey Stoner" id="17" weight="18" />
+      <edge source="Loris Capirossi" target="Chris Vermeulen" id="18" weight="31" />
+      <edge source="Loris Capirossi" target="Ben Spies" id="19" weight="2" />
+      <edge source="Loris Capirossi" target="Nobuatsu Aoki" id="20" weight="1" />
+      <edge source="Loris Capirossi" target="Alvaro Bautista" id="21" weight="15" />
+      <edge source="Loris Capirossi" target="Randy De Puniet" id="22" weight="12" />
+      <edge source="Ruben Xaus" target="Toni Elias" id="23" weight="9" />
+      <edge source="Toni Elias" target="Marco Melandri" id="24" weight="29" />
+      <edge source="Toni Elias" target="Sylvain Guintoli" id="25" weight="16" />
+      <edge source="Toni Elias" target="Alex De Angelis" id="26" weight="17" />
+      <edge source="Toni Elias" target="Ben Bostrom" id="27" weight="1" />
+      <edge source="Toni Elias" target="Kousuke Akiyoshi" id="28" weight="1" />
+      <edge source="Toni Elias" target="Loris Baz" id="29" weight="5" />
+      <edge source="Colin Edwards" target="Valentino Rossi" id="30" weight="44" />
+      <edge source="Colin Edwards" target="James Toseland" id="31" weight="33" />
+      <edge source="Colin Edwards" target="Ben Spies" id="32" weight="18" />
+      <edge source="Colin Edwards" target="Cal Crutchlow" id="33" weight="14" />
+      <edge source="Colin Edwards" target="Claudio Corti" id="34" weight="18" />
+      <edge source="Colin Edwards" target="Aleix Espargaro" id="35" weight="10" />
+      <edge source="Valentino Rossi" target="Jorge Lorenzo" id="36" weight="117" />
+      <edge source="Valentino Rossi" target="Nicky Hayden" id="37" weight="33" />
+      <edge source="Valentino Rossi" target="Maverick Viñales" id="38" weight="66" />
+      <edge source="Valentino Rossi" target="Franco Morbidelli" id="39" weight="8" />
+      <edge source="Valentino Rossi" target="Garrett Gerloff" id="40" weight="1" />
+      <edge source="Valentino Rossi" target="Cal Crutchlow" id="41" weight="2" />
+      <edge source="Valentino Rossi" target="Jake Dixon" id="42" weight="2" />
+      <edge source="Valentino Rossi" target="Andrea Dovizioso" id="43" weight="5" />
+      <edge source="Marco Melandri" target="Sete Gibernau" id="44" weight="9" />
+      <edge source="Marco Melandri" target="Michel Fabrizio" id="45" weight="1" />
+      <edge source="Marco Melandri" target="Miguel Duhamel" id="46" weight="1" />
+      <edge source="Marco Melandri" target="Casey Stoner" id="47" weight="16" />
+      <edge source="Marco Melandri" target="Marco Simoncelli" id="48" weight="17" />
+      <edge source="Marco Melandri" target="Alvaro Bautista" id="49" weight="8" />
+      <edge source="Max Biaggi" target="Nicky Hayden" id="50" weight="9" />
+      <edge source="Nicky Hayden" target="Daniel Pedrosa" id="51" weight="48" />
+      <edge source="Nicky Hayden" target="Dani Pedrosa" id="52" weight="1" />
+      <edge source="Nicky Hayden" target="Tadayuki Okada" id="53" weight="1" />
+      <edge source="Nicky Hayden" target="Casey Stoner" id="54" weight="33" />
+      <edge source="Nicky Hayden" target="Mika Kallio" id="55" weight="2" />
+      <edge source="Nicky Hayden" target="Andrea Dovizioso" id="56" weight="18" />
+      <edge source="Nicky Hayden" target="Hiroshi Aoyama" id="57" weight="13" />
+      <edge source="Nicky Hayden" target="Eugene Laverty" id="58" weight="18" />
+      <edge source="Nicky Hayden" target="Tito Rabat" id="59" weight="1" />
+      <edge source="Nicky Hayden" target="Marc Marquez" id="60" weight="1" />
+      <edge source="John Hopkins" target="Kenny Roberts Jr" id="61" weight="6" />
+      <edge source="John Hopkins" target="Nobuatsu Aoki" id="62" weight="3" />
+      <edge source="John Hopkins" target="Chris Vermeulen" id="63" weight="35" />
+      <edge source="John Hopkins" target="Kousuke Akiyoshi" id="64" weight="2" />
+      <edge source="John Hopkins" target="Anthony West" id="65" weight="13" />
+      <edge source="Kenny Roberts Jr" target="Kurtis Roberts" id="66" weight="2" />
+      <edge source="Alex Hofmann" target="Shinya Nakano" id="67" weight="6" />
+      <edge source="Alex Hofmann" target="Olivier Jacque" id="68" weight="1" />
+      <edge source="Alex Hofmann" target="Jose Luis Cardoso" id="69" weight="14" />
+      <edge source="Shinya Nakano" target="Olivier Jacque" id="70" weight="2" />
+      <edge source="Shinya Nakano" target="Randy De Puniet" id="71" weight="17" />
+      <edge source="Shinya Nakano" target="Alex De Angelis" id="72" weight="16" />
+      <edge source="Olivier Jacque" target="Randy De Puniet" id="73" weight="4" />
+      <edge source="Chris Vermeulen" target="Kousuke Akiyoshi" id="74" weight="2" />
+      <edge source="Chris Vermeulen" target="Nobuatsu Aoki" id="75" weight="2" />
+      <edge source="Chris Vermeulen" target="Ben Spies" id="76" weight="3" />
+      <edge source="Randy De Puniet" target="Fonsi Nieto" id="77" weight="1" />
+      <edge source="Randy De Puniet" target="Anthony West" id="78" weight="11" />
+      <edge source="Randy De Puniet" target="Roger Lee Hayden" id="79" weight="1" />
+      <edge source="Randy De Puniet" target="Akira Yanagawa" id="80" weight="1" />
+      <edge source="Randy De Puniet" target="Sylvain Guintoli" id="81" weight="1" />
+      <edge source="Randy De Puniet" target="Damian Cudlin" id="82" weight="1" />
+      <edge source="Randy De Puniet" target="Aleix Espargaro" id="83" weight="36" />
+      <edge source="Jose Luis Cardoso" target="Ivan Silva" id="84" weight="3" />
+      <edge source="Daniel Pedrosa" target="Tadayuki Okada" id="85" weight="1" />
+      <edge source="Daniel Pedrosa" target="Andrea Dovizioso" id="86" weight="43" />
+      <edge source="Daniel Pedrosa" target="Casey Stoner" id="87" weight="29" />
+      <edge source="Daniel Pedrosa" target="Jonathan Rea" id="88" weight="2" />
+      <edge source="Daniel Pedrosa" target="Marc Marquez" id="89" weight="101" />
+      <edge source="Daniel Pedrosa" target="Brad Binder" id="90" weight="4" />
+      <edge source="Daniel Pedrosa" target="Miguel Oliveira" id="91" weight="1" />
+      <edge source="Daniel Pedrosa" target="Jack Miller" id="92" weight="3" />
+      <edge source="Ivan Silva" target="Yonny Hernandez" id="93" weight="13" />
+      <edge source="Ivan Silva" target="Claudio Corti" id="94" weight="1" />
+      <edge source="Ivan Silva" target="Hiroshi Aoyama" id="95" weight="1" />
+      <edge source="Ivan Silva" target="Hector Barbera" id="96" weight="1" />
+      <edge source="Dani Pedrosa" target="Andrea Dovizioso" id="97" weight="3" />
+      <edge source="Casey Stoner" target="Andrea Dovizioso" id="98" weight="17" />
+      <edge source="Casey Stoner" target="Hiroshi Aoyama" id="99" weight="1" />
+      <edge source="Makoto Tamada" target="Sylvain Guintoli" id="100" weight="18" />
+      <edge source="Sylvain Guintoli" target="Andrea Iannone" id="101" weight="6" />
+      <edge source="Sylvain Guintoli" target="Alex Rins" id="102" weight="7" />
+      <edge source="Sylvain Guintoli" target="Joan Mir" id="103" weight="3" />
+      <edge source="Andrew Pitt" target="Jeremy Mcwilliams" id="104" weight="1" />
+      <edge source="Kousuke Akiyoshi" target="Marco Simoncelli" id="105" weight="1" />
+      <edge source="Anthony West" target="Roger Lee Hayden" id="106" weight="1" />
+      <edge source="Anthony West" target="Akira Yanagawa" id="107" weight="1" />
+      <edge source="Anthony West" target="Jamie Hacking" id="108" weight="1" />
+      <edge source="Michel Fabrizio" target="Niccolo Canepa" id="109" weight="1" />
+      <edge source="Jorge Lorenzo" target="Wataru Yoshikawa" id="110" weight="1" />
+      <edge source="Jorge Lorenzo" target="Ben Spies" id="111" weight="31" />
+      <edge source="Jorge Lorenzo" target="Katsuyuki Nakasuga" id="112" weight="1" />
+      <edge source="Jorge Lorenzo" target="Andrea Dovizioso" id="113" weight="32" />
+      <edge source="Jorge Lorenzo" target="Michele Pirro" id="114" weight="5" />
+      <edge source="Jorge Lorenzo" target="Marc Marquez" id="115" weight="15" />
+      <edge source="Alex De Angelis" target="Aleix Espargaro" id="116" weight="8" />
+      <edge source="Ben Spies" target="Katsuyuki Nakasuga" id="117" weight="1" />
+      <edge source="Mika Kallio" target="Niccolo Canepa" id="118" weight="9" />
+      <edge source="Mika Kallio" target="Aleix Espargaro" id="119" weight="20" />
+      <edge source="Mika Kallio" target="Bradley Smith" id="120" weight="6" />
+      <edge source="Mika Kallio" target="Pol Espargaro" id="121" weight="11" />
+      <edge source="Mika Kallio" target="Miguel Oliveira" id="122" weight="1" />
+      <edge source="Niccolo Canepa" target="Aleix Espargaro" id="123" weight="1" />
+      <edge source="Andrea Dovizioso" target="Hiroshi Aoyama" id="124" weight="1" />
+      <edge source="Andrea Dovizioso" target="Cal Crutchlow" id="125" weight="35" />
+      <edge source="Andrea Dovizioso" target="Michele Pirro" id="126" weight="22" />
+      <edge source="Andrea Dovizioso" target="Andrea Iannone" id="127" weight="32" />
+      <edge source="Andrea Dovizioso" target="Hector Barbera" id="128" weight="2" />
+      <edge source="Andrea Dovizioso" target="Alvaro Bautista" id="129" weight="1" />
+      <edge source="Andrea Dovizioso" target="Danilo Petrucci" id="130" weight="33" />
+      <edge source="Andrea Dovizioso" target="Darryn Binder" id="131" weight="14" />
+      <edge source="Gabor Talmacsi" target="Yuki Takahashi" id="132" weight="2" />
+      <edge source="Aleix Espargaro" target="Maverick Viñales" id="133" weight="99" />
+      <edge source="Aleix Espargaro" target="Sam Lowes" id="134" weight="17" />
+      <edge source="Aleix Espargaro" target="Scott Redding" id="135" weight="17" />
+      <edge source="Aleix Espargaro" target="Andrea Iannone" id="136" weight="17" />
+      <edge source="Aleix Espargaro" target="Bradley Smith" id="137" weight="11" />
+      <edge source="Aleix Espargaro" target="Lorenzo Savadori" id="138" weight="24" />
+      <edge source="Aleix Espargaro" target="Joan Mir" id="139" weight="1" />
+      <edge source="Alvaro Bautista" target="Michele Pirro" id="140" weight="18" />
+      <edge source="Alvaro Bautista" target="Bryan Staring" id="141" weight="18" />
+      <edge source="Alvaro Bautista" target="Scott Redding" id="142" weight="18" />
+      <edge source="Alvaro Bautista" target="Michael Laverty" id="143" weight="1" />
+      <edge source="Alvaro Bautista" target="Stefan Bradl" id="144" weight="26" />
+      <edge source="Alvaro Bautista" target="Karel Abraham" id="145" weight="35" />
+      <edge source="Marco Simoncelli" target="Hiroshi Aoyama" id="146" weight="15" />
+      <edge source="Cal Crutchlow" target="Josh Hayes" id="147" weight="1" />
+      <edge source="Cal Crutchlow" target="Bradley Smith" id="148" weight="18" />
+      <edge source="Cal Crutchlow" target="Michele Pirro" id="149" weight="5" />
+      <edge source="Cal Crutchlow" target="Jack Miller" id="150" weight="18" />
+      <edge source="Cal Crutchlow" target="Fabio Quartararo" id="151" weight="2" />
+      <edge source="Cal Crutchlow" target="Darryn Binder" id="152" weight="6" />
+      <edge source="Hiroshi Aoyama" target="Claudio Corti" id="153" weight="1" />
+      <edge source="Hiroshi Aoyama" target="Hector Barbera" id="154" weight="16" />
+      <edge source="Hiroshi Aoyama" target="Leon Camier" id="155" weight="4" />
+      <edge source="Hiroshi Aoyama" target="Marc Marquez" id="156" weight="5" />
+      <edge source="Hiroshi Aoyama" target="Tito Rabat" id="157" weight="1" />
+      <edge source="Damian Cudlin" target="Michael Laverty" id="158" weight="5" />
+      <edge source="Yonny Hernandez" target="David Salom" id="159" weight="2" />
+      <edge source="Yonny Hernandez" target="Michael Laverty" id="160" weight="13" />
+      <edge source="Yonny Hernandez" target="Danilo Petrucci" id="161" weight="18" />
+      <edge source="Yonny Hernandez" target="Eugene Laverty" id="162" weight="18" />
+      <edge source="Michele Pirro" target="Andrea Iannone" id="163" weight="5" />
+      <edge source="Michele Pirro" target="Scott Redding" id="164" weight="3" />
+      <edge source="Michele Pirro" target="Hector Barbera" id="165" weight="2" />
+      <edge source="Michele Pirro" target="Danilo Petrucci" id="166" weight="3" />
+      <edge source="Michele Pirro" target="Jack Miller" id="167" weight="4" />
+      <edge source="Michele Pirro" target="Johann Zarco" id="168" weight="1" />
+      <edge source="Michele Pirro" target="Francesco Bagnaia" id="169" weight="7" />
+      <edge source="Michele Pirro" target="Marco Bezzecchi" id="170" weight="1" />
+      <edge source="Claudio Corti" target="Loris Baz" id="171" weight="4" />
+      <edge source="Hector Barbera" target="Javier Del Amor" id="172" weight="1" />
+      <edge source="Hector Barbera" target="Mike Di Meglio" id="173" weight="36" />
+      <edge source="Hector Barbera" target="Loris Baz" id="174" weight="31" />
+      <edge source="Hector Barbera" target="Xavi Fores" id="175" weight="1" />
+      <edge source="Danilo Petrucci" target="Lukas Pesek" id="176" weight="18" />
+      <edge source="Danilo Petrucci" target="Scott Redding" id="177" weight="32" />
+      <edge source="Danilo Petrucci" target="Jack Miller" id="178" weight="18" />
+      <edge source="Danilo Petrucci" target="Iker Lecuona" id="179" weight="18" />
+      <edge source="Danilo Petrucci" target="Alex Rins" id="180" weight="1" />
+      <edge source="Danilo Petrucci" target="Francesco Bagnaia" id="181" weight="1" />
+      <edge source="Bradley Smith" target="Pol Espargaro" id="182" weight="83" />
+      <edge source="Michael Laverty" target="Broc Parkes" id="183" weight="18" />
+      <edge source="Marc Marquez" target="Stefan Bradl" id="184" weight="3" />
+      <edge source="Marc Marquez" target="Alex Marquez" id="185" weight="21" />
+      <edge source="Marc Marquez" target="Pol Espargaro" id="186" weight="26" />
+      <edge source="Marc Marquez" target="Joan Mir" id="187" weight="13" />
+      <edge source="Marc Marquez" target="Francesco Bagnaia" id="188" weight="18" />
+      <edge source="Pol Espargaro" target="Alex Lowes" id="189" weight="2" />
+      <edge source="Pol Espargaro" target="Johann Zarco" id="190" weight="13" />
+      <edge source="Pol Espargaro" target="Brad Binder" id="191" weight="17" />
+      <edge source="Pol Espargaro" target="Stefan Bradl" id="192" weight="9" />
+      <edge source="Pol Espargaro" target="Augusto Fernandez" id="193" weight="12" />
+      <edge source="Pol Espargaro" target="Jack Miller" id="194" weight="3" />
+      <edge source="Pol Espargaro" target="Enea Bastianini" id="195" weight="5" />
+      <edge source="Broc Parkes" target="Johann Zarco" id="196" weight="1" />
+      <edge source="Loris Baz" target="Stefan Bradl" id="197" weight="8" />
+      <edge source="Loris Baz" target="Mike Jones" id="198" weight="2" />
+      <edge source="Stefan Bradl" target="Thomas Luthi" id="199" weight="1" />
+      <edge source="Stefan Bradl" target="Alex Marquez" id="200" weight="11" />
+      <edge source="Stefan Bradl" target="Joan Mir" id="201" weight="1" />
+      <edge source="Jack Miller" target="Tito Rabat" id="202" weight="29" />
+      <edge source="Jack Miller" target="Francesco Bagnaia" id="203" weight="67" />
+      <edge source="Jack Miller" target="Brad Binder" id="204" weight="40" />
+      <edge source="Jack Miller" target="Miguel Oliveira" id="205" weight="18" />
+      <edge source="Jack Miller" target="Augusto Fernandez" id="206" weight="3" />
+      <edge source="Andrea Iannone" target="Alex Rins" id="207" weight="31" />
+      <edge source="Andrea Iannone" target="Takuya Tsuda" id="208" weight="1" />
+      <edge source="Andrea Iannone" target="Marco Bezzecchi" id="209" weight="1" />
+      <edge source="Maverick Viñales" target="Fabio Quartararo" id="210" weight="10" />
+      <edge source="Maverick Viñales" target="Lorenzo Savadori" id="211" weight="11" />
+      <edge source="Maverick Viñales" target="Enea Bastianini" id="212" weight="14" />
+      <edge source="Tito Rabat" target="Xavier Simeon" id="213" weight="11" />
+      <edge source="Tito Rabat" target="Karel Abraham" id="214" weight="17" />
+      <edge source="Tito Rabat" target="Johann Zarco" id="215" weight="16" />
+      <edge source="Mike Jones" target="Karel Abraham" id="216" weight="1" />
+      <edge source="Johann Zarco" target="Jonas Folger" id="217" weight="13" />
+      <edge source="Johann Zarco" target="Kohta Nozane" id="218" weight="1" />
+      <edge source="Johann Zarco" target="Michael Van Der Mark" id="219" weight="2" />
+      <edge source="Johann Zarco" target="Hafizh Syahrin" id="220" weight="18" />
+      <edge source="Johann Zarco" target="Jorge Martin" id="221" weight="54" />
+      <edge source="Jonas Folger" target="Augusto Fernandez" id="222" weight="6" />
+      <edge source="Alex Rins" target="Joan Mir" id="223" weight="62" />
+      <edge source="Alex Rins" target="Kazuki Watanabe" id="224" weight="1" />
+      <edge source="Alex Rins" target="Takuya Tsuda" id="225" weight="1" />
+      <edge source="Alex Rins" target="Fabio Quartararo" id="226" weight="39" />
+      <edge source="Franco Morbidelli" target="Thomas Luthi" id="227" weight="16" />
+      <edge source="Franco Morbidelli" target="Fabio Quartararo" id="228" weight="78" />
+      <edge source="Franco Morbidelli" target="Jorge Martin" id="229" weight="20" />
+      <edge source="Franco Morbidelli" target="Fabio Di Giannantonio" id="230" weight="20" />
+      <edge source="Hafizh Syahrin" target="Miguel Oliveira" id="231" weight="16" />
+      <edge source="Hafizh Syahrin" target="Iker Lecuona" id="232" weight="1" />
+      <edge source="Xavier Simeon" target="Christophe Ponsson" id="233" weight="1" />
+      <edge source="Xavier Simeon" target="Jordi Torres" id="234" weight="4" />
+      <edge source="Francesco Bagnaia" target="Enea Bastianini" id="235" weight="32" />
+      <edge source="Francesco Bagnaia" target="Nicolo Bulega" id="236" weight="2" />
+      <edge source="Fabio Quartararo" target="Remy Gardner" id="237" weight="2" />
+      <edge source="Miguel Oliveira" target="Iker Lecuona" id="238" weight="11" />
+      <edge source="Miguel Oliveira" target="Brad Binder" id="239" weight="38" />
+      <edge source="Miguel Oliveira" target="Raul Fernandez" id="240" weight="31" />
+      <edge source="Joan Mir" target="Iker Lecuona" id="241" weight="1" />
+      <edge source="Joan Mir" target="Luca Marini" id="242" weight="38" />
+      <edge source="Joan Mir" target="Takaaki Nakagami" id="243" weight="1" />
+      <edge source="Brad Binder" target="Pedro Acosta" id="244" weight="22" />
+      <edge source="Alex Marquez" target="Fabio Di Giannantonio" id="245" weight="17" />
+      <edge source="Alex Marquez" target="Fermin Aldeguer" id="246" weight="22" />
+      <edge source="Lorenzo Savadori" target="Raul Fernandez" id="247" weight="5" />
+      <edge source="Lorenzo Savadori" target="Marco Bezzecchi" id="248" weight="13" />
+      <edge source="Lorenzo Savadori" target="Jorge Martin" id="249" weight="1" />
+      <edge source="Jorge Martin" target="Marco Bezzecchi" id="250" weight="7" />
+      <edge source="Enea Bastianini" target="Fabio Di Giannantonio" id="251" weight="20" />
+      <edge source="Fabio Di Giannantonio" target="Marco Bezzecchi" id="252" weight="17" />
+      <edge source="Luca Marini" target="Marco Bezzecchi" id="253" weight="38" />
+      <edge source="Raul Fernandez" target="Remy Gardner" id="254" weight="18" />
+      <edge source="Raul Fernandez" target="Ai Ogura" id="255" weight="17" />
+      <edge source="Augusto Fernandez" target="Pedro Acosta" id="256" weight="19" />
+    </edges>
+  </graph>
+</gexf>

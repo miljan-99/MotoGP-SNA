@@ -1,0 +1,7 @@
+,degree,strength,betweenness,closeness,pagerank,eigenvector
+degree,1.0,0.98,0.77,0.6,0.87,0.57
+strength,0.98,1.0,0.7,0.54,0.84,0.64
+betweenness,0.77,0.7,1.0,0.59,0.86,0.2
+closeness,0.6,0.54,0.59,1.0,0.53,0.01
+pagerank,0.87,0.84,0.86,0.53,1.0,0.29
+eigenvector,0.57,0.64,0.2,0.01,0.29,1.0

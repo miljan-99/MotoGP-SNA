@@ -1,0 +1,943 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-05">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="constructor_transfers">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="string" />
+      <attribute id="1" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Jawa-CZ" label="Jawa-CZ">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Suter" label="Suter">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Yamaha" label="Yamaha">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="S&amp;B Suter" label="S&amp;B Suter">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="ELF 500" label="ELF 500">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Modenas KR3" label="Modenas KR3">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="FTR" label="FTR">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Ckeb" label="Ckeb">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="Plaisir" label="Plaisir">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR212V" label="KR212V">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Gilera" label="Gilera">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Pulse" label="Pulse">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Triumph" label="Triumph">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Norton" label="Norton">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Harley Davidson" label="Harley Davidson">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="BMW" label="BMW">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Nava" label="Nava">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="Suzuki" label="Suzuki">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bultaco" label="Bultaco">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="APR" label="APR">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Morbidelli" label="Morbidelli">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="AJS" label="AJS">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Shell" label="Shell">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Sanvenero" label="Sanvenero">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Proton KR" label="Proton KR">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Yamsel" label="Yamsel">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Yamaha Forward" label="Yamaha Forward">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="ART" label="ART">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="HM" label="HM">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Seeley" label="Seeley">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Bianchi" label="Bianchi">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Elf-Honda" label="Elf-Honda">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Cagiva" label="Cagiva">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Benelli" label="Benelli">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="Modenas" label="Modenas">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Ioda" label="Ioda">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Honda" label="Honda">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Aprilia" label="Aprilia">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Forward Yamaha" label="Forward Yamaha">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Manx" label="Manx">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Matchless" label="Matchless">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Metisse" label="Metisse">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Harris WCM" label="Harris WCM">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Fior-Honda" label="Fior-Honda">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ELF" label="ELF">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Westlake" label="Westlake">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Vostok" label="Vostok">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="Blata" label="Blata">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Rotax" label="Rotax">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="BSL" label="BSL">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="PBM" label="PBM">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="BQR" label="BQR">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Harris Yamaha" label="Harris Yamaha">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Padgett Kawasaki" label="Padgett Kawasaki">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Librenti" label="Librenti">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Fior" label="Fior">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Monark" label="Monark">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="Linto" label="Linto">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Aermacchi" label="Aermacchi">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="KTM" label="KTM">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Ilmor X3" label="Ilmor X3">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="KR211V" label="KR211V">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Kawasaki" label="Kawasaki">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="MV Agusta" label="MV Agusta">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Ckb" label="Ckb">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="Ioda-Suter" label="Ioda-Suter">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="VRP" label="VRP">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Maico" label="Maico">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Husqvarna" label="Husqvarna">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Muench" label="Muench">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Chevallier" label="Chevallier">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Inmotec" label="Inmotec">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Avintia" label="Avintia">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Paton" label="Paton">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="BCL" label="BCL">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Sabre V4" label="Sabre V4">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Ducati" label="Ducati">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Jada" label="Jada">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Muz Weber" label="Muz Weber">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Smac" label="Smac">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Velocette" label="Velocette">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Jawa" label="Jawa">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="MD211VF PROTO" label="MD211VF PROTO">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="FTR Honda" label="FTR Honda">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="P" label="P">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="BQR-FTR" label="BQR-FTR">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="TSR" label="TSR">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="FTR Kawasaki" label="FTR Kawasaki">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="Moto Guzzi" label="Moto Guzzi">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="CZ" label="CZ">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Rieju" label="Rieju">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Koenig" label="Koenig">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Yamaha-Bartol" label="Yamaha-Bartol">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ROC Yamaha" label="ROC Yamaha">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Moriwaki" label="Moriwaki">
+        <attvalues>
+          <attvalue for="0" value="constructor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Jawa-CZ" target="Jawa" id="0" weight="1" />
+      <edge source="Suter" target="Yamaha" id="1" weight="1" />
+      <edge source="Suter" target="FTR Kawasaki" id="2" weight="1" />
+      <edge source="Suter" target="Suzuki" id="3" weight="1" />
+      <edge source="Suter" target="Honda" id="4" weight="2" />
+      <edge source="Suter" target="Aprilia" id="5" weight="1" />
+      <edge source="Suter" target="Forward Yamaha" id="6" weight="1" />
+      <edge source="Yamaha" target="Sanvenero" id="7" weight="1" />
+      <edge source="Yamaha" target="Blata" id="8" weight="1" />
+      <edge source="Yamaha" target="Husqvarna" id="9" weight="1" />
+      <edge source="Yamaha" target="Proton KR" id="10" weight="1" />
+      <edge source="Yamaha" target="Chevallier" id="11" weight="1" />
+      <edge source="Yamaha" target="PBM" id="12" weight="1" />
+      <edge source="Yamaha" target="Paton" id="13" weight="3" />
+      <edge source="Yamaha" target="Harris Yamaha" id="14" weight="6" />
+      <edge source="Yamaha" target="Ducati" id="15" weight="19" />
+      <edge source="Yamaha" target="Yamsel" id="16" weight="1" />
+      <edge source="Yamaha" target="Jada" id="17" weight="1" />
+      <edge source="Yamaha" target="Yamaha Forward" id="18" weight="1" />
+      <edge source="Yamaha" target="Librenti" id="19" weight="3" />
+      <edge source="Yamaha" target="Muz Weber" id="20" weight="4" />
+      <edge source="Yamaha" target="Fior" id="21" weight="1" />
+      <edge source="Yamaha" target="Modenas KR3" id="22" weight="3" />
+      <edge source="Yamaha" target="Matchless" id="23" weight="8" />
+      <edge source="Yamaha" target="ART" id="24" weight="2" />
+      <edge source="Yamaha" target="HM" id="25" weight="1" />
+      <edge source="Yamaha" target="Linto" id="26" weight="3" />
+      <edge source="Yamaha" target="Aermacchi" id="27" weight="1" />
+      <edge source="Yamaha" target="KR212V" id="28" weight="1" />
+      <edge source="Yamaha" target="Seeley" id="29" weight="3" />
+      <edge source="Yamaha" target="P" id="30" weight="1" />
+      <edge source="Yamaha" target="KTM" id="31" weight="10" />
+      <edge source="Yamaha" target="Cagiva" id="32" weight="11" />
+      <edge source="Yamaha" target="Pulse" id="33" weight="1" />
+      <edge source="Yamaha" target="Norton" id="34" weight="7" />
+      <edge source="Yamaha" target="TSR" id="35" weight="1" />
+      <edge source="Yamaha" target="Ilmor X3" id="36" weight="2" />
+      <edge source="Yamaha" target="Harley Davidson" id="37" weight="2" />
+      <edge source="Yamaha" target="KR211V" id="38" weight="1" />
+      <edge source="Yamaha" target="FTR Kawasaki" id="39" weight="1" />
+      <edge source="Yamaha" target="Suzuki" id="40" weight="71" />
+      <edge source="Yamaha" target="Kawasaki" id="41" weight="13" />
+      <edge source="Yamaha" target="CZ" id="42" weight="1" />
+      <edge source="Yamaha" target="MV Agusta" id="43" weight="2" />
+      <edge source="Yamaha" target="Rieju" id="44" weight="1" />
+      <edge source="Yamaha" target="Honda" id="45" weight="56" />
+      <edge source="Yamaha" target="Koenig" id="46" weight="1" />
+      <edge source="Yamaha" target="Morbidelli" id="47" weight="1" />
+      <edge source="Yamaha" target="Aprilia" id="48" weight="9" />
+      <edge source="Yamaha" target="Forward Yamaha" id="49" weight="1" />
+      <edge source="Yamaha" target="ROC Yamaha" id="50" weight="12" />
+      <edge source="Yamaha" target="Metisse" id="51" weight="1" />
+      <edge source="Yamaha" target="Moriwaki" id="52" weight="1" />
+      <edge source="Yamaha" target="Harris WCM" id="53" weight="1" />
+      <edge source="Yamaha" target="Fior-Honda" id="54" weight="1" />
+      <edge source="ELF 500" target="Harris Yamaha" id="55" weight="2" />
+      <edge source="ELF 500" target="Honda" id="56" weight="2" />
+      <edge source="ELF 500" target="ELF" id="57" weight="1" />
+      <edge source="ELF 500" target="ROC Yamaha" id="58" weight="2" />
+      <edge source="Modenas KR3" target="TSR" id="59" weight="1" />
+      <edge source="Modenas KR3" target="Harris Yamaha" id="60" weight="1" />
+      <edge source="Modenas KR3" target="Modenas" id="61" weight="1" />
+      <edge source="Modenas KR3" target="Sabre V4" id="62" weight="1" />
+      <edge source="Modenas KR3" target="KR211V" id="63" weight="1" />
+      <edge source="Modenas KR3" target="KR212V" id="64" weight="1" />
+      <edge source="Modenas KR3" target="Suzuki" id="65" weight="4" />
+      <edge source="Modenas KR3" target="BSL" id="66" weight="1" />
+      <edge source="Modenas KR3" target="Honda" id="67" weight="2" />
+      <edge source="Modenas KR3" target="Muz Weber" id="68" weight="2" />
+      <edge source="Modenas KR3" target="Pulse" id="69" weight="1" />
+      <edge source="Modenas KR3" target="ROC Yamaha" id="70" weight="1" />
+      <edge source="Modenas KR3" target="Harris WCM" id="71" weight="1" />
+      <edge source="FTR" target="Ducati" id="72" weight="3" />
+      <edge source="FTR" target="Honda" id="73" weight="1" />
+      <edge source="FTR" target="Avintia" id="74" weight="1" />
+      <edge source="FTR" target="BQR-FTR" id="75" weight="1" />
+      <edge source="FTR" target="BQR" id="76" weight="2" />
+      <edge source="Ckeb" target="Ckb" id="77" weight="1" />
+      <edge source="Ckeb" target="Vostok" id="78" weight="1" />
+      <edge source="Plaisir" target="Suzuki" id="79" weight="1" />
+      <edge source="Plaisir" target="Honda" id="80" weight="1" />
+      <edge source="Plaisir" target="Chevallier" id="81" weight="1" />
+      <edge source="KR212V" target="KR211V" id="82" weight="1" />
+      <edge source="KR212V" target="Suzuki" id="83" weight="1" />
+      <edge source="KR212V" target="Proton KR" id="84" weight="1" />
+      <edge source="Gilera" target="BMW" id="85" weight="2" />
+      <edge source="Gilera" target="ROC Yamaha" id="86" weight="1" />
+      <edge source="Gilera" target="Ducati" id="87" weight="1" />
+      <edge source="Gilera" target="Suzuki" id="88" weight="1" />
+      <edge source="Gilera" target="Moto Guzzi" id="89" weight="1" />
+      <edge source="Gilera" target="MV Agusta" id="90" weight="7" />
+      <edge source="Gilera" target="AJS" id="91" weight="2" />
+      <edge source="Gilera" target="Matchless" id="92" weight="4" />
+      <edge source="Gilera" target="Metisse" id="93" weight="1" />
+      <edge source="Gilera" target="Norton" id="94" weight="9" />
+      <edge source="Gilera" target="Velocette" id="95" weight="1" />
+      <edge source="Pulse" target="Suzuki" id="96" weight="1" />
+      <edge source="Pulse" target="Honda" id="97" weight="1" />
+      <edge source="Pulse" target="BSL" id="98" weight="1" />
+      <edge source="Triumph" target="Seeley" id="99" weight="1" />
+      <edge source="Triumph" target="Paton" id="100" weight="1" />
+      <edge source="Triumph" target="Norton" id="101" weight="1" />
+      <edge source="Triumph" target="Matchless" id="102" weight="1" />
+      <edge source="Norton" target="Aermacchi" id="103" weight="2" />
+      <edge source="Norton" target="ELF" id="104" weight="1" />
+      <edge source="Norton" target="Westlake" id="105" weight="1" />
+      <edge source="Norton" target="Velocette" id="106" weight="1" />
+      <edge source="Norton" target="Seeley" id="107" weight="3" />
+      <edge source="Norton" target="Elf-Honda" id="108" weight="1" />
+      <edge source="Norton" target="Cagiva" id="109" weight="1" />
+      <edge source="Norton" target="Paton" id="110" weight="2" />
+      <edge source="Norton" target="BMW" id="111" weight="2" />
+      <edge source="Norton" target="ROC Yamaha" id="112" weight="1" />
+      <edge source="Norton" target="Ducati" id="113" weight="1" />
+      <edge source="Norton" target="Suzuki" id="114" weight="5" />
+      <edge source="Norton" target="Moto Guzzi" id="115" weight="4" />
+      <edge source="Norton" target="Jada" id="116" weight="1" />
+      <edge source="Norton" target="Kawasaki" id="117" weight="4" />
+      <edge source="Norton" target="MV Agusta" id="118" weight="8" />
+      <edge source="Norton" target="Honda" id="119" weight="3" />
+      <edge source="Norton" target="Librenti" id="120" weight="3" />
+      <edge source="Norton" target="Koenig" id="121" weight="2" />
+      <edge source="Norton" target="AJS" id="122" weight="3" />
+      <edge source="Norton" target="Manx" id="123" weight="1" />
+      <edge source="Norton" target="Metisse" id="124" weight="2" />
+      <edge source="Norton" target="Matchless" id="125" weight="14" />
+      <edge source="Norton" target="Linto" id="126" weight="4" />
+      <edge source="Harley Davidson" target="MV Agusta" id="127" weight="1" />
+      <edge source="Harley Davidson" target="Suzuki" id="128" weight="3" />
+      <edge source="BMW" target="Suzuki" id="129" weight="1" />
+      <edge source="BMW" target="Moto Guzzi" id="130" weight="1" />
+      <edge source="BMW" target="Kawasaki" id="131" weight="1" />
+      <edge source="BMW" target="MV Agusta" id="132" weight="1" />
+      <edge source="BMW" target="Koenig" id="133" weight="1" />
+      <edge source="Suzuki" target="ELF" id="134" weight="1" />
+      <edge source="Suzuki" target="Proton KR" id="135" weight="1" />
+      <edge source="Suzuki" target="Chevallier" id="136" weight="2" />
+      <edge source="Suzuki" target="BSL" id="137" weight="1" />
+      <edge source="Suzuki" target="Paton" id="138" weight="3" />
+      <edge source="Suzuki" target="Harris Yamaha" id="139" weight="6" />
+      <edge source="Suzuki" target="Ducati" id="140" weight="11" />
+      <edge source="Suzuki" target="Yamsel" id="141" weight="1" />
+      <edge source="Suzuki" target="Padgett Kawasaki" id="142" weight="1" />
+      <edge source="Suzuki" target="Jada" id="143" weight="1" />
+      <edge source="Suzuki" target="Librenti" id="144" weight="2" />
+      <edge source="Suzuki" target="Muz Weber" id="145" weight="2" />
+      <edge source="Suzuki" target="Fior" id="146" weight="3" />
+      <edge source="Suzuki" target="Metisse" id="147" weight="1" />
+      <edge source="Suzuki" target="ART" id="148" weight="3" />
+      <edge source="Suzuki" target="Matchless" id="149" weight="4" />
+      <edge source="Suzuki" target="Linto" id="150" weight="2" />
+      <edge source="Suzuki" target="Aermacchi" id="151" weight="1" />
+      <edge source="Suzuki" target="Seeley" id="152" weight="4" />
+      <edge source="Suzuki" target="P" id="153" weight="3" />
+      <edge source="Suzuki" target="KTM" id="154" weight="2" />
+      <edge source="Suzuki" target="Cagiva" id="155" weight="12" />
+      <edge source="Suzuki" target="Elf-Honda" id="156" weight="1" />
+      <edge source="Suzuki" target="VRP" id="157" weight="1" />
+      <edge source="Suzuki" target="KR211V" id="158" weight="1" />
+      <edge source="Suzuki" target="Kawasaki" id="159" weight="4" />
+      <edge source="Suzuki" target="CZ" id="160" weight="1" />
+      <edge source="Suzuki" target="Ioda" id="161" weight="1" />
+      <edge source="Suzuki" target="Rieju" id="162" weight="3" />
+      <edge source="Suzuki" target="MV Agusta" id="163" weight="4" />
+      <edge source="Suzuki" target="Honda" id="164" weight="63" />
+      <edge source="Suzuki" target="Koenig" id="165" weight="1" />
+      <edge source="Suzuki" target="Morbidelli" id="166" weight="2" />
+      <edge source="Suzuki" target="Aprilia" id="167" weight="5" />
+      <edge source="Suzuki" target="Shell" id="168" weight="1" />
+      <edge source="Suzuki" target="ROC Yamaha" id="169" weight="11" />
+      <edge source="Suzuki" target="Forward Yamaha" id="170" weight="1" />
+      <edge source="Suzuki" target="Yamaha-Bartol" id="171" weight="1" />
+      <edge source="Suzuki" target="Ioda-Suter" id="172" weight="1" />
+      <edge source="Suzuki" target="Fior-Honda" id="173" weight="1" />
+      <edge source="Bultaco" target="Kawasaki" id="174" weight="1" />
+      <edge source="Morbidelli" target="Honda" id="175" weight="1" />
+      <edge source="AJS" target="Moto Guzzi" id="176" weight="1" />
+      <edge source="AJS" target="MV Agusta" id="177" weight="2" />
+      <edge source="AJS" target="Matchless" id="178" weight="1" />
+      <edge source="AJS" target="Velocette" id="179" weight="1" />
+      <edge source="Shell" target="Honda" id="180" weight="1" />
+      <edge source="Shell" target="Rieju" id="181" weight="1" />
+      <edge source="Shell" target="ROC Yamaha" id="182" weight="1" />
+      <edge source="Sanvenero" target="Honda" id="183" weight="1" />
+      <edge source="Proton KR" target="Ilmor X3" id="184" weight="1" />
+      <edge source="Proton KR" target="Harris Yamaha" id="185" weight="1" />
+      <edge source="Proton KR" target="Honda" id="186" weight="3" />
+      <edge source="Proton KR" target="Muz Weber" id="187" weight="1" />
+      <edge source="Proton KR" target="Aprilia" id="188" weight="2" />
+      <edge source="Proton KR" target="ROC Yamaha" id="189" weight="2" />
+      <edge source="Proton KR" target="TSR" id="190" weight="1" />
+      <edge source="Yamsel" target="Matchless" id="191" weight="1" />
+      <edge source="Yamaha Forward" target="Ducati" id="192" weight="2" />
+      <edge source="Yamaha Forward" target="FTR Kawasaki" id="193" weight="1" />
+      <edge source="Yamaha Forward" target="Honda" id="194" weight="2" />
+      <edge source="Yamaha Forward" target="Inmotec" id="195" weight="1" />
+      <edge source="Yamaha Forward" target="Aprilia" id="196" weight="1" />
+      <edge source="ART" target="Blata" id="197" weight="1" />
+      <edge source="ART" target="KTM" id="198" weight="1" />
+      <edge source="ART" target="BQR-FTR" id="199" weight="1" />
+      <edge source="ART" target="PBM" id="200" weight="3" />
+      <edge source="ART" target="BQR" id="201" weight="1" />
+      <edge source="ART" target="Ducati" id="202" weight="9" />
+      <edge source="ART" target="Kawasaki" id="203" weight="1" />
+      <edge source="ART" target="Ioda" id="204" weight="1" />
+      <edge source="ART" target="Honda" id="205" weight="5" />
+      <edge source="ART" target="Aprilia" id="206" weight="3" />
+      <edge source="ART" target="Forward Yamaha" id="207" weight="2" />
+      <edge source="ART" target="Ioda-Suter" id="208" weight="1" />
+      <edge source="ART" target="Harris WCM" id="209" weight="2" />
+      <edge source="Seeley" target="Aermacchi" id="210" weight="1" />
+      <edge source="Seeley" target="Ducati" id="211" weight="1" />
+      <edge source="Seeley" target="Kawasaki" id="212" weight="3" />
+      <edge source="Seeley" target="Jada" id="213" weight="1" />
+      <edge source="Seeley" target="Matchless" id="214" weight="5" />
+      <edge source="Seeley" target="Metisse" id="215" weight="1" />
+      <edge source="Seeley" target="Linto" id="216" weight="1" />
+      <edge source="Bianchi" target="MV Agusta" id="217" weight="1" />
+      <edge source="Elf-Honda" target="ELF" id="218" weight="2" />
+      <edge source="Elf-Honda" target="Honda" id="219" weight="3" />
+      <edge source="Elf-Honda" target="Cagiva" id="220" weight="1" />
+      <edge source="Elf-Honda" target="Chevallier" id="221" weight="1" />
+      <edge source="Elf-Honda" target="ROC Yamaha" id="222" weight="1" />
+      <edge source="Cagiva" target="Harris Yamaha" id="223" weight="2" />
+      <edge source="Cagiva" target="ELF" id="224" weight="1" />
+      <edge source="Cagiva" target="Ducati" id="225" weight="1" />
+      <edge source="Cagiva" target="Honda" id="226" weight="13" />
+      <edge source="Cagiva" target="Librenti" id="227" weight="1" />
+      <edge source="Cagiva" target="Chevallier" id="228" weight="1" />
+      <edge source="Cagiva" target="ROC Yamaha" id="229" weight="3" />
+      <edge source="Cagiva" target="Paton" id="230" weight="2" />
+      <edge source="Modenas" target="Harris Yamaha" id="231" weight="1" />
+      <edge source="Modenas" target="ROC Yamaha" id="232" weight="1" />
+      <edge source="Ioda" target="Ducati" id="233" weight="1" />
+      <edge source="Ioda" target="KTM" id="234" weight="1" />
+      <edge source="Ioda" target="Ioda-Suter" id="235" weight="1" />
+      <edge source="Honda" target="ELF" id="236" weight="3" />
+      <edge source="Honda" target="Chevallier" id="237" weight="3" />
+      <edge source="Honda" target="BQR" id="238" weight="1" />
+      <edge source="Honda" target="Paton" id="239" weight="6" />
+      <edge source="Honda" target="Harris Yamaha" id="240" weight="11" />
+      <edge source="Honda" target="Sabre V4" id="241" weight="1" />
+      <edge source="Honda" target="Ducati" id="242" weight="31" />
+      <edge source="Honda" target="Padgett Kawasaki" id="243" weight="1" />
+      <edge source="Honda" target="Librenti" id="244" weight="2" />
+      <edge source="Honda" target="Muz Weber" id="245" weight="3" />
+      <edge source="Honda" target="Fior" id="246" weight="1" />
+      <edge source="Honda" target="Matchless" id="247" weight="2" />
+      <edge source="Honda" target="P" id="248" weight="2" />
+      <edge source="Honda" target="KTM" id="249" weight="5" />
+      <edge source="Honda" target="VRP" id="250" weight="1" />
+      <edge source="Honda" target="TSR" id="251" weight="4" />
+      <edge source="Honda" target="Ilmor X3" id="252" weight="1" />
+      <edge source="Honda" target="FTR Kawasaki" id="253" weight="1" />
+      <edge source="Honda" target="Kawasaki" id="254" weight="7" />
+      <edge source="Honda" target="Rieju" id="255" weight="6" />
+      <edge source="Honda" target="MV Agusta" id="256" weight="1" />
+      <edge source="Honda" target="Aprilia" id="257" weight="11" />
+      <edge source="Honda" target="ROC Yamaha" id="258" weight="16" />
+      <edge source="Honda" target="Forward Yamaha" id="259" weight="3" />
+      <edge source="Honda" target="Moriwaki" id="260" weight="1" />
+      <edge source="Honda" target="Harris WCM" id="261" weight="2" />
+      <edge source="Honda" target="Fior-Honda" id="262" weight="1" />
+      <edge source="Aprilia" target="KTM" id="263" weight="4" />
+      <edge source="Aprilia" target="PBM" id="264" weight="1" />
+      <edge source="Aprilia" target="Ilmor X3" id="265" weight="2" />
+      <edge source="Aprilia" target="Ducati" id="266" weight="8" />
+      <edge source="Aprilia" target="FTR Kawasaki" id="267" weight="1" />
+      <edge source="Aprilia" target="Kawasaki" id="268" weight="2" />
+      <edge source="Aprilia" target="Forward Yamaha" id="269" weight="2" />
+      <edge source="Aprilia" target="ROC Yamaha" id="270" weight="1" />
+      <edge source="Aprilia" target="Harris WCM" id="271" weight="1" />
+      <edge source="Forward Yamaha" target="Ducati" id="272" weight="2" />
+      <edge source="Forward Yamaha" target="FTR Kawasaki" id="273" weight="1" />
+      <edge source="Matchless" target="Aermacchi" id="274" weight="1" />
+      <edge source="Matchless" target="Paton" id="275" weight="1" />
+      <edge source="Matchless" target="Ducati" id="276" weight="1" />
+      <edge source="Matchless" target="Kawasaki" id="277" weight="4" />
+      <edge source="Matchless" target="Jada" id="278" weight="1" />
+      <edge source="Matchless" target="MV Agusta" id="279" weight="2" />
+      <edge source="Matchless" target="Librenti" id="280" weight="2" />
+      <edge source="Matchless" target="Metisse" id="281" weight="2" />
+      <edge source="Matchless" target="Linto" id="282" weight="3" />
+      <edge source="Matchless" target="Maico" id="283" weight="1" />
+      <edge source="Metisse" target="MV Agusta" id="284" weight="1" />
+      <edge source="Metisse" target="Muench" id="285" weight="1" />
+      <edge source="Harris WCM" target="TSR" id="286" weight="1" />
+      <edge source="Harris WCM" target="Sabre V4" id="287" weight="1" />
+      <edge source="Harris WCM" target="Ducati" id="288" weight="1" />
+      <edge source="Harris WCM" target="Blata" id="289" weight="1" />
+      <edge source="Harris WCM" target="ROC Yamaha" id="290" weight="1" />
+      <edge source="Fior-Honda" target="Fior" id="291" weight="1" />
+      <edge source="ELF" target="Harris Yamaha" id="292" weight="1" />
+      <edge source="ELF" target="Chevallier" id="293" weight="1" />
+      <edge source="ELF" target="ROC Yamaha" id="294" weight="1" />
+      <edge source="Westlake" target="Aermacchi" id="295" weight="1" />
+      <edge source="Vostok" target="Ckb" id="296" weight="1" />
+      <edge source="Blata" target="Ducati" id="297" weight="1" />
+      <edge source="PBM" target="Ducati" id="298" weight="1" />
+      <edge source="BQR" target="Ducati" id="299" weight="2" />
+      <edge source="BQR" target="BQR-FTR" id="300" weight="2" />
+      <edge source="Harris Yamaha" target="P" id="301" weight="1" />
+      <edge source="Harris Yamaha" target="Paton" id="302" weight="2" />
+      <edge source="Harris Yamaha" target="ROC Yamaha" id="303" weight="10" />
+      <edge source="Harris Yamaha" target="Padgett Kawasaki" id="304" weight="1" />
+      <edge source="Harris Yamaha" target="Ducati" id="305" weight="1" />
+      <edge source="Harris Yamaha" target="Rieju" id="306" weight="1" />
+      <edge source="Harris Yamaha" target="Librenti" id="307" weight="2" />
+      <edge source="Harris Yamaha" target="Muz Weber" id="308" weight="1" />
+      <edge source="Harris Yamaha" target="VRP" id="309" weight="1" />
+      <edge source="Padgett Kawasaki" target="P" id="310" weight="1" />
+      <edge source="Librenti" target="Paton" id="311" weight="1" />
+      <edge source="Librenti" target="Kawasaki" id="312" weight="1" />
+      <edge source="Librenti" target="Rieju" id="313" weight="1" />
+      <edge source="Librenti" target="MV Agusta" id="314" weight="1" />
+      <edge source="Librenti" target="Koenig" id="315" weight="1" />
+      <edge source="Librenti" target="ROC Yamaha" id="316" weight="2" />
+      <edge source="Librenti" target="Linto" id="317" weight="4" />
+      <edge source="Librenti" target="VRP" id="318" weight="1" />
+      <edge source="Fior" target="Rieju" id="319" weight="1" />
+      <edge source="Linto" target="Aermacchi" id="320" weight="1" />
+      <edge source="Linto" target="Kawasaki" id="321" weight="1" />
+      <edge source="Linto" target="Jada" id="322" weight="1" />
+      <edge source="Linto" target="MV Agusta" id="323" weight="1" />
+      <edge source="Linto" target="Koenig" id="324" weight="1" />
+      <edge source="Aermacchi" target="Jada" id="325" weight="1" />
+      <edge source="Aermacchi" target="MV Agusta" id="326" weight="1" />
+      <edge source="Aermacchi" target="Paton" id="327" weight="1" />
+      <edge source="KTM" target="Ducati" id="328" weight="5" />
+      <edge source="KTM" target="Ioda-Suter" id="329" weight="1" />
+      <edge source="Ilmor X3" target="Kawasaki" id="330" weight="2" />
+      <edge source="Ilmor X3" target="ROC Yamaha" id="331" weight="1" />
+      <edge source="Ilmor X3" target="Moriwaki" id="332" weight="1" />
+      <edge source="Kawasaki" target="Husqvarna" id="333" weight="1" />
+      <edge source="Kawasaki" target="Paton" id="334" weight="2" />
+      <edge source="Kawasaki" target="Moriwaki" id="335" weight="3" />
+      <edge source="Kawasaki" target="Ducati" id="336" weight="3" />
+      <edge source="Kawasaki" target="Koenig" id="337" weight="2" />
+      <edge source="Kawasaki" target="Smac" id="338" weight="1" />
+      <edge source="MV Agusta" target="Paton" id="339" weight="1" />
+      <edge source="MV Agusta" target="Ducati" id="340" weight="1" />
+      <edge source="MV Agusta" target="Moto Guzzi" id="341" weight="2" />
+      <edge source="Ioda-Suter" target="Ducati" id="342" weight="1" />
+      <edge source="VRP" target="Rieju" id="343" weight="1" />
+      <edge source="VRP" target="ROC Yamaha" id="344" weight="1" />
+      <edge source="Inmotec" target="FTR Kawasaki" id="345" weight="1" />
+      <edge source="Avintia" target="Ducati" id="346" weight="2" />
+      <edge source="Paton" target="Rieju" id="347" weight="1" />
+      <edge source="Paton" target="ROC Yamaha" id="348" weight="5" />
+      <edge source="Sabre V4" target="TSR" id="349" weight="1" />
+      <edge source="Ducati" target="BQR-FTR" id="350" weight="2" />
+      <edge source="Ducati" target="TSR" id="351" weight="1" />
+      <edge source="Ducati" target="ROC Yamaha" id="352" weight="1" />
+      <edge source="Muz Weber" target="ROC Yamaha" id="353" weight="1" />
+      <edge source="Muz Weber" target="TSR" id="354" weight="1" />
+      <edge source="MD211VF PROTO" target="Moriwaki" id="355" weight="1" />
+      <edge source="Rieju" target="ROC Yamaha" id="356" weight="2" />
+    </edges>
+  </graph>
+</gexf>

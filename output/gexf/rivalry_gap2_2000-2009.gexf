@@ -1,0 +1,2015 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-05">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="rivalry_gap2_2000-2009">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="races" type="long" />
+      <attribute id="1" title="first_year" type="long" />
+      <attribute id="2" title="last_year" type="long" />
+      <attribute id="3" title="points" type="double" />
+      <attribute id="4" title="wins" type="long" />
+      <attribute id="5" title="country" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Garry Mccoy" label="Garry Mccoy">
+        <attvalues>
+          <attvalue for="0" value="64" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2006" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Carlos Checa" label="Carlos Checa">
+        <attvalues>
+          <attvalue for="0" value="129" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="293.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Loris Capirossi" label="Loris Capirossi">
+        <attvalues>
+          <attvalue for="0" value="159" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="775.0" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Alex Barros" label="Alex Barros">
+        <attvalues>
+          <attvalue for="0" value="112" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="286.0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="BR" />
+        </attvalues>
+      </node>
+      <node id="Alex Criville" label="Alex Criville">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Kenny Roberts Jr" label="Kenny Roberts Jr">
+        <attvalues>
+          <attvalue for="0" value="106" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="200.0" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Norick Abe" label="Norick Abe">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2004" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Nobuatsu Aoki" label="Nobuatsu Aoki">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Regis Laconi" label="Regis Laconi">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2002" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Jurgen Vd Goorbergh" label="Jurgen Vd Goorbergh">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="12.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NL" />
+        </attvalues>
+      </node>
+      <node id="Jose Luis Cardoso" label="Jose Luis Cardoso">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2006" />
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Sebastien Gimbert" label="Sebastien Gimbert">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Yoshiteru Konishi" label="Yoshiteru Konishi">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Shane Norval" label="Shane Norval">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ZA" />
+        </attvalues>
+      </node>
+      <node id="David De Gea" label="David De Gea">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2003" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Max Biaggi" label="Max Biaggi">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="195.0" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Tadayuki Okada" label="Tadayuki Okada">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="2.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Sete Gibernau" label="Sete Gibernau">
+        <attvalues>
+          <attvalue for="0" value="112" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="272.0" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Jeremy Mcwilliams" label="Jeremy Mcwilliams">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Tetsuya Harada" label="Tetsuya Harada">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2002" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Akira Ryo" label="Akira Ryo">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2003" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Valentino Rossi" label="Valentino Rossi">
+        <attvalues>
+          <attvalue for="0" value="165" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="1539.0" />
+          <attvalue for="4" value="75" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Sebastien Legrelle" label="Sebastien Legrelle">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="BE" />
+        </attvalues>
+      </node>
+      <node id="John Mcguinness" label="John Mcguinness">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Anthony Gobert" label="Anthony Gobert">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Luca Cadalora" label="Luca Cadalora">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Paolo Tessari" label="Paolo Tessari">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Phil Giles" label="Phil Giles">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Mark Willis" label="Mark Willis">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="David Tomas" label="David Tomas">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Tekkyu Kayo" label="Tekkyu Kayo">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Shinya Nakano" label="Shinya Nakano">
+        <attvalues>
+          <attvalue for="0" value="133" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="389.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Haruchika Aoki" label="Haruchika Aoki">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Leon Haslam" label="Leon Haslam">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Tohru Ukawa" label="Tohru Ukawa">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Anthony West" label="Anthony West">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="109.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Chris Walker" label="Chris Walker">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Olivier Jacque" label="Olivier Jacque">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="32.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Johan Stigefelt" label="Johan Stigefelt">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="SE" />
+        </attvalues>
+      </node>
+      <node id="Barry Veneman" label="Barry Veneman">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NL" />
+        </attvalues>
+      </node>
+      <node id="Noriyuki Haga" label="Noriyuki Haga">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2003" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Jay Vincent" label="Jay Vincent">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Jarno Janssen" label="Jarno Janssen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="NL" />
+        </attvalues>
+      </node>
+      <node id="Brendan Clarke" label="Brendan Clarke">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2001" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Yukio Kagayama" label="Yukio Kagayama">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2004" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Shinichi Ito" label="Shinichi Ito">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Daijiro Kato" label="Daijiro Kato">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2003" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="John Hopkins" label="John Hopkins">
+        <attvalues>
+          <attvalue for="0" value="110" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="428.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Pere Riba" label="Pere Riba">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2002" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Jean Michel Bayle" label="Jean Michel Bayle">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2002" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Alex Hofmann" label="Alex Hofmann">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="124.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="DE" />
+        </attvalues>
+      </node>
+      <node id="Sylvain Guintoli" label="Sylvain Guintoli">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="117.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Wataru Yoshikawa" label="Wataru Yoshikawa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2002" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Andrew Pitt" label="Andrew Pitt">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Troy Bayliss" label="Troy Bayliss">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2006" />
+          <attvalue for="3" value="113.0" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Colin Edwards" label="Colin Edwards">
+        <attvalues>
+          <attvalue for="0" value="118" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="761.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Nicky Hayden" label="Nicky Hayden">
+        <attvalues>
+          <attvalue for="0" value="115" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="903.0" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Akira Yanagawa" label="Akira Yanagawa">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2002" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Tamaki Serizawa" label="Tamaki Serizawa">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Makoto Tamada" label="Makoto Tamada">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="241.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Marco Melandri" label="Marco Melandri">
+        <attvalues>
+          <attvalue for="0" value="112" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="814.0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Ryuichi Kiyonari" label="Ryuichi Kiyonari">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="8.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Chris Burns" label="Chris Burns">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2004" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Shane Byrne" label="Shane Byrne">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Michel Fabrizio" label="Michel Fabrizio">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Ruben Xaus" label="Ruben Xaus">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="53.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Kurtis Roberts" label="Kurtis Roberts">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="2001" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="10.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Neil Hodgson" label="Neil Hodgson">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2004" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="James Ellison" label="James Ellison">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2006" />
+          <attvalue for="3" value="35.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="James Haydon" label="James Haydon">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2004" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Youichi Ui" label="Youichi Ui">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2004" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Gregorio Lavilla" label="Gregorio Lavilla">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="2004" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Toni Elias" label="Toni Elias">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="526.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Roberto Rolfo" label="Roberto Rolfo">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="26.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Franco Battaini" label="Franco Battaini">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="7.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="David Checa" label="David Checa">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+          <attvalue for="3" value="4.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Chris Vermeulen" label="Chris Vermeulen">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="514.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Daniel Pedrosa" label="Daniel Pedrosa">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="892.0" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Casey Stoner" label="Casey Stoner">
+        <attvalues>
+          <attvalue for="0" value="67" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="990.0" />
+          <attvalue for="4" value="21" />
+          <attvalue for="5" value="AU" />
+        </attvalues>
+      </node>
+      <node id="Randy De Puniet" label="Randy De Puniet">
+        <attvalues>
+          <attvalue for="0" value="70" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="305.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FR" />
+        </attvalues>
+      </node>
+      <node id="Ivan Silva" label="Ivan Silva">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Kousuke Akiyoshi" label="Kousuke Akiyoshi">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="3.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Dani Pedrosa" label="Dani Pedrosa">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2006" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="58.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Fonsi Nieto" label="Fonsi Nieto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Roger Lee Hayden" label="Roger Lee Hayden">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="6.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Chaz Davies" label="Chaz Davies">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="2007" />
+          <attvalue for="3" value="0.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Jorge Lorenzo" label="Jorge Lorenzo">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="435.0" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+      <node id="Andrea Dovizioso" label="Andrea Dovizioso">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="318.0" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="James Toseland" label="James Toseland">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="189.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="GB" />
+        </attvalues>
+      </node>
+      <node id="Alex De Angelis" label="Alex De Angelis">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="181.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="SM" />
+        </attvalues>
+      </node>
+      <node id="Ben Spies" label="Ben Spies">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="38.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Jamie Hacking" label="Jamie Hacking">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2008" />
+          <attvalue for="2" value="2008" />
+          <attvalue for="3" value="5.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="US" />
+        </attvalues>
+      </node>
+      <node id="Mika Kallio" label="Mika Kallio">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="67.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="FI" />
+        </attvalues>
+      </node>
+      <node id="Yuki Takahashi" label="Yuki Takahashi">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="9.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="JP" />
+        </attvalues>
+      </node>
+      <node id="Niccolo Canepa" label="Niccolo Canepa">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="33.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="IT" />
+        </attvalues>
+      </node>
+      <node id="Gabor Talmacsi" label="Gabor Talmacsi">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="19.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="HU" />
+        </attvalues>
+      </node>
+      <node id="Aleix Espargaro" label="Aleix Espargaro">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="2009" />
+          <attvalue for="3" value="19.0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="ES" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Garry Mccoy" target="Carlos Checa" id="0" weight="7" />
+      <edge source="Garry Mccoy" target="Loris Capirossi" id="1" weight="5" />
+      <edge source="Garry Mccoy" target="Kenny Roberts Jr" id="2" weight="13" />
+      <edge source="Garry Mccoy" target="Max Biaggi" id="3" weight="9" />
+      <edge source="Garry Mccoy" target="Nobuatsu Aoki" id="4" weight="12" />
+      <edge source="Garry Mccoy" target="Alex Barros" id="5" weight="3" />
+      <edge source="Garry Mccoy" target="Jeremy Mcwilliams" id="6" weight="7" />
+      <edge source="Garry Mccoy" target="Akira Ryo" id="7" weight="5" />
+      <edge source="Garry Mccoy" target="Valentino Rossi" id="8" weight="11" />
+      <edge source="Garry Mccoy" target="Shane Norval" id="9" weight="1" />
+      <edge source="Garry Mccoy" target="Tadayuki Okada" id="10" weight="1" />
+      <edge source="Garry Mccoy" target="David De Gea" id="11" weight="2" />
+      <edge source="Garry Mccoy" target="Anthony Gobert" id="12" weight="1" />
+      <edge source="Garry Mccoy" target="Sebastien Legrelle" id="13" weight="1" />
+      <edge source="Garry Mccoy" target="Sete Gibernau" id="14" weight="7" />
+      <edge source="Garry Mccoy" target="Norick Abe" id="15" weight="6" />
+      <edge source="Garry Mccoy" target="Jose Luis Cardoso" id="16" weight="7" />
+      <edge source="Garry Mccoy" target="Noriyuki Haga" id="17" weight="3" />
+      <edge source="Garry Mccoy" target="Tohru Ukawa" id="18" weight="3" />
+      <edge source="Garry Mccoy" target="Anthony West" id="19" weight="2" />
+      <edge source="Garry Mccoy" target="Johan Stigefelt" id="20" weight="1" />
+      <edge source="Garry Mccoy" target="Yukio Kagayama" id="21" weight="2" />
+      <edge source="Garry Mccoy" target="Alex Criville" id="22" weight="1" />
+      <edge source="Garry Mccoy" target="Shinya Nakano" id="23" weight="7" />
+      <edge source="Garry Mccoy" target="Leon Haslam" id="24" weight="1" />
+      <edge source="Garry Mccoy" target="Jurgen Vd Goorbergh" id="25" weight="4" />
+      <edge source="Garry Mccoy" target="Tetsuya Harada" id="26" weight="5" />
+      <edge source="Garry Mccoy" target="John Hopkins" id="27" weight="5" />
+      <edge source="Garry Mccoy" target="Regis Laconi" id="28" weight="2" />
+      <edge source="Garry Mccoy" target="Alex Hofmann" id="29" weight="5" />
+      <edge source="Garry Mccoy" target="Andrew Pitt" id="30" weight="8" />
+      <edge source="Garry Mccoy" target="Olivier Jacque" id="31" weight="1" />
+      <edge source="Garry Mccoy" target="Akira Yanagawa" id="32" weight="1" />
+      <edge source="Garry Mccoy" target="Marco Melandri" id="33" weight="1" />
+      <edge source="Garry Mccoy" target="Colin Edwards" id="34" weight="2" />
+      <edge source="Garry Mccoy" target="Ryuichi Kiyonari" id="35" weight="5" />
+      <edge source="Garry Mccoy" target="Makoto Tamada" id="36" weight="1" />
+      <edge source="Garry Mccoy" target="James Ellison" id="37" weight="4" />
+      <edge source="Garry Mccoy" target="Neil Hodgson" id="38" weight="2" />
+      <edge source="Garry Mccoy" target="Gregorio Lavilla" id="39" weight="2" />
+      <edge source="Carlos Checa" target="Loris Capirossi" id="40" weight="29" />
+      <edge source="Carlos Checa" target="Alex Barros" id="41" weight="21" />
+      <edge source="Carlos Checa" target="Kenny Roberts Jr" id="42" weight="19" />
+      <edge source="Carlos Checa" target="Max Biaggi" id="43" weight="21" />
+      <edge source="Carlos Checa" target="Tadayuki Okada" id="44" weight="4" />
+      <edge source="Carlos Checa" target="Nobuatsu Aoki" id="45" weight="3" />
+      <edge source="Carlos Checa" target="Alex Criville" id="46" weight="5" />
+      <edge source="Carlos Checa" target="Valentino Rossi" id="47" weight="20" />
+      <edge source="Carlos Checa" target="Jeremy Mcwilliams" id="48" weight="7" />
+      <edge source="Carlos Checa" target="Sete Gibernau" id="49" weight="19" />
+      <edge source="Carlos Checa" target="Regis Laconi" id="50" weight="4" />
+      <edge source="Carlos Checa" target="John Mcguinness" id="51" weight="1" />
+      <edge source="Carlos Checa" target="Norick Abe" id="52" weight="14" />
+      <edge source="Carlos Checa" target="Jurgen Vd Goorbergh" id="53" weight="4" />
+      <edge source="Carlos Checa" target="Tetsuya Harada" id="54" weight="2" />
+      <edge source="Carlos Checa" target="Mark Willis" id="55" weight="1" />
+      <edge source="Carlos Checa" target="Jose Luis Cardoso" id="56" weight="3" />
+      <edge source="Carlos Checa" target="David Tomas" id="57" weight="1" />
+      <edge source="Carlos Checa" target="Haruchika Aoki" id="58" weight="2" />
+      <edge source="Carlos Checa" target="Noriyuki Haga" id="59" weight="6" />
+      <edge source="Carlos Checa" target="Anthony West" id="60" weight="7" />
+      <edge source="Carlos Checa" target="Leon Haslam" id="61" weight="1" />
+      <edge source="Carlos Checa" target="Tohru Ukawa" id="62" weight="16" />
+      <edge source="Carlos Checa" target="Shinya Nakano" id="63" weight="28" />
+      <edge source="Carlos Checa" target="Olivier Jacque" id="64" weight="8" />
+      <edge source="Carlos Checa" target="Johan Stigefelt" id="65" weight="1" />
+      <edge source="Carlos Checa" target="Barry Veneman" id="66" weight="1" />
+      <edge source="Carlos Checa" target="Akira Ryo" id="67" weight="1" />
+      <edge source="Carlos Checa" target="Shinichi Ito" id="68" weight="1" />
+      <edge source="Carlos Checa" target="Daijiro Kato" id="69" weight="2" />
+      <edge source="Carlos Checa" target="Nicky Hayden" id="70" weight="16" />
+      <edge source="Carlos Checa" target="Colin Edwards" id="71" weight="19" />
+      <edge source="Carlos Checa" target="Troy Bayliss" id="72" weight="9" />
+      <edge source="Carlos Checa" target="Marco Melandri" id="73" weight="15" />
+      <edge source="Carlos Checa" target="Makoto Tamada" id="74" weight="20" />
+      <edge source="Carlos Checa" target="Ruben Xaus" id="75" weight="4" />
+      <edge source="Carlos Checa" target="Neil Hodgson" id="76" weight="3" />
+      <edge source="Carlos Checa" target="John Hopkins" id="77" weight="16" />
+      <edge source="Carlos Checa" target="Alex Hofmann" id="78" weight="9" />
+      <edge source="Carlos Checa" target="Toni Elias" id="79" weight="11" />
+      <edge source="Carlos Checa" target="David Checa" id="80" weight="1" />
+      <edge source="Carlos Checa" target="Chris Vermeulen" id="81" weight="9" />
+      <edge source="Carlos Checa" target="James Ellison" id="82" weight="6" />
+      <edge source="Carlos Checa" target="Daniel Pedrosa" id="83" weight="1" />
+      <edge source="Carlos Checa" target="Randy De Puniet" id="84" weight="6" />
+      <edge source="Carlos Checa" target="Kousuke Akiyoshi" id="85" weight="1" />
+      <edge source="Carlos Checa" target="Casey Stoner" id="86" weight="1" />
+      <edge source="Carlos Checa" target="Kurtis Roberts" id="87" weight="2" />
+      <edge source="Carlos Checa" target="Sylvain Guintoli" id="88" weight="2" />
+      <edge source="Carlos Checa" target="Chaz Davies" id="89" weight="1" />
+      <edge source="Carlos Checa" target="Akira Yanagawa" id="90" weight="1" />
+      <edge source="Loris Capirossi" target="Alex Barros" id="91" weight="34" />
+      <edge source="Loris Capirossi" target="Alex Criville" id="92" weight="10" />
+      <edge source="Loris Capirossi" target="Akira Ryo" id="93" weight="3" />
+      <edge source="Loris Capirossi" target="Valentino Rossi" id="94" weight="34" />
+      <edge source="Loris Capirossi" target="Jurgen Vd Goorbergh" id="95" weight="4" />
+      <edge source="Loris Capirossi" target="Regis Laconi" id="96" weight="6" />
+      <edge source="Loris Capirossi" target="Nobuatsu Aoki" id="97" weight="7" />
+      <edge source="Loris Capirossi" target="Jeremy Mcwilliams" id="98" weight="4" />
+      <edge source="Loris Capirossi" target="Max Biaggi" id="99" weight="22" />
+      <edge source="Loris Capirossi" target="David De Gea" id="100" weight="1" />
+      <edge source="Loris Capirossi" target="Kenny Roberts Jr" id="101" weight="14" />
+      <edge source="Loris Capirossi" target="Norick Abe" id="102" weight="14" />
+      <edge source="Loris Capirossi" target="Tadayuki Okada" id="103" weight="2" />
+      <edge source="Loris Capirossi" target="Sete Gibernau" id="104" weight="19" />
+      <edge source="Loris Capirossi" target="Tetsuya Harada" id="105" weight="2" />
+      <edge source="Loris Capirossi" target="Mark Willis" id="106" weight="1" />
+      <edge source="Loris Capirossi" target="Tohru Ukawa" id="107" weight="12" />
+      <edge source="Loris Capirossi" target="Shinya Nakano" id="108" weight="29" />
+      <edge source="Loris Capirossi" target="Olivier Jacque" id="109" weight="4" />
+      <edge source="Loris Capirossi" target="Daijiro Kato" id="110" weight="4" />
+      <edge source="Loris Capirossi" target="Troy Bayliss" id="111" weight="10" />
+      <edge source="Loris Capirossi" target="Makoto Tamada" id="112" weight="14" />
+      <edge source="Loris Capirossi" target="Colin Edwards" id="113" weight="32" />
+      <edge source="Loris Capirossi" target="Nicky Hayden" id="114" weight="25" />
+      <edge source="Loris Capirossi" target="Michel Fabrizio" id="115" weight="1" />
+      <edge source="Loris Capirossi" target="Alex Hofmann" id="116" weight="8" />
+      <edge source="Loris Capirossi" target="Marco Melandri" id="117" weight="17" />
+      <edge source="Loris Capirossi" target="Shane Byrne" id="118" weight="1" />
+      <edge source="Loris Capirossi" target="Neil Hodgson" id="119" weight="2" />
+      <edge source="Loris Capirossi" target="Ruben Xaus" id="120" weight="6" />
+      <edge source="Loris Capirossi" target="John Hopkins" id="121" weight="13" />
+      <edge source="Loris Capirossi" target="Toni Elias" id="122" weight="20" />
+      <edge source="Loris Capirossi" target="Roberto Rolfo" id="123" weight="3" />
+      <edge source="Loris Capirossi" target="James Ellison" id="124" weight="2" />
+      <edge source="Loris Capirossi" target="David Checa" id="125" weight="1" />
+      <edge source="Loris Capirossi" target="Daniel Pedrosa" id="126" weight="12" />
+      <edge source="Loris Capirossi" target="Casey Stoner" id="127" weight="7" />
+      <edge source="Loris Capirossi" target="Chris Vermeulen" id="128" weight="17" />
+      <edge source="Loris Capirossi" target="Randy De Puniet" id="129" weight="13" />
+      <edge source="Loris Capirossi" target="Ivan Silva" id="130" weight="1" />
+      <edge source="Loris Capirossi" target="Jose Luis Cardoso" id="131" weight="2" />
+      <edge source="Loris Capirossi" target="Dani Pedrosa" id="132" weight="1" />
+      <edge source="Loris Capirossi" target="Sylvain Guintoli" id="133" weight="2" />
+      <edge source="Loris Capirossi" target="James Toseland" id="134" weight="14" />
+      <edge source="Loris Capirossi" target="Jorge Lorenzo" id="135" weight="3" />
+      <edge source="Loris Capirossi" target="Alex De Angelis" id="136" weight="4" />
+      <edge source="Loris Capirossi" target="Andrea Dovizioso" id="137" weight="9" />
+      <edge source="Loris Capirossi" target="Anthony West" id="138" weight="3" />
+      <edge source="Loris Capirossi" target="Niccolo Canepa" id="139" weight="1" />
+      <edge source="Loris Capirossi" target="Mika Kallio" id="140" weight="4" />
+      <edge source="Loris Capirossi" target="Gabor Talmacsi" id="141" weight="4" />
+      <edge source="Loris Capirossi" target="Aleix Espargaro" id="142" weight="4" />
+      <edge source="Alex Barros" target="Alex Criville" id="143" weight="6" />
+      <edge source="Alex Barros" target="Kenny Roberts Jr" id="144" weight="17" />
+      <edge source="Alex Barros" target="Tadayuki Okada" id="145" weight="1" />
+      <edge source="Alex Barros" target="Sete Gibernau" id="146" weight="16" />
+      <edge source="Alex Barros" target="Regis Laconi" id="147" weight="5" />
+      <edge source="Alex Barros" target="Jeremy Mcwilliams" id="148" weight="6" />
+      <edge source="Alex Barros" target="Valentino Rossi" id="149" weight="26" />
+      <edge source="Alex Barros" target="Nobuatsu Aoki" id="150" weight="8" />
+      <edge source="Alex Barros" target="John Mcguinness" id="151" weight="1" />
+      <edge source="Alex Barros" target="Anthony Gobert" id="152" weight="1" />
+      <edge source="Alex Barros" target="Jurgen Vd Goorbergh" id="153" weight="3" />
+      <edge source="Alex Barros" target="Norick Abe" id="154" weight="16" />
+      <edge source="Alex Barros" target="Max Biaggi" id="155" weight="31" />
+      <edge source="Alex Barros" target="Shinya Nakano" id="156" weight="15" />
+      <edge source="Alex Barros" target="Tohru Ukawa" id="157" weight="13" />
+      <edge source="Alex Barros" target="Noriyuki Haga" id="158" weight="4" />
+      <edge source="Alex Barros" target="Olivier Jacque" id="159" weight="6" />
+      <edge source="Alex Barros" target="Shinichi Ito" id="160" weight="1" />
+      <edge source="Alex Barros" target="Daijiro Kato" id="161" weight="2" />
+      <edge source="Alex Barros" target="Colin Edwards" id="162" weight="18" />
+      <edge source="Alex Barros" target="Nicky Hayden" id="163" weight="19" />
+      <edge source="Alex Barros" target="Troy Bayliss" id="164" weight="9" />
+      <edge source="Alex Barros" target="Makoto Tamada" id="165" weight="12" />
+      <edge source="Alex Barros" target="John Hopkins" id="166" weight="9" />
+      <edge source="Alex Barros" target="Alex Hofmann" id="167" weight="4" />
+      <edge source="Alex Barros" target="Marco Melandri" id="168" weight="8" />
+      <edge source="Alex Barros" target="Andrew Pitt" id="169" weight="1" />
+      <edge source="Alex Barros" target="Ruben Xaus" id="170" weight="4" />
+      <edge source="Alex Barros" target="Neil Hodgson" id="171" weight="1" />
+      <edge source="Alex Barros" target="James Ellison" id="172" weight="1" />
+      <edge source="Alex Barros" target="Toni Elias" id="173" weight="3" />
+      <edge source="Alex Barros" target="Chris Vermeulen" id="174" weight="5" />
+      <edge source="Alex Barros" target="Randy De Puniet" id="175" weight="5" />
+      <edge source="Alex Barros" target="Sylvain Guintoli" id="176" weight="1" />
+      <edge source="Alex Barros" target="Daniel Pedrosa" id="177" weight="3" />
+      <edge source="Alex Barros" target="Casey Stoner" id="178" weight="2" />
+      <edge source="Alex Barros" target="Anthony West" id="179" weight="3" />
+      <edge source="Alex Barros" target="Roger Lee Hayden" id="180" weight="1" />
+      <edge source="Alex Criville" target="Kenny Roberts Jr" id="181" weight="5" />
+      <edge source="Alex Criville" target="Norick Abe" id="182" weight="9" />
+      <edge source="Alex Criville" target="Nobuatsu Aoki" id="183" weight="3" />
+      <edge source="Alex Criville" target="Jeremy Mcwilliams" id="184" weight="2" />
+      <edge source="Alex Criville" target="Valentino Rossi" id="185" weight="4" />
+      <edge source="Alex Criville" target="Max Biaggi" id="186" weight="5" />
+      <edge source="Alex Criville" target="Jurgen Vd Goorbergh" id="187" weight="6" />
+      <edge source="Alex Criville" target="Sete Gibernau" id="188" weight="6" />
+      <edge source="Alex Criville" target="Regis Laconi" id="189" weight="1" />
+      <edge source="Alex Criville" target="Tadayuki Okada" id="190" weight="2" />
+      <edge source="Alex Criville" target="Tetsuya Harada" id="191" weight="1" />
+      <edge source="Alex Criville" target="Shinya Nakano" id="192" weight="5" />
+      <edge source="Alex Criville" target="Tohru Ukawa" id="193" weight="2" />
+      <edge source="Alex Criville" target="Haruchika Aoki" id="194" weight="1" />
+      <edge source="Alex Criville" target="Noriyuki Haga" id="195" weight="1" />
+      <edge source="Alex Criville" target="Olivier Jacque" id="196" weight="2" />
+      <edge source="Alex Criville" target="Chris Walker" id="197" weight="1" />
+      <edge source="Alex Criville" target="Yukio Kagayama" id="198" weight="1" />
+      <edge source="Alex Criville" target="Jose Luis Cardoso" id="199" weight="2" />
+      <edge source="Alex Criville" target="Anthony West" id="200" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Norick Abe" id="201" weight="15" />
+      <edge source="Kenny Roberts Jr" target="Nobuatsu Aoki" id="202" weight="11" />
+      <edge source="Kenny Roberts Jr" target="Tadayuki Okada" id="203" weight="4" />
+      <edge source="Kenny Roberts Jr" target="Valentino Rossi" id="204" weight="13" />
+      <edge source="Kenny Roberts Jr" target="Regis Laconi" id="205" weight="3" />
+      <edge source="Kenny Roberts Jr" target="Jeremy Mcwilliams" id="206" weight="12" />
+      <edge source="Kenny Roberts Jr" target="Max Biaggi" id="207" weight="12" />
+      <edge source="Kenny Roberts Jr" target="Sete Gibernau" id="208" weight="8" />
+      <edge source="Kenny Roberts Jr" target="Shinya Nakano" id="209" weight="17" />
+      <edge source="Kenny Roberts Jr" target="Tohru Ukawa" id="210" weight="5" />
+      <edge source="Kenny Roberts Jr" target="Olivier Jacque" id="211" weight="13" />
+      <edge source="Kenny Roberts Jr" target="Jurgen Vd Goorbergh" id="212" weight="4" />
+      <edge source="Kenny Roberts Jr" target="Yukio Kagayama" id="213" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Haruchika Aoki" id="214" weight="2" />
+      <edge source="Kenny Roberts Jr" target="Johan Stigefelt" id="215" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Brendan Clarke" id="216" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Barry Veneman" id="217" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Tetsuya Harada" id="218" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Daijiro Kato" id="219" weight="1" />
+      <edge source="Kenny Roberts Jr" target="John Hopkins" id="220" weight="15" />
+      <edge source="Kenny Roberts Jr" target="Akira Ryo" id="221" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Noriyuki Haga" id="222" weight="4" />
+      <edge source="Kenny Roberts Jr" target="Makoto Tamada" id="223" weight="14" />
+      <edge source="Kenny Roberts Jr" target="Andrew Pitt" id="224" weight="5" />
+      <edge source="Kenny Roberts Jr" target="Colin Edwards" id="225" weight="14" />
+      <edge source="Kenny Roberts Jr" target="Marco Melandri" id="226" weight="8" />
+      <edge source="Kenny Roberts Jr" target="Alex Hofmann" id="227" weight="10" />
+      <edge source="Kenny Roberts Jr" target="Ryuichi Kiyonari" id="228" weight="2" />
+      <edge source="Kenny Roberts Jr" target="David De Gea" id="229" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Michel Fabrizio" id="230" weight="2" />
+      <edge source="Kenny Roberts Jr" target="Nicky Hayden" id="231" weight="4" />
+      <edge source="Kenny Roberts Jr" target="Ruben Xaus" id="232" weight="6" />
+      <edge source="Kenny Roberts Jr" target="Chris Burns" id="233" weight="2" />
+      <edge source="Kenny Roberts Jr" target="Neil Hodgson" id="234" weight="1" />
+      <edge source="Kenny Roberts Jr" target="James Ellison" id="235" weight="3" />
+      <edge source="Kenny Roberts Jr" target="Troy Bayliss" id="236" weight="2" />
+      <edge source="Kenny Roberts Jr" target="Roberto Rolfo" id="237" weight="6" />
+      <edge source="Kenny Roberts Jr" target="Toni Elias" id="238" weight="11" />
+      <edge source="Kenny Roberts Jr" target="Shane Byrne" id="239" weight="5" />
+      <edge source="Kenny Roberts Jr" target="David Checa" id="240" weight="2" />
+      <edge source="Kenny Roberts Jr" target="Casey Stoner" id="241" weight="4" />
+      <edge source="Kenny Roberts Jr" target="Randy De Puniet" id="242" weight="2" />
+      <edge source="Kenny Roberts Jr" target="Daniel Pedrosa" id="243" weight="6" />
+      <edge source="Kenny Roberts Jr" target="Chris Vermeulen" id="244" weight="2" />
+      <edge source="Kenny Roberts Jr" target="Sylvain Guintoli" id="245" weight="5" />
+      <edge source="Kenny Roberts Jr" target="Kousuke Akiyoshi" id="246" weight="1" />
+      <edge source="Kenny Roberts Jr" target="Kurtis Roberts" id="247" weight="1" />
+      <edge source="Norick Abe" target="Nobuatsu Aoki" id="248" weight="11" />
+      <edge source="Norick Abe" target="Regis Laconi" id="249" weight="5" />
+      <edge source="Norick Abe" target="Sebastien Gimbert" id="250" weight="1" />
+      <edge source="Norick Abe" target="Shane Norval" id="251" weight="1" />
+      <edge source="Norick Abe" target="Tadayuki Okada" id="252" weight="3" />
+      <edge source="Norick Abe" target="Jeremy Mcwilliams" id="253" weight="11" />
+      <edge source="Norick Abe" target="Valentino Rossi" id="254" weight="3" />
+      <edge source="Norick Abe" target="Jurgen Vd Goorbergh" id="255" weight="5" />
+      <edge source="Norick Abe" target="Tetsuya Harada" id="256" weight="1" />
+      <edge source="Norick Abe" target="Sete Gibernau" id="257" weight="4" />
+      <edge source="Norick Abe" target="Jose Luis Cardoso" id="258" weight="4" />
+      <edge source="Norick Abe" target="Max Biaggi" id="259" weight="10" />
+      <edge source="Norick Abe" target="Shinya Nakano" id="260" weight="15" />
+      <edge source="Norick Abe" target="Tohru Ukawa" id="261" weight="8" />
+      <edge source="Norick Abe" target="Noriyuki Haga" id="262" weight="2" />
+      <edge source="Norick Abe" target="Olivier Jacque" id="263" weight="10" />
+      <edge source="Norick Abe" target="Anthony West" id="264" weight="2" />
+      <edge source="Norick Abe" target="Haruchika Aoki" id="265" weight="1" />
+      <edge source="Norick Abe" target="Brendan Clarke" id="266" weight="1" />
+      <edge source="Norick Abe" target="Leon Haslam" id="267" weight="1" />
+      <edge source="Norick Abe" target="Shinichi Ito" id="268" weight="1" />
+      <edge source="Norick Abe" target="Pere Riba" id="269" weight="1" />
+      <edge source="Norick Abe" target="John Hopkins" id="270" weight="8" />
+      <edge source="Norick Abe" target="Alex Hofmann" id="271" weight="7" />
+      <edge source="Norick Abe" target="Akira Ryo" id="272" weight="1" />
+      <edge source="Norick Abe" target="Andrew Pitt" id="273" weight="1" />
+      <edge source="Norick Abe" target="Nicky Hayden" id="274" weight="3" />
+      <edge source="Norick Abe" target="Colin Edwards" id="275" weight="8" />
+      <edge source="Norick Abe" target="Ryuichi Kiyonari" id="276" weight="1" />
+      <edge source="Norick Abe" target="Troy Bayliss" id="277" weight="3" />
+      <edge source="Norick Abe" target="Makoto Tamada" id="278" weight="3" />
+      <edge source="Norick Abe" target="Marco Melandri" id="279" weight="3" />
+      <edge source="Norick Abe" target="Michel Fabrizio" id="280" weight="1" />
+      <edge source="Norick Abe" target="Ruben Xaus" id="281" weight="2" />
+      <edge source="Norick Abe" target="Neil Hodgson" id="282" weight="2" />
+      <edge source="Norick Abe" target="Yukio Kagayama" id="283" weight="1" />
+      <edge source="Norick Abe" target="Gregorio Lavilla" id="284" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Regis Laconi" id="285" weight="7" />
+      <edge source="Nobuatsu Aoki" target="Jurgen Vd Goorbergh" id="286" weight="5" />
+      <edge source="Nobuatsu Aoki" target="Max Biaggi" id="287" weight="6" />
+      <edge source="Nobuatsu Aoki" target="Tadayuki Okada" id="288" weight="6" />
+      <edge source="Nobuatsu Aoki" target="Sete Gibernau" id="289" weight="3" />
+      <edge source="Nobuatsu Aoki" target="Jeremy Mcwilliams" id="290" weight="12" />
+      <edge source="Nobuatsu Aoki" target="Valentino Rossi" id="291" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Tetsuya Harada" id="292" weight="4" />
+      <edge source="Nobuatsu Aoki" target="David De Gea" id="293" weight="2" />
+      <edge source="Nobuatsu Aoki" target="Anthony Gobert" id="294" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Sebastien Legrelle" id="295" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Jose Luis Cardoso" id="296" weight="2" />
+      <edge source="Nobuatsu Aoki" target="Luca Cadalora" id="297" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Paolo Tessari" id="298" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Mark Willis" id="299" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Daijiro Kato" id="300" weight="1" />
+      <edge source="Nobuatsu Aoki" target="John Hopkins" id="301" weight="7" />
+      <edge source="Nobuatsu Aoki" target="Shinya Nakano" id="302" weight="3" />
+      <edge source="Nobuatsu Aoki" target="Alex Hofmann" id="303" weight="6" />
+      <edge source="Nobuatsu Aoki" target="Olivier Jacque" id="304" weight="6" />
+      <edge source="Nobuatsu Aoki" target="Makoto Tamada" id="305" weight="3" />
+      <edge source="Nobuatsu Aoki" target="Noriyuki Haga" id="306" weight="3" />
+      <edge source="Nobuatsu Aoki" target="Ryuichi Kiyonari" id="307" weight="2" />
+      <edge source="Nobuatsu Aoki" target="Andrew Pitt" id="308" weight="7" />
+      <edge source="Nobuatsu Aoki" target="Akira Ryo" id="309" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Colin Edwards" id="310" weight="2" />
+      <edge source="Nobuatsu Aoki" target="Chris Burns" id="311" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Nicky Hayden" id="312" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Shane Byrne" id="313" weight="2" />
+      <edge source="Nobuatsu Aoki" target="Michel Fabrizio" id="314" weight="6" />
+      <edge source="Nobuatsu Aoki" target="Kurtis Roberts" id="315" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Neil Hodgson" id="316" weight="2" />
+      <edge source="Nobuatsu Aoki" target="James Ellison" id="317" weight="4" />
+      <edge source="Nobuatsu Aoki" target="Youichi Ui" id="318" weight="2" />
+      <edge source="Nobuatsu Aoki" target="James Haydon" id="319" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Gregorio Lavilla" id="320" weight="2" />
+      <edge source="Nobuatsu Aoki" target="Anthony West" id="321" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Toni Elias" id="322" weight="1" />
+      <edge source="Nobuatsu Aoki" target="Marco Melandri" id="323" weight="1" />
+      <edge source="Regis Laconi" target="Jurgen Vd Goorbergh" id="324" weight="11" />
+      <edge source="Regis Laconi" target="Jose Luis Cardoso" id="325" weight="2" />
+      <edge source="Regis Laconi" target="Sete Gibernau" id="326" weight="7" />
+      <edge source="Regis Laconi" target="Jeremy Mcwilliams" id="327" weight="6" />
+      <edge source="Regis Laconi" target="David De Gea" id="328" weight="1" />
+      <edge source="Regis Laconi" target="Yoshiteru Konishi" id="329" weight="1" />
+      <edge source="Regis Laconi" target="Tadayuki Okada" id="330" weight="9" />
+      <edge source="Regis Laconi" target="Max Biaggi" id="331" weight="2" />
+      <edge source="Regis Laconi" target="Sebastien Legrelle" id="332" weight="1" />
+      <edge source="Regis Laconi" target="Shane Norval" id="333" weight="1" />
+      <edge source="Regis Laconi" target="Valentino Rossi" id="334" weight="2" />
+      <edge source="Regis Laconi" target="John Mcguinness" id="335" weight="1" />
+      <edge source="Regis Laconi" target="Tetsuya Harada" id="336" weight="5" />
+      <edge source="Regis Laconi" target="Luca Cadalora" id="337" weight="1" />
+      <edge source="Regis Laconi" target="Tekkyu Kayo" id="338" weight="1" />
+      <edge source="Regis Laconi" target="Daijiro Kato" id="339" weight="1" />
+      <edge source="Regis Laconi" target="Pere Riba" id="340" weight="2" />
+      <edge source="Regis Laconi" target="John Hopkins" id="341" weight="4" />
+      <edge source="Regis Laconi" target="Olivier Jacque" id="342" weight="1" />
+      <edge source="Regis Laconi" target="Alex Hofmann" id="343" weight="1" />
+      <edge source="Regis Laconi" target="Akira Ryo" id="344" weight="1" />
+      <edge source="Regis Laconi" target="Sylvain Guintoli" id="345" weight="1" />
+      <edge source="Regis Laconi" target="Wataru Yoshikawa" id="346" weight="1" />
+      <edge source="Regis Laconi" target="Andrew Pitt" id="347" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Jose Luis Cardoso" id="348" weight="10" />
+      <edge source="Jurgen Vd Goorbergh" target="Sebastien Gimbert" id="349" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Jeremy Mcwilliams" id="350" weight="5" />
+      <edge source="Jurgen Vd Goorbergh" target="Tetsuya Harada" id="351" weight="9" />
+      <edge source="Jurgen Vd Goorbergh" target="Valentino Rossi" id="352" weight="3" />
+      <edge source="Jurgen Vd Goorbergh" target="David De Gea" id="353" weight="3" />
+      <edge source="Jurgen Vd Goorbergh" target="Tadayuki Okada" id="354" weight="6" />
+      <edge source="Jurgen Vd Goorbergh" target="Max Biaggi" id="355" weight="8" />
+      <edge source="Jurgen Vd Goorbergh" target="Sete Gibernau" id="356" weight="11" />
+      <edge source="Jurgen Vd Goorbergh" target="Tekkyu Kayo" id="357" weight="2" />
+      <edge source="Jurgen Vd Goorbergh" target="David Tomas" id="358" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Haruchika Aoki" id="359" weight="2" />
+      <edge source="Jurgen Vd Goorbergh" target="Leon Haslam" id="360" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Noriyuki Haga" id="361" weight="6" />
+      <edge source="Jurgen Vd Goorbergh" target="Anthony West" id="362" weight="4" />
+      <edge source="Jurgen Vd Goorbergh" target="Shinya Nakano" id="363" weight="6" />
+      <edge source="Jurgen Vd Goorbergh" target="Chris Walker" id="364" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Mark Willis" id="365" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Tohru Ukawa" id="366" weight="4" />
+      <edge source="Jurgen Vd Goorbergh" target="Olivier Jacque" id="367" weight="6" />
+      <edge source="Jurgen Vd Goorbergh" target="Jay Vincent" id="368" weight="2" />
+      <edge source="Jurgen Vd Goorbergh" target="Pere Riba" id="369" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="John Hopkins" id="370" weight="5" />
+      <edge source="Jurgen Vd Goorbergh" target="Jean Michel Bayle" id="371" weight="2" />
+      <edge source="Jurgen Vd Goorbergh" target="Alex Hofmann" id="372" weight="3" />
+      <edge source="Jurgen Vd Goorbergh" target="Daijiro Kato" id="373" weight="2" />
+      <edge source="Jurgen Vd Goorbergh" target="Akira Ryo" id="374" weight="4" />
+      <edge source="Jurgen Vd Goorbergh" target="Wataru Yoshikawa" id="375" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Colin Edwards" id="376" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Ruben Xaus" id="377" weight="1" />
+      <edge source="Jurgen Vd Goorbergh" target="Roberto Rolfo" id="378" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Sebastien Gimbert" id="379" weight="2" />
+      <edge source="Jose Luis Cardoso" target="Yoshiteru Konishi" id="380" weight="5" />
+      <edge source="Jose Luis Cardoso" target="Tetsuya Harada" id="381" weight="5" />
+      <edge source="Jose Luis Cardoso" target="David De Gea" id="382" weight="2" />
+      <edge source="Jose Luis Cardoso" target="Valentino Rossi" id="383" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Sebastien Legrelle" id="384" weight="3" />
+      <edge source="Jose Luis Cardoso" target="Luca Cadalora" id="385" weight="2" />
+      <edge source="Jose Luis Cardoso" target="Paolo Tessari" id="386" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Mark Willis" id="387" weight="3" />
+      <edge source="Jose Luis Cardoso" target="David Tomas" id="388" weight="2" />
+      <edge source="Jose Luis Cardoso" target="Haruchika Aoki" id="389" weight="5" />
+      <edge source="Jose Luis Cardoso" target="Anthony West" id="390" weight="5" />
+      <edge source="Jose Luis Cardoso" target="Chris Walker" id="391" weight="3" />
+      <edge source="Jose Luis Cardoso" target="Shinya Nakano" id="392" weight="4" />
+      <edge source="Jose Luis Cardoso" target="Barry Veneman" id="393" weight="2" />
+      <edge source="Jose Luis Cardoso" target="Jarno Janssen" id="394" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Noriyuki Haga" id="395" weight="5" />
+      <edge source="Jose Luis Cardoso" target="Olivier Jacque" id="396" weight="4" />
+      <edge source="Jose Luis Cardoso" target="Jay Vincent" id="397" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Leon Haslam" id="398" weight="3" />
+      <edge source="Jose Luis Cardoso" target="Johan Stigefelt" id="399" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Jean Michel Bayle" id="400" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Akira Ryo" id="401" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Sete Gibernau" id="402" weight="1" />
+      <edge source="Jose Luis Cardoso" target="John Hopkins" id="403" weight="2" />
+      <edge source="Jose Luis Cardoso" target="Andrew Pitt" id="404" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Makoto Tamada" id="405" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Alex Hofmann" id="406" weight="5" />
+      <edge source="Jose Luis Cardoso" target="James Ellison" id="407" weight="7" />
+      <edge source="Jose Luis Cardoso" target="Ivan Silva" id="408" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Chris Vermeulen" id="409" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Colin Edwards" id="410" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Toni Elias" id="411" weight="1" />
+      <edge source="Jose Luis Cardoso" target="Daniel Pedrosa" id="412" weight="1" />
+      <edge source="Sebastien Gimbert" target="Yoshiteru Konishi" id="413" weight="2" />
+      <edge source="Sebastien Gimbert" target="Shane Norval" id="414" weight="3" />
+      <edge source="Sebastien Gimbert" target="David De Gea" id="415" weight="2" />
+      <edge source="Yoshiteru Konishi" target="Shane Norval" id="416" weight="2" />
+      <edge source="Yoshiteru Konishi" target="David De Gea" id="417" weight="4" />
+      <edge source="Yoshiteru Konishi" target="Tetsuya Harada" id="418" weight="3" />
+      <edge source="Yoshiteru Konishi" target="Sebastien Legrelle" id="419" weight="4" />
+      <edge source="Yoshiteru Konishi" target="Jeremy Mcwilliams" id="420" weight="1" />
+      <edge source="Yoshiteru Konishi" target="Phil Giles" id="421" weight="3" />
+      <edge source="Yoshiteru Konishi" target="Mark Willis" id="422" weight="1" />
+      <edge source="Yoshiteru Konishi" target="David Tomas" id="423" weight="3" />
+      <edge source="Yoshiteru Konishi" target="Tekkyu Kayo" id="424" weight="2" />
+      <edge source="Shane Norval" target="David De Gea" id="425" weight="2" />
+      <edge source="Shane Norval" target="Jeremy Mcwilliams" id="426" weight="1" />
+      <edge source="Shane Norval" target="Tadayuki Okada" id="427" weight="1" />
+      <edge source="David De Gea" target="Tetsuya Harada" id="428" weight="4" />
+      <edge source="David De Gea" target="Tadayuki Okada" id="429" weight="2" />
+      <edge source="David De Gea" target="David Tomas" id="430" weight="1" />
+      <edge source="David De Gea" target="Ryuichi Kiyonari" id="431" weight="1" />
+      <edge source="David De Gea" target="Andrew Pitt" id="432" weight="4" />
+      <edge source="David De Gea" target="Colin Edwards" id="433" weight="1" />
+      <edge source="David De Gea" target="Tamaki Serizawa" id="434" weight="1" />
+      <edge source="Max Biaggi" target="Tadayuki Okada" id="435" weight="4" />
+      <edge source="Max Biaggi" target="Sete Gibernau" id="436" weight="26" />
+      <edge source="Max Biaggi" target="Valentino Rossi" id="437" weight="42" />
+      <edge source="Max Biaggi" target="Shinya Nakano" id="438" weight="10" />
+      <edge source="Max Biaggi" target="Noriyuki Haga" id="439" weight="4" />
+      <edge source="Max Biaggi" target="Haruchika Aoki" id="440" weight="1" />
+      <edge source="Max Biaggi" target="Olivier Jacque" id="441" weight="4" />
+      <edge source="Max Biaggi" target="Tohru Ukawa" id="442" weight="9" />
+      <edge source="Max Biaggi" target="Daijiro Kato" id="443" weight="3" />
+      <edge source="Max Biaggi" target="John Hopkins" id="444" weight="4" />
+      <edge source="Max Biaggi" target="Troy Bayliss" id="445" weight="10" />
+      <edge source="Max Biaggi" target="Jeremy Mcwilliams" id="446" weight="1" />
+      <edge source="Max Biaggi" target="Makoto Tamada" id="447" weight="7" />
+      <edge source="Max Biaggi" target="Marco Melandri" id="448" weight="7" />
+      <edge source="Max Biaggi" target="Nicky Hayden" id="449" weight="14" />
+      <edge source="Max Biaggi" target="Andrew Pitt" id="450" weight="1" />
+      <edge source="Max Biaggi" target="Colin Edwards" id="451" weight="9" />
+      <edge source="Max Biaggi" target="Ryuichi Kiyonari" id="452" weight="1" />
+      <edge source="Max Biaggi" target="Ruben Xaus" id="453" weight="4" />
+      <edge source="Max Biaggi" target="Neil Hodgson" id="454" weight="1" />
+      <edge source="Max Biaggi" target="Shane Byrne" id="455" weight="1" />
+      <edge source="Max Biaggi" target="Chris Vermeulen" id="456" weight="1" />
+      <edge source="Tadayuki Okada" target="Sete Gibernau" id="457" weight="6" />
+      <edge source="Tadayuki Okada" target="Tetsuya Harada" id="458" weight="2" />
+      <edge source="Tadayuki Okada" target="Jeremy Mcwilliams" id="459" weight="2" />
+      <edge source="Tadayuki Okada" target="Toni Elias" id="460" weight="1" />
+      <edge source="Tadayuki Okada" target="Nicky Hayden" id="461" weight="1" />
+      <edge source="Tadayuki Okada" target="Anthony West" id="462" weight="1" />
+      <edge source="Sete Gibernau" target="Valentino Rossi" id="463" weight="28" />
+      <edge source="Sete Gibernau" target="Tetsuya Harada" id="464" weight="4" />
+      <edge source="Sete Gibernau" target="Jeremy Mcwilliams" id="465" weight="4" />
+      <edge source="Sete Gibernau" target="Haruchika Aoki" id="466" weight="3" />
+      <edge source="Sete Gibernau" target="Noriyuki Haga" id="467" weight="4" />
+      <edge source="Sete Gibernau" target="Shinya Nakano" id="468" weight="14" />
+      <edge source="Sete Gibernau" target="Tohru Ukawa" id="469" weight="7" />
+      <edge source="Sete Gibernau" target="Olivier Jacque" id="470" weight="6" />
+      <edge source="Sete Gibernau" target="Jay Vincent" id="471" weight="1" />
+      <edge source="Sete Gibernau" target="Yukio Kagayama" id="472" weight="1" />
+      <edge source="Sete Gibernau" target="Leon Haslam" id="473" weight="1" />
+      <edge source="Sete Gibernau" target="Anthony West" id="474" weight="1" />
+      <edge source="Sete Gibernau" target="John Hopkins" id="475" weight="6" />
+      <edge source="Sete Gibernau" target="Jean Michel Bayle" id="476" weight="1" />
+      <edge source="Sete Gibernau" target="Daijiro Kato" id="477" weight="2" />
+      <edge source="Sete Gibernau" target="Andrew Pitt" id="478" weight="1" />
+      <edge source="Sete Gibernau" target="Troy Bayliss" id="479" weight="9" />
+      <edge source="Sete Gibernau" target="Colin Edwards" id="480" weight="12" />
+      <edge source="Sete Gibernau" target="Makoto Tamada" id="481" weight="9" />
+      <edge source="Sete Gibernau" target="Nicky Hayden" id="482" weight="14" />
+      <edge source="Sete Gibernau" target="Marco Melandri" id="483" weight="14" />
+      <edge source="Sete Gibernau" target="Ruben Xaus" id="484" weight="1" />
+      <edge source="Sete Gibernau" target="Toni Elias" id="485" weight="7" />
+      <edge source="Sete Gibernau" target="Casey Stoner" id="486" weight="2" />
+      <edge source="Sete Gibernau" target="Daniel Pedrosa" id="487" weight="3" />
+      <edge source="Sete Gibernau" target="Randy De Puniet" id="488" weight="2" />
+      <edge source="Sete Gibernau" target="Chris Vermeulen" id="489" weight="4" />
+      <edge source="Sete Gibernau" target="Yuki Takahashi" id="490" weight="3" />
+      <edge source="Sete Gibernau" target="James Toseland" id="491" weight="2" />
+      <edge source="Sete Gibernau" target="Niccolo Canepa" id="492" weight="2" />
+      <edge source="Sete Gibernau" target="Gabor Talmacsi" id="493" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Tetsuya Harada" id="494" weight="4" />
+      <edge source="Jeremy Mcwilliams" target="Akira Ryo" id="495" weight="3" />
+      <edge source="Jeremy Mcwilliams" target="Sebastien Legrelle" id="496" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Valentino Rossi" id="497" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Tekkyu Kayo" id="498" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Shinya Nakano" id="499" weight="7" />
+      <edge source="Jeremy Mcwilliams" target="John Hopkins" id="500" weight="10" />
+      <edge source="Jeremy Mcwilliams" target="Wataru Yoshikawa" id="501" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Olivier Jacque" id="502" weight="4" />
+      <edge source="Jeremy Mcwilliams" target="Noriyuki Haga" id="503" weight="3" />
+      <edge source="Jeremy Mcwilliams" target="Colin Edwards" id="504" weight="2" />
+      <edge source="Jeremy Mcwilliams" target="Tohru Ukawa" id="505" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Makoto Tamada" id="506" weight="4" />
+      <edge source="Jeremy Mcwilliams" target="Andrew Pitt" id="507" weight="5" />
+      <edge source="Jeremy Mcwilliams" target="Ryuichi Kiyonari" id="508" weight="2" />
+      <edge source="Jeremy Mcwilliams" target="Troy Bayliss" id="509" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Shane Byrne" id="510" weight="2" />
+      <edge source="Jeremy Mcwilliams" target="Michel Fabrizio" id="511" weight="2" />
+      <edge source="Jeremy Mcwilliams" target="Nicky Hayden" id="512" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Ruben Xaus" id="513" weight="3" />
+      <edge source="Jeremy Mcwilliams" target="Kurtis Roberts" id="514" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Alex Hofmann" id="515" weight="8" />
+      <edge source="Jeremy Mcwilliams" target="Chris Burns" id="516" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Neil Hodgson" id="517" weight="3" />
+      <edge source="Jeremy Mcwilliams" target="Yukio Kagayama" id="518" weight="1" />
+      <edge source="Jeremy Mcwilliams" target="Gregorio Lavilla" id="519" weight="1" />
+      <edge source="Tetsuya Harada" target="Sebastien Legrelle" id="520" weight="1" />
+      <edge source="Tetsuya Harada" target="Luca Cadalora" id="521" weight="1" />
+      <edge source="Tetsuya Harada" target="Mark Willis" id="522" weight="2" />
+      <edge source="Tetsuya Harada" target="Tekkyu Kayo" id="523" weight="1" />
+      <edge source="Tetsuya Harada" target="Daijiro Kato" id="524" weight="2" />
+      <edge source="Tetsuya Harada" target="John Hopkins" id="525" weight="7" />
+      <edge source="Tetsuya Harada" target="Pere Riba" id="526" weight="2" />
+      <edge source="Tetsuya Harada" target="Olivier Jacque" id="527" weight="3" />
+      <edge source="Tetsuya Harada" target="Shinya Nakano" id="528" weight="5" />
+      <edge source="Tetsuya Harada" target="Akira Ryo" id="529" weight="4" />
+      <edge source="Tetsuya Harada" target="Alex Hofmann" id="530" weight="1" />
+      <edge source="Tetsuya Harada" target="Sylvain Guintoli" id="531" weight="1" />
+      <edge source="Tetsuya Harada" target="Andrew Pitt" id="532" weight="1" />
+      <edge source="Akira Ryo" target="Valentino Rossi" id="533" weight="2" />
+      <edge source="Akira Ryo" target="Shinichi Ito" id="534" weight="1" />
+      <edge source="Akira Ryo" target="Olivier Jacque" id="535" weight="2" />
+      <edge source="Akira Ryo" target="John Hopkins" id="536" weight="1" />
+      <edge source="Akira Ryo" target="Alex Hofmann" id="537" weight="1" />
+      <edge source="Akira Ryo" target="Shinya Nakano" id="538" weight="1" />
+      <edge source="Akira Ryo" target="Ryuichi Kiyonari" id="539" weight="2" />
+      <edge source="Akira Ryo" target="Noriyuki Haga" id="540" weight="1" />
+      <edge source="Valentino Rossi" target="Sebastien Legrelle" id="541" weight="1" />
+      <edge source="Valentino Rossi" target="Tohru Ukawa" id="542" weight="11" />
+      <edge source="Valentino Rossi" target="Olivier Jacque" id="543" weight="4" />
+      <edge source="Valentino Rossi" target="Anthony West" id="544" weight="1" />
+      <edge source="Valentino Rossi" target="Daijiro Kato" id="545" weight="3" />
+      <edge source="Valentino Rossi" target="Troy Bayliss" id="546" weight="7" />
+      <edge source="Valentino Rossi" target="Makoto Tamada" id="547" weight="7" />
+      <edge source="Valentino Rossi" target="Nicky Hayden" id="548" weight="25" />
+      <edge source="Valentino Rossi" target="Colin Edwards" id="549" weight="18" />
+      <edge source="Valentino Rossi" target="Marco Melandri" id="550" weight="20" />
+      <edge source="Valentino Rossi" target="Chris Vermeulen" id="551" weight="11" />
+      <edge source="Valentino Rossi" target="Alex Hofmann" id="552" weight="3" />
+      <edge source="Valentino Rossi" target="James Ellison" id="553" weight="3" />
+      <edge source="Valentino Rossi" target="Casey Stoner" id="554" weight="27" />
+      <edge source="Valentino Rossi" target="Toni Elias" id="555" weight="8" />
+      <edge source="Valentino Rossi" target="John Hopkins" id="556" weight="9" />
+      <edge source="Valentino Rossi" target="Daniel Pedrosa" id="557" weight="30" />
+      <edge source="Valentino Rossi" target="Randy De Puniet" id="558" weight="7" />
+      <edge source="Valentino Rossi" target="Shinichi Ito" id="559" weight="1" />
+      <edge source="Valentino Rossi" target="Andrea Dovizioso" id="560" weight="5" />
+      <edge source="Valentino Rossi" target="James Toseland" id="561" weight="3" />
+      <edge source="Valentino Rossi" target="Jorge Lorenzo" id="562" weight="16" />
+      <edge source="Valentino Rossi" target="Sylvain Guintoli" id="563" weight="1" />
+      <edge source="Valentino Rossi" target="Alex De Angelis" id="564" weight="3" />
+      <edge source="Valentino Rossi" target="Niccolo Canepa" id="565" weight="1" />
+      <edge source="Valentino Rossi" target="Dani Pedrosa" id="566" weight="2" />
+      <edge source="Sebastien Legrelle" target="Paolo Tessari" id="567" weight="1" />
+      <edge source="Sebastien Legrelle" target="Phil Giles" id="568" weight="2" />
+      <edge source="John Mcguinness" target="Anthony Gobert" id="569" weight="1" />
+      <edge source="Luca Cadalora" target="Paolo Tessari" id="570" weight="2" />
+      <edge source="Paolo Tessari" target="Phil Giles" id="571" weight="1" />
+      <edge source="Phil Giles" target="David Tomas" id="572" weight="1" />
+      <edge source="Mark Willis" target="Johan Stigefelt" id="573" weight="5" />
+      <edge source="Mark Willis" target="Barry Veneman" id="574" weight="2" />
+      <edge source="Mark Willis" target="Jay Vincent" id="575" weight="2" />
+      <edge source="Mark Willis" target="Haruchika Aoki" id="576" weight="1" />
+      <edge source="Mark Willis" target="Anthony West" id="577" weight="1" />
+      <edge source="Mark Willis" target="Leon Haslam" id="578" weight="1" />
+      <edge source="David Tomas" target="Tekkyu Kayo" id="579" weight="1" />
+      <edge source="Shinya Nakano" target="Tohru Ukawa" id="580" weight="18" />
+      <edge source="Shinya Nakano" target="Chris Walker" id="581" weight="1" />
+      <edge source="Shinya Nakano" target="Noriyuki Haga" id="582" weight="5" />
+      <edge source="Shinya Nakano" target="Olivier Jacque" id="583" weight="11" />
+      <edge source="Shinya Nakano" target="Haruchika Aoki" id="584" weight="1" />
+      <edge source="Shinya Nakano" target="Leon Haslam" id="585" weight="1" />
+      <edge source="Shinya Nakano" target="John Hopkins" id="586" weight="23" />
+      <edge source="Shinya Nakano" target="Jean Michel Bayle" id="587" weight="2" />
+      <edge source="Shinya Nakano" target="Daijiro Kato" id="588" weight="2" />
+      <edge source="Shinya Nakano" target="Nicky Hayden" id="589" weight="16" />
+      <edge source="Shinya Nakano" target="Makoto Tamada" id="590" weight="24" />
+      <edge source="Shinya Nakano" target="Ryuichi Kiyonari" id="591" weight="5" />
+      <edge source="Shinya Nakano" target="Marco Melandri" id="592" weight="12" />
+      <edge source="Shinya Nakano" target="Andrew Pitt" id="593" weight="2" />
+      <edge source="Shinya Nakano" target="Colin Edwards" id="594" weight="30" />
+      <edge source="Shinya Nakano" target="Troy Bayliss" id="595" weight="7" />
+      <edge source="Shinya Nakano" target="Michel Fabrizio" id="596" weight="1" />
+      <edge source="Shinya Nakano" target="Ruben Xaus" id="597" weight="5" />
+      <edge source="Shinya Nakano" target="Shane Byrne" id="598" weight="1" />
+      <edge source="Shinya Nakano" target="Neil Hodgson" id="599" weight="1" />
+      <edge source="Shinya Nakano" target="Alex Hofmann" id="600" weight="9" />
+      <edge source="Shinya Nakano" target="Toni Elias" id="601" weight="17" />
+      <edge source="Shinya Nakano" target="Chris Vermeulen" id="602" weight="14" />
+      <edge source="Shinya Nakano" target="Casey Stoner" id="603" weight="6" />
+      <edge source="Shinya Nakano" target="James Ellison" id="604" weight="2" />
+      <edge source="Shinya Nakano" target="Randy De Puniet" id="605" weight="4" />
+      <edge source="Shinya Nakano" target="Daniel Pedrosa" id="606" weight="2" />
+      <edge source="Shinya Nakano" target="Sylvain Guintoli" id="607" weight="14" />
+      <edge source="Shinya Nakano" target="Kurtis Roberts" id="608" weight="2" />
+      <edge source="Shinya Nakano" target="Roger Lee Hayden" id="609" weight="1" />
+      <edge source="Shinya Nakano" target="Anthony West" id="610" weight="10" />
+      <edge source="Shinya Nakano" target="Ivan Silva" id="611" weight="1" />
+      <edge source="Shinya Nakano" target="Shinichi Ito" id="612" weight="1" />
+      <edge source="Shinya Nakano" target="Akira Yanagawa" id="613" weight="1" />
+      <edge source="Shinya Nakano" target="Chaz Davies" id="614" weight="1" />
+      <edge source="Shinya Nakano" target="Andrea Dovizioso" id="615" weight="6" />
+      <edge source="Shinya Nakano" target="Alex De Angelis" id="616" weight="2" />
+      <edge source="Shinya Nakano" target="James Toseland" id="617" weight="6" />
+      <edge source="Shinya Nakano" target="Jorge Lorenzo" id="618" weight="3" />
+      <edge source="Shinya Nakano" target="Ben Spies" id="619" weight="1" />
+      <edge source="Shinya Nakano" target="Jamie Hacking" id="620" weight="1" />
+      <edge source="Haruchika Aoki" target="Leon Haslam" id="621" weight="2" />
+      <edge source="Haruchika Aoki" target="Anthony West" id="622" weight="5" />
+      <edge source="Haruchika Aoki" target="Tohru Ukawa" id="623" weight="1" />
+      <edge source="Haruchika Aoki" target="Chris Walker" id="624" weight="1" />
+      <edge source="Haruchika Aoki" target="Jay Vincent" id="625" weight="1" />
+      <edge source="Haruchika Aoki" target="Johan Stigefelt" id="626" weight="3" />
+      <edge source="Haruchika Aoki" target="Olivier Jacque" id="627" weight="1" />
+      <edge source="Haruchika Aoki" target="Barry Veneman" id="628" weight="1" />
+      <edge source="Haruchika Aoki" target="Brendan Clarke" id="629" weight="1" />
+      <edge source="Leon Haslam" target="Chris Walker" id="630" weight="2" />
+      <edge source="Leon Haslam" target="Olivier Jacque" id="631" weight="2" />
+      <edge source="Leon Haslam" target="Johan Stigefelt" id="632" weight="5" />
+      <edge source="Leon Haslam" target="Barry Veneman" id="633" weight="4" />
+      <edge source="Leon Haslam" target="Anthony West" id="634" weight="4" />
+      <edge source="Leon Haslam" target="Jay Vincent" id="635" weight="1" />
+      <edge source="Leon Haslam" target="Tohru Ukawa" id="636" weight="1" />
+      <edge source="Leon Haslam" target="Brendan Clarke" id="637" weight="3" />
+      <edge source="Tohru Ukawa" target="Noriyuki Haga" id="638" weight="2" />
+      <edge source="Tohru Ukawa" target="Anthony West" id="639" weight="1" />
+      <edge source="Tohru Ukawa" target="Chris Walker" id="640" weight="1" />
+      <edge source="Tohru Ukawa" target="Johan Stigefelt" id="641" weight="1" />
+      <edge source="Tohru Ukawa" target="Olivier Jacque" id="642" weight="3" />
+      <edge source="Tohru Ukawa" target="Daijiro Kato" id="643" weight="5" />
+      <edge source="Tohru Ukawa" target="John Hopkins" id="644" weight="1" />
+      <edge source="Tohru Ukawa" target="Akira Yanagawa" id="645" weight="1" />
+      <edge source="Tohru Ukawa" target="Tamaki Serizawa" id="646" weight="1" />
+      <edge source="Tohru Ukawa" target="Troy Bayliss" id="647" weight="4" />
+      <edge source="Tohru Ukawa" target="Nicky Hayden" id="648" weight="6" />
+      <edge source="Tohru Ukawa" target="Makoto Tamada" id="649" weight="4" />
+      <edge source="Tohru Ukawa" target="Alex Hofmann" id="650" weight="1" />
+      <edge source="Tohru Ukawa" target="Andrew Pitt" id="651" weight="1" />
+      <edge source="Tohru Ukawa" target="Marco Melandri" id="652" weight="3" />
+      <edge source="Tohru Ukawa" target="James Ellison" id="653" weight="1" />
+      <edge source="Tohru Ukawa" target="Toni Elias" id="654" weight="1" />
+      <edge source="Tohru Ukawa" target="Roberto Rolfo" id="655" weight="1" />
+      <edge source="Anthony West" target="Chris Walker" id="656" weight="2" />
+      <edge source="Anthony West" target="Olivier Jacque" id="657" weight="1" />
+      <edge source="Anthony West" target="Johan Stigefelt" id="658" weight="3" />
+      <edge source="Anthony West" target="Barry Veneman" id="659" weight="3" />
+      <edge source="Anthony West" target="Jay Vincent" id="660" weight="2" />
+      <edge source="Anthony West" target="Brendan Clarke" id="661" weight="3" />
+      <edge source="Anthony West" target="Alex Hofmann" id="662" weight="3" />
+      <edge source="Anthony West" target="Marco Melandri" id="663" weight="12" />
+      <edge source="Anthony West" target="Toni Elias" id="664" weight="11" />
+      <edge source="Anthony West" target="Kurtis Roberts" id="665" weight="1" />
+      <edge source="Anthony West" target="John Hopkins" id="666" weight="5" />
+      <edge source="Anthony West" target="Michel Fabrizio" id="667" weight="1" />
+      <edge source="Anthony West" target="Daniel Pedrosa" id="668" weight="1" />
+      <edge source="Anthony West" target="Randy De Puniet" id="669" weight="7" />
+      <edge source="Anthony West" target="Makoto Tamada" id="670" weight="2" />
+      <edge source="Anthony West" target="Sylvain Guintoli" id="671" weight="12" />
+      <edge source="Anthony West" target="Colin Edwards" id="672" weight="2" />
+      <edge source="Anthony West" target="Chris Vermeulen" id="673" weight="5" />
+      <edge source="Anthony West" target="Casey Stoner" id="674" weight="3" />
+      <edge source="Anthony West" target="Nicky Hayden" id="675" weight="2" />
+      <edge source="Anthony West" target="Chaz Davies" id="676" weight="1" />
+      <edge source="Anthony West" target="Alex De Angelis" id="677" weight="6" />
+      <edge source="Anthony West" target="James Toseland" id="678" weight="1" />
+      <edge source="Chris Walker" target="Olivier Jacque" id="679" weight="2" />
+      <edge source="Chris Walker" target="Barry Veneman" id="680" weight="1" />
+      <edge source="Chris Walker" target="Jay Vincent" id="681" weight="1" />
+      <edge source="Olivier Jacque" target="Johan Stigefelt" id="682" weight="1" />
+      <edge source="Olivier Jacque" target="Noriyuki Haga" id="683" weight="8" />
+      <edge source="Olivier Jacque" target="Daijiro Kato" id="684" weight="4" />
+      <edge source="Olivier Jacque" target="John Hopkins" id="685" weight="6" />
+      <edge source="Olivier Jacque" target="Andrew Pitt" id="686" weight="1" />
+      <edge source="Olivier Jacque" target="Colin Edwards" id="687" weight="4" />
+      <edge source="Olivier Jacque" target="Marco Melandri" id="688" weight="3" />
+      <edge source="Olivier Jacque" target="Nicky Hayden" id="689" weight="1" />
+      <edge source="Olivier Jacque" target="Makoto Tamada" id="690" weight="2" />
+      <edge source="Olivier Jacque" target="Ryuichi Kiyonari" id="691" weight="1" />
+      <edge source="Olivier Jacque" target="Toni Elias" id="692" weight="2" />
+      <edge source="Olivier Jacque" target="Troy Bayliss" id="693" weight="1" />
+      <edge source="Olivier Jacque" target="Ruben Xaus" id="694" weight="2" />
+      <edge source="Olivier Jacque" target="James Ellison" id="695" weight="1" />
+      <edge source="Olivier Jacque" target="Franco Battaini" id="696" weight="1" />
+      <edge source="Olivier Jacque" target="Chris Vermeulen" id="697" weight="1" />
+      <edge source="Olivier Jacque" target="Alex Hofmann" id="698" weight="1" />
+      <edge source="Olivier Jacque" target="Kousuke Akiyoshi" id="699" weight="1" />
+      <edge source="Olivier Jacque" target="Sylvain Guintoli" id="700" weight="1" />
+      <edge source="Johan Stigefelt" target="Barry Veneman" id="701" weight="6" />
+      <edge source="Johan Stigefelt" target="Jay Vincent" id="702" weight="2" />
+      <edge source="Johan Stigefelt" target="Brendan Clarke" id="703" weight="1" />
+      <edge source="Barry Veneman" target="Jarno Janssen" id="704" weight="1" />
+      <edge source="Barry Veneman" target="Brendan Clarke" id="705" weight="4" />
+      <edge source="Noriyuki Haga" target="John Hopkins" id="706" weight="3" />
+      <edge source="Noriyuki Haga" target="Colin Edwards" id="707" weight="6" />
+      <edge source="Noriyuki Haga" target="Troy Bayliss" id="708" weight="2" />
+      <edge source="Noriyuki Haga" target="Ryuichi Kiyonari" id="709" weight="6" />
+      <edge source="Noriyuki Haga" target="Marco Melandri" id="710" weight="2" />
+      <edge source="Noriyuki Haga" target="Nicky Hayden" id="711" weight="2" />
+      <edge source="Noriyuki Haga" target="Makoto Tamada" id="712" weight="1" />
+      <edge source="Noriyuki Haga" target="Andrew Pitt" id="713" weight="1" />
+      <edge source="Yukio Kagayama" target="Colin Edwards" id="714" weight="1" />
+      <edge source="Yukio Kagayama" target="John Hopkins" id="715" weight="1" />
+      <edge source="Yukio Kagayama" target="Makoto Tamada" id="716" weight="2" />
+      <edge source="Yukio Kagayama" target="Ryuichi Kiyonari" id="717" weight="1" />
+      <edge source="Yukio Kagayama" target="Alex Hofmann" id="718" weight="1" />
+      <edge source="Yukio Kagayama" target="James Haydon" id="719" weight="1" />
+      <edge source="Yukio Kagayama" target="James Ellison" id="720" weight="1" />
+      <edge source="Yukio Kagayama" target="Ruben Xaus" id="721" weight="1" />
+      <edge source="Shinichi Ito" target="Colin Edwards" id="722" weight="1" />
+      <edge source="Shinichi Ito" target="Akira Yanagawa" id="723" weight="1" />
+      <edge source="Daijiro Kato" target="John Hopkins" id="724" weight="3" />
+      <edge source="Daijiro Kato" target="Alex Hofmann" id="725" weight="1" />
+      <edge source="John Hopkins" target="Pere Riba" id="726" weight="1" />
+      <edge source="John Hopkins" target="Jean Michel Bayle" id="727" weight="1" />
+      <edge source="John Hopkins" target="Wataru Yoshikawa" id="728" weight="1" />
+      <edge source="John Hopkins" target="Andrew Pitt" id="729" weight="5" />
+      <edge source="John Hopkins" target="Makoto Tamada" id="730" weight="22" />
+      <edge source="John Hopkins" target="Marco Melandri" id="731" weight="15" />
+      <edge source="John Hopkins" target="Ryuichi Kiyonari" id="732" weight="6" />
+      <edge source="John Hopkins" target="Colin Edwards" id="733" weight="20" />
+      <edge source="John Hopkins" target="Alex Hofmann" id="734" weight="16" />
+      <edge source="John Hopkins" target="Troy Bayliss" id="735" weight="5" />
+      <edge source="John Hopkins" target="Shane Byrne" id="736" weight="1" />
+      <edge source="John Hopkins" target="Ruben Xaus" id="737" weight="7" />
+      <edge source="John Hopkins" target="Neil Hodgson" id="738" weight="1" />
+      <edge source="John Hopkins" target="Gregorio Lavilla" id="739" weight="1" />
+      <edge source="John Hopkins" target="Toni Elias" id="740" weight="12" />
+      <edge source="John Hopkins" target="Roberto Rolfo" id="741" weight="5" />
+      <edge source="John Hopkins" target="James Ellison" id="742" weight="4" />
+      <edge source="John Hopkins" target="Nicky Hayden" id="743" weight="14" />
+      <edge source="John Hopkins" target="Franco Battaini" id="744" weight="3" />
+      <edge source="John Hopkins" target="David Checa" id="745" weight="1" />
+      <edge source="John Hopkins" target="Chris Vermeulen" id="746" weight="12" />
+      <edge source="John Hopkins" target="Casey Stoner" id="747" weight="10" />
+      <edge source="John Hopkins" target="Randy De Puniet" id="748" weight="10" />
+      <edge source="John Hopkins" target="Kousuke Akiyoshi" id="749" weight="2" />
+      <edge source="John Hopkins" target="Daniel Pedrosa" id="750" weight="6" />
+      <edge source="John Hopkins" target="Sylvain Guintoli" id="751" weight="6" />
+      <edge source="John Hopkins" target="Chaz Davies" id="752" weight="1" />
+      <edge source="John Hopkins" target="James Toseland" id="753" weight="5" />
+      <edge source="John Hopkins" target="Andrea Dovizioso" id="754" weight="3" />
+      <edge source="John Hopkins" target="Alex De Angelis" id="755" weight="1" />
+      <edge source="John Hopkins" target="Jorge Lorenzo" id="756" weight="1" />
+      <edge source="Alex Hofmann" target="Colin Edwards" id="757" weight="8" />
+      <edge source="Alex Hofmann" target="Andrew Pitt" id="758" weight="3" />
+      <edge source="Alex Hofmann" target="Marco Melandri" id="759" weight="4" />
+      <edge source="Alex Hofmann" target="Nicky Hayden" id="760" weight="6" />
+      <edge source="Alex Hofmann" target="Ryuichi Kiyonari" id="761" weight="4" />
+      <edge source="Alex Hofmann" target="Troy Bayliss" id="762" weight="2" />
+      <edge source="Alex Hofmann" target="Michel Fabrizio" id="763" weight="3" />
+      <edge source="Alex Hofmann" target="Neil Hodgson" id="764" weight="2" />
+      <edge source="Alex Hofmann" target="Shane Byrne" id="765" weight="2" />
+      <edge source="Alex Hofmann" target="Makoto Tamada" id="766" weight="7" />
+      <edge source="Alex Hofmann" target="Ruben Xaus" id="767" weight="6" />
+      <edge source="Alex Hofmann" target="Toni Elias" id="768" weight="4" />
+      <edge source="Alex Hofmann" target="James Ellison" id="769" weight="12" />
+      <edge source="Alex Hofmann" target="Franco Battaini" id="770" weight="3" />
+      <edge source="Alex Hofmann" target="Roberto Rolfo" id="771" weight="1" />
+      <edge source="Alex Hofmann" target="Daniel Pedrosa" id="772" weight="4" />
+      <edge source="Alex Hofmann" target="Chris Vermeulen" id="773" weight="5" />
+      <edge source="Alex Hofmann" target="Randy De Puniet" id="774" weight="8" />
+      <edge source="Alex Hofmann" target="Ivan Silva" id="775" weight="1" />
+      <edge source="Alex Hofmann" target="Casey Stoner" id="776" weight="1" />
+      <edge source="Alex Hofmann" target="Sylvain Guintoli" id="777" weight="2" />
+      <edge source="Sylvain Guintoli" target="Toni Elias" id="778" weight="14" />
+      <edge source="Sylvain Guintoli" target="Makoto Tamada" id="779" weight="11" />
+      <edge source="Sylvain Guintoli" target="Randy De Puniet" id="780" weight="8" />
+      <edge source="Sylvain Guintoli" target="Kousuke Akiyoshi" id="781" weight="1" />
+      <edge source="Sylvain Guintoli" target="Colin Edwards" id="782" weight="8" />
+      <edge source="Sylvain Guintoli" target="Nicky Hayden" id="783" weight="4" />
+      <edge source="Sylvain Guintoli" target="Fonsi Nieto" id="784" weight="1" />
+      <edge source="Sylvain Guintoli" target="Kurtis Roberts" id="785" weight="3" />
+      <edge source="Sylvain Guintoli" target="Chris Vermeulen" id="786" weight="7" />
+      <edge source="Sylvain Guintoli" target="Marco Melandri" id="787" weight="7" />
+      <edge source="Sylvain Guintoli" target="Casey Stoner" id="788" weight="1" />
+      <edge source="Sylvain Guintoli" target="Chaz Davies" id="789" weight="1" />
+      <edge source="Sylvain Guintoli" target="Alex De Angelis" id="790" weight="8" />
+      <edge source="Sylvain Guintoli" target="Ben Spies" id="791" weight="2" />
+      <edge source="Sylvain Guintoli" target="James Toseland" id="792" weight="3" />
+      <edge source="Sylvain Guintoli" target="Andrea Dovizioso" id="793" weight="2" />
+      <edge source="Sylvain Guintoli" target="Jamie Hacking" id="794" weight="1" />
+      <edge source="Sylvain Guintoli" target="Jorge Lorenzo" id="795" weight="1" />
+      <edge source="Sylvain Guintoli" target="Daniel Pedrosa" id="796" weight="1" />
+      <edge source="Andrew Pitt" target="Akira Yanagawa" id="797" weight="1" />
+      <edge source="Andrew Pitt" target="Tamaki Serizawa" id="798" weight="2" />
+      <edge source="Andrew Pitt" target="Makoto Tamada" id="799" weight="2" />
+      <edge source="Andrew Pitt" target="Colin Edwards" id="800" weight="3" />
+      <edge source="Andrew Pitt" target="Marco Melandri" id="801" weight="1" />
+      <edge source="Andrew Pitt" target="Ryuichi Kiyonari" id="802" weight="2" />
+      <edge source="Andrew Pitt" target="Nicky Hayden" id="803" weight="1" />
+      <edge source="Andrew Pitt" target="Michel Fabrizio" id="804" weight="3" />
+      <edge source="Andrew Pitt" target="Neil Hodgson" id="805" weight="1" />
+      <edge source="Andrew Pitt" target="Shane Byrne" id="806" weight="1" />
+      <edge source="Troy Bayliss" target="Colin Edwards" id="807" weight="6" />
+      <edge source="Troy Bayliss" target="Nicky Hayden" id="808" weight="7" />
+      <edge source="Troy Bayliss" target="Ryuichi Kiyonari" id="809" weight="1" />
+      <edge source="Troy Bayliss" target="Marco Melandri" id="810" weight="4" />
+      <edge source="Troy Bayliss" target="Makoto Tamada" id="811" weight="7" />
+      <edge source="Troy Bayliss" target="Shane Byrne" id="812" weight="1" />
+      <edge source="Troy Bayliss" target="Ruben Xaus" id="813" weight="7" />
+      <edge source="Troy Bayliss" target="Roberto Rolfo" id="814" weight="1" />
+      <edge source="Troy Bayliss" target="Toni Elias" id="815" weight="1" />
+      <edge source="Colin Edwards" target="Nicky Hayden" id="816" weight="36" />
+      <edge source="Colin Edwards" target="Marco Melandri" id="817" weight="24" />
+      <edge source="Colin Edwards" target="Makoto Tamada" id="818" weight="23" />
+      <edge source="Colin Edwards" target="Ryuichi Kiyonari" id="819" weight="2" />
+      <edge source="Colin Edwards" target="Tamaki Serizawa" id="820" weight="1" />
+      <edge source="Colin Edwards" target="Shane Byrne" id="821" weight="1" />
+      <edge source="Colin Edwards" target="Neil Hodgson" id="822" weight="1" />
+      <edge source="Colin Edwards" target="Ruben Xaus" id="823" weight="5" />
+      <edge source="Colin Edwards" target="Toni Elias" id="824" weight="17" />
+      <edge source="Colin Edwards" target="Chris Vermeulen" id="825" weight="14" />
+      <edge source="Colin Edwards" target="Daniel Pedrosa" id="826" weight="13" />
+      <edge source="Colin Edwards" target="Casey Stoner" id="827" weight="12" />
+      <edge source="Colin Edwards" target="Randy De Puniet" id="828" weight="11" />
+      <edge source="Colin Edwards" target="James Ellison" id="829" weight="1" />
+      <edge source="Colin Edwards" target="Fonsi Nieto" id="830" weight="1" />
+      <edge source="Colin Edwards" target="Roger Lee Hayden" id="831" weight="1" />
+      <edge source="Colin Edwards" target="James Toseland" id="832" weight="13" />
+      <edge source="Colin Edwards" target="Jorge Lorenzo" id="833" weight="7" />
+      <edge source="Colin Edwards" target="Alex De Angelis" id="834" weight="8" />
+      <edge source="Colin Edwards" target="Andrea Dovizioso" id="835" weight="14" />
+      <edge source="Colin Edwards" target="Mika Kallio" id="836" weight="1" />
+      <edge source="Colin Edwards" target="Aleix Espargaro" id="837" weight="2" />
+      <edge source="Colin Edwards" target="Gabor Talmacsi" id="838" weight="2" />
+      <edge source="Nicky Hayden" target="Ryuichi Kiyonari" id="839" weight="4" />
+      <edge source="Nicky Hayden" target="Marco Melandri" id="840" weight="31" />
+      <edge source="Nicky Hayden" target="Makoto Tamada" id="841" weight="11" />
+      <edge source="Nicky Hayden" target="Ruben Xaus" id="842" weight="3" />
+      <edge source="Nicky Hayden" target="Toni Elias" id="843" weight="19" />
+      <edge source="Nicky Hayden" target="Daniel Pedrosa" id="844" weight="17" />
+      <edge source="Nicky Hayden" target="Casey Stoner" id="845" weight="13" />
+      <edge source="Nicky Hayden" target="Dani Pedrosa" id="846" weight="1" />
+      <edge source="Nicky Hayden" target="Chris Vermeulen" id="847" weight="16" />
+      <edge source="Nicky Hayden" target="Randy De Puniet" id="848" weight="9" />
+      <edge source="Nicky Hayden" target="Kurtis Roberts" id="849" weight="1" />
+      <edge source="Nicky Hayden" target="Jorge Lorenzo" id="850" weight="13" />
+      <edge source="Nicky Hayden" target="James Toseland" id="851" weight="8" />
+      <edge source="Nicky Hayden" target="Andrea Dovizioso" id="852" weight="9" />
+      <edge source="Nicky Hayden" target="Alex De Angelis" id="853" weight="6" />
+      <edge source="Nicky Hayden" target="Niccolo Canepa" id="854" weight="1" />
+      <edge source="Nicky Hayden" target="Yuki Takahashi" id="855" weight="1" />
+      <edge source="Nicky Hayden" target="Mika Kallio" id="856" weight="2" />
+      <edge source="Nicky Hayden" target="Gabor Talmacsi" id="857" weight="1" />
+      <edge source="Nicky Hayden" target="Ben Spies" id="858" weight="2" />
+      <edge source="Akira Yanagawa" target="Tamaki Serizawa" id="859" weight="1" />
+      <edge source="Makoto Tamada" target="Ryuichi Kiyonari" id="860" weight="2" />
+      <edge source="Makoto Tamada" target="Marco Melandri" id="861" weight="3" />
+      <edge source="Makoto Tamada" target="Neil Hodgson" id="862" weight="1" />
+      <edge source="Makoto Tamada" target="Shane Byrne" id="863" weight="2" />
+      <edge source="Makoto Tamada" target="James Haydon" id="864" weight="1" />
+      <edge source="Makoto Tamada" target="Ruben Xaus" id="865" weight="1" />
+      <edge source="Makoto Tamada" target="David Checa" id="866" weight="1" />
+      <edge source="Makoto Tamada" target="Toni Elias" id="867" weight="13" />
+      <edge source="Makoto Tamada" target="Roberto Rolfo" id="868" weight="1" />
+      <edge source="Makoto Tamada" target="Chris Vermeulen" id="869" weight="7" />
+      <edge source="Makoto Tamada" target="James Ellison" id="870" weight="5" />
+      <edge source="Makoto Tamada" target="Randy De Puniet" id="871" weight="7" />
+      <edge source="Makoto Tamada" target="Casey Stoner" id="872" weight="1" />
+      <edge source="Makoto Tamada" target="Fonsi Nieto" id="873" weight="1" />
+      <edge source="Makoto Tamada" target="Kurtis Roberts" id="874" weight="7" />
+      <edge source="Makoto Tamada" target="Roger Lee Hayden" id="875" weight="1" />
+      <edge source="Makoto Tamada" target="Ivan Silva" id="876" weight="1" />
+      <edge source="Makoto Tamada" target="Chaz Davies" id="877" weight="1" />
+      <edge source="Marco Melandri" target="Ryuichi Kiyonari" id="878" weight="3" />
+      <edge source="Marco Melandri" target="Shane Byrne" id="879" weight="1" />
+      <edge source="Marco Melandri" target="Neil Hodgson" id="880" weight="2" />
+      <edge source="Marco Melandri" target="Toni Elias" id="881" weight="15" />
+      <edge source="Marco Melandri" target="Casey Stoner" id="882" weight="17" />
+      <edge source="Marco Melandri" target="Daniel Pedrosa" id="883" weight="16" />
+      <edge source="Marco Melandri" target="Chris Vermeulen" id="884" weight="23" />
+      <edge source="Marco Melandri" target="Randy De Puniet" id="885" weight="10" />
+      <edge source="Marco Melandri" target="Dani Pedrosa" id="886" weight="1" />
+      <edge source="Marco Melandri" target="Alex De Angelis" id="887" weight="9" />
+      <edge source="Marco Melandri" target="Jorge Lorenzo" id="888" weight="2" />
+      <edge source="Marco Melandri" target="Ben Spies" id="889" weight="1" />
+      <edge source="Marco Melandri" target="James Toseland" id="890" weight="6" />
+      <edge source="Marco Melandri" target="Andrea Dovizioso" id="891" weight="4" />
+      <edge source="Marco Melandri" target="Yuki Takahashi" id="892" weight="1" />
+      <edge source="Marco Melandri" target="Niccolo Canepa" id="893" weight="5" />
+      <edge source="Marco Melandri" target="Mika Kallio" id="894" weight="4" />
+      <edge source="Marco Melandri" target="Gabor Talmacsi" id="895" weight="3" />
+      <edge source="Ryuichi Kiyonari" target="Chris Burns" id="896" weight="1" />
+      <edge source="Ryuichi Kiyonari" target="Toni Elias" id="897" weight="2" />
+      <edge source="Chris Burns" target="Michel Fabrizio" id="898" weight="2" />
+      <edge source="Chris Burns" target="Shane Byrne" id="899" weight="1" />
+      <edge source="Shane Byrne" target="Neil Hodgson" id="900" weight="3" />
+      <edge source="Shane Byrne" target="Michel Fabrizio" id="901" weight="1" />
+      <edge source="Shane Byrne" target="Ruben Xaus" id="902" weight="4" />
+      <edge source="Shane Byrne" target="Toni Elias" id="903" weight="2" />
+      <edge source="Shane Byrne" target="James Ellison" id="904" weight="5" />
+      <edge source="Shane Byrne" target="Roberto Rolfo" id="905" weight="5" />
+      <edge source="Shane Byrne" target="Franco Battaini" id="906" weight="3" />
+      <edge source="Shane Byrne" target="David Checa" id="907" weight="1" />
+      <edge source="Michel Fabrizio" target="Ruben Xaus" id="908" weight="1" />
+      <edge source="Michel Fabrizio" target="Kurtis Roberts" id="909" weight="2" />
+      <edge source="Michel Fabrizio" target="Neil Hodgson" id="910" weight="1" />
+      <edge source="Michel Fabrizio" target="Chris Vermeulen" id="911" weight="1" />
+      <edge source="Ruben Xaus" target="Kurtis Roberts" id="912" weight="1" />
+      <edge source="Ruben Xaus" target="Neil Hodgson" id="913" weight="2" />
+      <edge source="Ruben Xaus" target="James Ellison" id="914" weight="3" />
+      <edge source="Ruben Xaus" target="Franco Battaini" id="915" weight="7" />
+      <edge source="Ruben Xaus" target="Toni Elias" id="916" weight="3" />
+      <edge source="Ruben Xaus" target="Roberto Rolfo" id="917" weight="5" />
+      <edge source="Ruben Xaus" target="Chris Vermeulen" id="918" weight="1" />
+      <edge source="Kurtis Roberts" target="Toni Elias" id="919" weight="2" />
+      <edge source="Kurtis Roberts" target="Chris Vermeulen" id="920" weight="2" />
+      <edge source="Kurtis Roberts" target="Ivan Silva" id="921" weight="1" />
+      <edge source="Neil Hodgson" target="Gregorio Lavilla" id="922" weight="3" />
+      <edge source="Neil Hodgson" target="James Haydon" id="923" weight="1" />
+      <edge source="James Ellison" target="James Haydon" id="924" weight="2" />
+      <edge source="James Ellison" target="Youichi Ui" id="925" weight="2" />
+      <edge source="James Ellison" target="Gregorio Lavilla" id="926" weight="2" />
+      <edge source="James Ellison" target="Roberto Rolfo" id="927" weight="5" />
+      <edge source="James Ellison" target="Franco Battaini" id="928" weight="7" />
+      <edge source="James Ellison" target="Toni Elias" id="929" weight="4" />
+      <edge source="James Ellison" target="Chris Vermeulen" id="930" weight="2" />
+      <edge source="James Ellison" target="Randy De Puniet" id="931" weight="2" />
+      <edge source="James Ellison" target="Ivan Silva" id="932" weight="1" />
+      <edge source="James Ellison" target="Daniel Pedrosa" id="933" weight="1" />
+      <edge source="James Ellison" target="Kousuke Akiyoshi" id="934" weight="1" />
+      <edge source="James Haydon" target="Youichi Ui" id="935" weight="1" />
+      <edge source="Toni Elias" target="Roberto Rolfo" id="936" weight="5" />
+      <edge source="Toni Elias" target="Franco Battaini" id="937" weight="1" />
+      <edge source="Toni Elias" target="Chris Vermeulen" id="938" weight="15" />
+      <edge source="Toni Elias" target="Daniel Pedrosa" id="939" weight="9" />
+      <edge source="Toni Elias" target="Casey Stoner" id="940" weight="6" />
+      <edge source="Toni Elias" target="Randy De Puniet" id="941" weight="12" />
+      <edge source="Toni Elias" target="Dani Pedrosa" id="942" weight="1" />
+      <edge source="Toni Elias" target="Alex De Angelis" id="943" weight="10" />
+      <edge source="Toni Elias" target="James Toseland" id="944" weight="3" />
+      <edge source="Toni Elias" target="Ben Spies" id="945" weight="3" />
+      <edge source="Toni Elias" target="Jorge Lorenzo" id="946" weight="1" />
+      <edge source="Toni Elias" target="Mika Kallio" id="947" weight="4" />
+      <edge source="Toni Elias" target="Andrea Dovizioso" id="948" weight="5" />
+      <edge source="Toni Elias" target="Niccolo Canepa" id="949" weight="1" />
+      <edge source="Roberto Rolfo" target="Franco Battaini" id="950" weight="7" />
+      <edge source="Roberto Rolfo" target="David Checa" id="951" weight="2" />
+      <edge source="Roberto Rolfo" target="Chris Vermeulen" id="952" weight="1" />
+      <edge source="Franco Battaini" target="David Checa" id="953" weight="1" />
+      <edge source="Chris Vermeulen" target="Randy De Puniet" id="954" weight="14" />
+      <edge source="Chris Vermeulen" target="Kousuke Akiyoshi" id="955" weight="1" />
+      <edge source="Chris Vermeulen" target="Casey Stoner" id="956" weight="11" />
+      <edge source="Chris Vermeulen" target="Daniel Pedrosa" id="957" weight="5" />
+      <edge source="Chris Vermeulen" target="Andrea Dovizioso" id="958" weight="9" />
+      <edge source="Chris Vermeulen" target="James Toseland" id="959" weight="9" />
+      <edge source="Chris Vermeulen" target="Jorge Lorenzo" id="960" weight="4" />
+      <edge source="Chris Vermeulen" target="Alex De Angelis" id="961" weight="5" />
+      <edge source="Chris Vermeulen" target="Mika Kallio" id="962" weight="4" />
+      <edge source="Chris Vermeulen" target="Yuki Takahashi" id="963" weight="1" />
+      <edge source="Chris Vermeulen" target="Niccolo Canepa" id="964" weight="3" />
+      <edge source="Chris Vermeulen" target="Gabor Talmacsi" id="965" weight="6" />
+      <edge source="Chris Vermeulen" target="Aleix Espargaro" id="966" weight="3" />
+      <edge source="Daniel Pedrosa" target="Casey Stoner" id="967" weight="25" />
+      <edge source="Daniel Pedrosa" target="Randy De Puniet" id="968" weight="11" />
+      <edge source="Daniel Pedrosa" target="Jorge Lorenzo" id="969" weight="13" />
+      <edge source="Daniel Pedrosa" target="Andrea Dovizioso" id="970" weight="8" />
+      <edge source="Daniel Pedrosa" target="Alex De Angelis" id="971" weight="4" />
+      <edge source="Daniel Pedrosa" target="James Toseland" id="972" weight="2" />
+      <edge source="Daniel Pedrosa" target="Ben Spies" id="973" weight="1" />
+      <edge source="Daniel Pedrosa" target="Niccolo Canepa" id="974" weight="1" />
+      <edge source="Daniel Pedrosa" target="Mika Kallio" id="975" weight="2" />
+      <edge source="Casey Stoner" target="Jorge Lorenzo" id="976" weight="11" />
+      <edge source="Casey Stoner" target="James Toseland" id="977" weight="1" />
+      <edge source="Casey Stoner" target="Alex De Angelis" id="978" weight="2" />
+      <edge source="Casey Stoner" target="Andrea Dovizioso" id="979" weight="5" />
+      <edge source="Casey Stoner" target="Ben Spies" id="980" weight="1" />
+      <edge source="Casey Stoner" target="Randy De Puniet" id="981" weight="1" />
+      <edge source="Casey Stoner" target="Gabor Talmacsi" id="982" weight="1" />
+      <edge source="Casey Stoner" target="Dani Pedrosa" id="983" weight="1" />
+      <edge source="Randy De Puniet" target="Ivan Silva" id="984" weight="1" />
+      <edge source="Randy De Puniet" target="Andrea Dovizioso" id="985" weight="5" />
+      <edge source="Randy De Puniet" target="James Toseland" id="986" weight="8" />
+      <edge source="Randy De Puniet" target="Ben Spies" id="987" weight="2" />
+      <edge source="Randy De Puniet" target="Mika Kallio" id="988" weight="5" />
+      <edge source="Randy De Puniet" target="Yuki Takahashi" id="989" weight="1" />
+      <edge source="Randy De Puniet" target="Niccolo Canepa" id="990" weight="4" />
+      <edge source="Randy De Puniet" target="Alex De Angelis" id="991" weight="5" />
+      <edge source="Randy De Puniet" target="Aleix Espargaro" id="992" weight="3" />
+      <edge source="Randy De Puniet" target="Gabor Talmacsi" id="993" weight="1" />
+      <edge source="Dani Pedrosa" target="Jorge Lorenzo" id="994" weight="2" />
+      <edge source="Jorge Lorenzo" target="Andrea Dovizioso" id="995" weight="8" />
+      <edge source="Jorge Lorenzo" target="Alex De Angelis" id="996" weight="3" />
+      <edge source="Jorge Lorenzo" target="James Toseland" id="997" weight="1" />
+      <edge source="Andrea Dovizioso" target="James Toseland" id="998" weight="10" />
+      <edge source="Andrea Dovizioso" target="Alex De Angelis" id="999" weight="7" />
+      <edge source="Andrea Dovizioso" target="Ben Spies" id="1000" weight="3" />
+      <edge source="Andrea Dovizioso" target="Mika Kallio" id="1001" weight="2" />
+      <edge source="James Toseland" target="Alex De Angelis" id="1002" weight="10" />
+      <edge source="James Toseland" target="Ben Spies" id="1003" weight="1" />
+      <edge source="James Toseland" target="Jamie Hacking" id="1004" weight="1" />
+      <edge source="James Toseland" target="Yuki Takahashi" id="1005" weight="2" />
+      <edge source="James Toseland" target="Niccolo Canepa" id="1006" weight="4" />
+      <edge source="James Toseland" target="Mika Kallio" id="1007" weight="1" />
+      <edge source="James Toseland" target="Gabor Talmacsi" id="1008" weight="3" />
+      <edge source="James Toseland" target="Aleix Espargaro" id="1009" weight="2" />
+      <edge source="Alex De Angelis" target="Ben Spies" id="1010" weight="1" />
+      <edge source="Alex De Angelis" target="Jamie Hacking" id="1011" weight="1" />
+      <edge source="Alex De Angelis" target="Mika Kallio" id="1012" weight="6" />
+      <edge source="Alex De Angelis" target="Yuki Takahashi" id="1013" weight="2" />
+      <edge source="Alex De Angelis" target="Niccolo Canepa" id="1014" weight="2" />
+      <edge source="Alex De Angelis" target="Aleix Espargaro" id="1015" weight="2" />
+      <edge source="Alex De Angelis" target="Gabor Talmacsi" id="1016" weight="2" />
+      <edge source="Ben Spies" target="Mika Kallio" id="1017" weight="2" />
+      <edge source="Mika Kallio" target="Niccolo Canepa" id="1018" weight="2" />
+      <edge source="Mika Kallio" target="Gabor Talmacsi" id="1019" weight="2" />
+      <edge source="Mika Kallio" target="Aleix Espargaro" id="1020" weight="2" />
+      <edge source="Yuki Takahashi" target="Niccolo Canepa" id="1021" weight="3" />
+      <edge source="Yuki Takahashi" target="Gabor Talmacsi" id="1022" weight="1" />
+      <edge source="Niccolo Canepa" target="Gabor Talmacsi" id="1023" weight="4" />
+      <edge source="Gabor Talmacsi" target="Aleix Espargaro" id="1024" weight="1" />
+    </edges>
+  </graph>
+</gexf>
